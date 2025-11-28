@@ -1,0 +1,9 @@
+.hotel-card {
+  padding: 0.6rem;
+  border-radius: 8px;
+  background: white;
+  border: 1px solid #eef2ff;
+  box-shadow: 0 4px 10px rgba(12, 18, 40, 0.04);
+}
+.hotel-title { font-weight: 700; margin-bottom: 0.2rem }
+.hotel-desc { color: #666; font-size: 0.9rem }
