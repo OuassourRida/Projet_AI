@@ -1,1 +1,1 @@
-# Package initializer for models (placeholder)
+# Modèles ML pour le système de recommandation
