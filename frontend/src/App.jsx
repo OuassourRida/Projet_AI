@@ -1,96 +1,139 @@
-import React, { useEffect, useState } from 'react'
-import { hotelService, apiUtils } from './services/api'
-import HotelCard from './components/HotelCard'
-import Recommendations from './components/Recommendations'
-import UserProfile from './components/UserProfile'
-import './App.css'
+import React, { useState, useEffect } from 'react';
+import { getHotels, getRecommendations } from './services/api';
+import HotelCard from './components/HotelCard';
+import Recommendations from './components/Recommendations';
+import './App.css';
 
-export default function App() {
-  const [hotels, setHotels] = useState([])
-  const [loading, setLoading] = useState(true)
-  const [userRatings, setUserRatings] = useState({})
-  const [recommendations, setRecommendations] = useState([])
-  const [error, setError] = useState(null)
+function App() {
+  const [hotels, setHotels] = useState([]);
+  const [userRatings, setUserRatings] = useState({});
+  const [recommendations, setRecommendations] = useState([]);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+  const [step, setStep] = useState('rating'); // 'rating' or 'recommendations'
 
   useEffect(() => {
-    async function load() {
-      try {
-        const data = await hotelService.getAllHotels()
-        // data may be an array or object depending on API; handle both
-        setHotels(Array.isArray(data) ? data : data)
-      } catch (e) {
-        setError(apiUtils.formatError(e))
-      } finally {
-        setLoading(false)
-      }
-    }
+    loadHotels();
+  }, []);
 
-    load()
-  }, [])
-
-  const handleRate = (hotelId, rating) => {
-    setUserRatings((prev) => ({ ...prev, [hotelId]: rating }))
-  }
-
-  const handleRequestRecommendations = async () => {
-    if (!userRatings || Object.keys(userRatings).length === 0) {
-      setError('Veuillez noter au moins un hôtel avant de générer des recommandations.')
-      return
-    }
-
+  const loadHotels = async () => {
+    setLoading(true);
+    setError(null);
     try {
-      setLoading(true)
-      setError(null)
-      const recs = await hotelService.getRecommendations(userRatings, 5)
-      setRecommendations(Array.isArray(recs) ? recs : recs)
-    } catch (e) {
-      // show detailed message when available
-      setError(apiUtils.formatError(e))
-      setRecommendations([])
+      const data = await getHotels();
+      setHotels(data);
+    } catch (err) {
+      setError('Impossible de charger les hôtels. Assurez-vous que le serveur est lancé.');
+      console.error('Error loading hotels:', err);
     } finally {
-      setLoading(false)
+      setLoading(false);
     }
-  }
+  };
+
+  const handleRatingChange = (hotelId, rating) => {
+    setUserRatings(prev => ({
+      ...prev,
+      [hotelId]: rating
+    }));
+  };
+
+  const handleGetRecommendations = async () => {
+    setLoading(true);
+    setError(null);
+    try {
+      // Formater les ratings pour l'API
+      const ratings = Object.entries(userRatings).map(([hotel_id, rating]) => ({
+        hotel_id,
+        rating
+      }));
+
+      if (ratings.length === 0) {
+        setError('Veuillez noter au moins un hôtel.');
+        setLoading(false);
+        return;
+      }
+
+      const data = await getRecommendations(ratings);
+      setRecommendations(data);
+      setStep('recommendations');
+    } catch (err) {
+      setError('Erreur lors de la génération des recommandations. Vérifiez le serveur.');
+      console.error('Error getting recommendations:', err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleResetRatings = () => {
+    setUserRatings({});
+    setRecommendations([]);
+    setStep('rating');
+    setError(null);
+  };
 
   return (
-    <div className="app-container">
-      <header>
-        <h1>Recommande-moi Marrakech — Hôtels</h1>
+    <div className="App">
+      <header className="app-header">
+        <h1>🏨 Système de Recommandation d'Hôtels Marrakech</h1>
+        <p>Notez quelques hôtels pour recevoir des recommandations personnalisées</p>
       </header>
 
-      <main>
-        <UserProfile onSubmitRatings={() => handleRequestRecommendations()} initialRatings={{}} />
-
-        {error && <div className="error">{error}</div>}
-
-        <section>
-          <h2>Liste des hôtels</h2>
-          {loading && <div>Chargement...</div>}
-
-          {!loading && (
-            <div className="hotels-grid">
-              {hotels.map((h) => (
-                <HotelCard key={h.hotel_id} hotel={h} onRate={handleRate} />
-              ))}
-            </div>
-          )}
-        </section>
-
-        <section style={{ marginTop: 24 }}>
-          <Recommendations recommendations={recommendations} />
-        </section>
-
-        <div style={{ marginTop: 24 }}>
-          <button onClick={handleRequestRecommendations} disabled={!userRatings || Object.keys(userRatings).length === 0}>
-            Générer recommandations
-          </button>
-          {!userRatings || Object.keys(userRatings).length === 0 ? (
-            <div style={{ color: '#6b7280', marginTop: 8 }}>Notez au moins un hôtel pour activer le bouton.</div>
-          ) : (
-            <div style={{ color: '#6b7280', marginTop: 8 }}>{Object.keys(userRatings).length} hôtels notés</div>
-          )}
+      {error && (
+        <div className="error-banner">
+          <p>⚠️ {error}</p>
         </div>
-      </main>
+      )}
+
+      {loading && (
+        <div className="loading">
+          <p>Chargement...</p>
+        </div>
+      )}
+
+      {!loading && step === 'rating' && (
+        <div className="rating-section">
+          <div className="section-header">
+            <h2>Étape 1: Évaluez les hôtels</h2>
+            <p>({Object.keys(userRatings).length} hôtels notés)</p>
+          </div>
+
+          <div className="hotels-grid">
+            {hotels.length === 0 ? (
+              <p className="no-data">Aucun hôtel disponible</p>
+            ) : (
+              hotels.map(hotel => (
+                <HotelCard
+                  key={hotel.hotel_id}
+                  hotel={hotel}
+                  rating={userRatings[hotel.hotel_id] || 0}
+                  onRatingChange={handleRatingChange}
+                />
+              ))
+            )}
+          </div>
+
+          <div className="action-buttons">
+            <button
+              className="btn btn-primary"
+              onClick={handleGetRecommendations}
+              disabled={Object.keys(userRatings).length === 0}
+            >
+              Obtenir les recommandations →
+            </button>
+          </div>
+        </div>
+      )}
+
+      {!loading && step === 'recommendations' && (
+        <div className="recommendations-section">
+          <Recommendations
+            recommendations={recommendations}
+            onReset={handleResetRatings}
+          />
+        </div>
+      )}
     </div>
-  )
+  );
 }
+
+export default App;

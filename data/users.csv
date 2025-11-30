@@ -1,2001 +1,2001 @@
 user_id,age,type_voyage,budget,nationalite
-U0001,53,Familial,Moyen,Faroe Islands
-U0002,65,Familial,Luxe,Liberia
-U0003,34,Romantique,Luxe,Equatorial Guinea
-U0004,67,Affaires,Luxe,Guinea
-U0005,58,Romantique,Luxe,Suriname
-U0006,46,Romantique,Luxe,United States Minor Outlying Islands
-U0007,33,Affaires,Luxe,Saint Helena
-U0008,38,Familial,Moyen,Svalbard & Jan Mayen Islands
-U0009,26,Romantique,Moyen,Tokelau
-U0010,42,Affaires,Moyen,Syrian Arab Republic
-U0011,63,Romantique,Moyen,Congo
-U0012,44,Familial,Luxe,Bulgaria
-U0013,52,Familial,Luxe,Ecuador
-U0014,21,Solo,Économique,Monaco
-U0015,44,Familial,Moyen,Tunisia
-U0016,66,Affaires,Luxe,Hungary
-U0017,48,Romantique,Luxe,Maldives
-U0018,37,Affaires,Luxe,Andorra
-U0019,52,Affaires,Moyen,Peru
-U0020,49,Romantique,Luxe,Saint Martin
-U0021,45,Familial,Moyen,Portugal
-U0022,42,Familial,Luxe,Ethiopia
-U0023,64,Romantique,Luxe,Kenya
-U0024,26,Familial,Moyen,Norway
-U0025,43,Affaires,Moyen,Italy
-U0026,23,Groupe,Économique,Nauru
-U0027,26,Affaires,Moyen,Greenland
-U0028,21,Groupe,Économique,Uganda
-U0029,42,Familial,Moyen,French Polynesia
-U0030,47,Familial,Luxe,Turkmenistan
-U0031,66,Familial,Luxe,South Georgia and the South Sandwich Islands
-U0032,66,Familial,Luxe,Brunei Darussalam
-U0033,23,Groupe,Économique,Turkmenistan
-U0034,19,Solo,Économique,Saint Barthelemy
-U0035,40,Romantique,Moyen,Montserrat
-U0036,67,Affaires,Moyen,Congo
-U0037,66,Romantique,Moyen,Nepal
-U0038,30,Romantique,Moyen,Micronesia
-U0039,33,Romantique,Luxe,Argentina
-U0040,60,Romantique,Moyen,Saint Lucia
-U0041,47,Affaires,Luxe,Turks and Caicos Islands
-U0042,67,Familial,Moyen,Chad
-U0043,56,Affaires,Moyen,Benin
-U0044,67,Romantique,Luxe,Martinique
-U0045,24,Solo,Économique,Kuwait
-U0046,37,Familial,Luxe,Moldova
-U0047,43,Affaires,Moyen,Uganda
-U0048,22,Solo,Économique,Guernsey
-U0049,24,Groupe,Économique,Slovakia (Slovak Republic)
-U0050,61,Affaires,Moyen,Malta
-U0051,68,Affaires,Moyen,Hungary
-U0052,40,Affaires,Luxe,Reunion
-U0053,60,Familial,Moyen,Colombia
-U0054,50,Affaires,Luxe,Suriname
-U0055,18,Groupe,Économique,Japan
-U0056,70,Familial,Moyen,Svalbard & Jan Mayen Islands
-U0057,45,Familial,Luxe,India
-U0058,63,Romantique,Luxe,Chile
-U0059,29,Familial,Luxe,Austria
-U0060,57,Affaires,Luxe,New Caledonia
-U0061,47,Familial,Luxe,Guernsey
-U0062,38,Romantique,Moyen,French Southern Territories
-U0063,35,Affaires,Moyen,United Kingdom
-U0064,66,Familial,Luxe,Aruba
-U0065,39,Romantique,Luxe,Iceland
-U0066,38,Romantique,Luxe,Isle of Man
-U0067,31,Affaires,Luxe,Lao People's Democratic Republic
-U0068,39,Affaires,Luxe,Gambia
-U0069,53,Romantique,Moyen,Belgium
-U0070,23,Solo,Économique,Dominica
-U0071,64,Familial,Luxe,Tokelau
-U0072,53,Romantique,Luxe,Cameroon
-U0073,59,Affaires,Luxe,Kiribati
-U0074,46,Romantique,Moyen,Cayman Islands
-U0075,36,Romantique,Luxe,Saint Pierre and Miquelon
-U0076,62,Romantique,Luxe,Cook Islands
-U0077,60,Affaires,Luxe,Serbia
-U0078,48,Affaires,Luxe,Russian Federation
-U0079,45,Affaires,Luxe,Costa Rica
-U0080,40,Affaires,Luxe,South Africa
-U0081,35,Affaires,Luxe,Luxembourg
-U0082,32,Romantique,Moyen,Northern Mariana Islands
-U0083,38,Romantique,Moyen,Papua New Guinea
-U0084,30,Romantique,Luxe,Brazil
-U0085,35,Familial,Luxe,Norfolk Island
-U0086,24,Solo,Économique,Libyan Arab Jamahiriya
-U0087,36,Romantique,Luxe,Tuvalu
-U0088,29,Affaires,Moyen,Costa Rica
-U0089,63,Affaires,Moyen,Iraq
-U0090,35,Romantique,Moyen,Eritrea
-U0091,53,Familial,Moyen,Saint Vincent and the Grenadines
-U0092,58,Familial,Moyen,Turks and Caicos Islands
-U0093,18,Groupe,Économique,French Guiana
-U0094,48,Familial,Luxe,Suriname
-U0095,39,Romantique,Moyen,Rwanda
-U0096,34,Affaires,Moyen,Brazil
-U0097,70,Romantique,Luxe,Tanzania
-U0098,49,Romantique,Moyen,Belgium
-U0099,27,Romantique,Luxe,Thailand
-U0100,23,Solo,Économique,Peru
-U0101,25,Familial,Luxe,Bangladesh
-U0102,56,Affaires,Moyen,Ukraine
-U0103,67,Affaires,Luxe,Burkina Faso
-U0104,46,Familial,Luxe,Algeria
-U0105,55,Familial,Luxe,Albania
-U0106,54,Affaires,Moyen,Saint Vincent and the Grenadines
-U0107,57,Affaires,Moyen,Sri Lanka
-U0108,66,Romantique,Moyen,Turkey
-U0109,34,Familial,Moyen,Saint Vincent and the Grenadines
-U0110,28,Romantique,Moyen,Iraq
-U0111,53,Romantique,Moyen,Saint Lucia
-U0112,18,Groupe,Économique,Vanuatu
-U0113,46,Affaires,Luxe,Sao Tome and Principe
-U0114,36,Romantique,Moyen,Vietnam
-U0115,36,Familial,Luxe,Sierra Leone
-U0116,62,Familial,Moyen,Syrian Arab Republic
-U0117,61,Romantique,Luxe,Kiribati
-U0118,68,Affaires,Moyen,Papua New Guinea
-U0119,45,Romantique,Moyen,Lebanon
-U0120,59,Romantique,Luxe,Rwanda
-U0121,70,Romantique,Moyen,Netherlands
-U0122,21,Solo,Économique,Italy
-U0123,68,Familial,Luxe,Saint Helena
-U0124,46,Romantique,Luxe,Belarus
-U0125,62,Familial,Luxe,Nigeria
-U0126,35,Familial,Luxe,Honduras
-U0127,46,Romantique,Moyen,Zimbabwe
-U0128,45,Affaires,Luxe,Bhutan
-U0129,56,Familial,Moyen,Faroe Islands
-U0130,23,Solo,Économique,San Marino
-U0131,61,Affaires,Moyen,Colombia
-U0132,66,Affaires,Luxe,Saint Helena
-U0133,54,Romantique,Moyen,Poland
-U0134,48,Affaires,Luxe,Chile
-U0135,35,Romantique,Luxe,Kuwait
-U0136,58,Familial,Moyen,British Indian Ocean Territory (Chagos Archipelago)
-U0137,48,Familial,Luxe,Saint Barthelemy
-U0138,39,Affaires,Moyen,Azerbaijan
-U0139,28,Affaires,Luxe,Bulgaria
-U0140,62,Familial,Luxe,Egypt
-U0141,60,Familial,Moyen,Ethiopia
-U0142,47,Romantique,Luxe,Dominican Republic
-U0143,34,Affaires,Moyen,Georgia
-U0144,67,Familial,Moyen,Sri Lanka
-U0145,60,Affaires,Luxe,French Southern Territories
-U0146,44,Romantique,Moyen,Zambia
-U0147,51,Familial,Luxe,Russian Federation
-U0148,58,Familial,Moyen,Cameroon
-U0149,31,Affaires,Moyen,Gambia
-U0150,36,Affaires,Luxe,Romania
-U0151,25,Romantique,Moyen,Faroe Islands
-U0152,63,Romantique,Luxe,Martinique
-U0153,53,Romantique,Luxe,Solomon Islands
-U0154,23,Solo,Économique,Latvia
-U0155,25,Affaires,Moyen,Saint Barthelemy
-U0156,59,Romantique,Luxe,Samoa
-U0157,63,Familial,Luxe,Kyrgyz Republic
-U0158,44,Familial,Luxe,Netherlands Antilles
-U0159,33,Affaires,Moyen,Turkmenistan
-U0160,42,Romantique,Moyen,Tunisia
-U0161,22,Groupe,Économique,Netherlands
-U0162,67,Familial,Luxe,Rwanda
-U0163,68,Affaires,Luxe,Jordan
-U0164,70,Romantique,Luxe,Solomon Islands
-U0165,64,Familial,Luxe,Canada
-U0166,27,Affaires,Luxe,Saint Lucia
-U0167,40,Familial,Luxe,Sao Tome and Principe
-U0168,47,Familial,Moyen,Anguilla
-U0169,62,Romantique,Luxe,Andorra
-U0170,32,Affaires,Moyen,United States of America
-U0171,38,Familial,Luxe,Vietnam
-U0172,63,Familial,Luxe,Guinea
-U0173,60,Affaires,Moyen,Malta
-U0174,49,Romantique,Moyen,Lithuania
-U0175,50,Affaires,Luxe,South Georgia and the South Sandwich Islands
-U0176,24,Groupe,Économique,Northern Mariana Islands
-U0177,24,Groupe,Économique,Dominica
-U0178,18,Solo,Économique,New Caledonia
-U0179,44,Affaires,Moyen,Papua New Guinea
-U0180,22,Groupe,Économique,Gambia
-U0181,68,Familial,Luxe,Croatia
-U0182,57,Affaires,Luxe,Germany
-U0183,59,Romantique,Luxe,Slovakia (Slovak Republic)
-U0184,61,Affaires,Luxe,Guatemala
-U0185,38,Familial,Luxe,Zambia
-U0186,52,Romantique,Moyen,Vanuatu
-U0187,33,Familial,Luxe,Lebanon
-U0188,32,Familial,Moyen,Comoros
-U0189,45,Romantique,Moyen,Maldives
-U0190,46,Romantique,Luxe,Iceland
-U0191,19,Solo,Économique,Palau
-U0192,38,Romantique,Luxe,Congo
-U0193,40,Familial,Luxe,United Arab Emirates
-U0194,27,Romantique,Luxe,Saint Vincent and the Grenadines
-U0195,54,Affaires,Moyen,Nicaragua
-U0196,28,Romantique,Moyen,Poland
-U0197,57,Familial,Moyen,Papua New Guinea
-U0198,49,Affaires,Moyen,Uganda
-U0199,32,Affaires,Luxe,Marshall Islands
-U0200,47,Familial,Moyen,Vanuatu
-U0201,69,Familial,Luxe,Montenegro
-U0202,61,Affaires,Moyen,Gibraltar
-U0203,22,Groupe,Économique,Saint Barthelemy
-U0204,40,Affaires,Luxe,India
-U0205,58,Familial,Luxe,Kazakhstan
-U0206,47,Familial,Moyen,Cameroon
+U0001,53,Familial,Moyen,Antigua and Barbuda
+U0002,65,Familial,Luxe,Korea
+U0003,34,Romantique,Luxe,Cambodia
+U0004,67,Affaires,Luxe,Reunion
+U0005,58,Romantique,Luxe,Fiji
+U0006,46,Romantique,Luxe,Aruba
+U0007,33,Affaires,Luxe,Tajikistan
+U0008,38,Familial,Moyen,Canada
+U0009,26,Romantique,Moyen,Uruguay
+U0010,42,Affaires,Moyen,Namibia
+U0011,63,Romantique,Moyen,Faroe Islands
+U0012,44,Familial,Luxe,Thailand
+U0013,52,Familial,Luxe,Seychelles
+U0014,21,Solo,Économique,Netherlands Antilles
+U0015,44,Familial,Moyen,Mexico
+U0016,66,Affaires,Luxe,Morocco
+U0017,48,Romantique,Luxe,Equatorial Guinea
+U0018,37,Affaires,Luxe,Cayman Islands
+U0019,52,Affaires,Moyen,Lithuania
+U0020,49,Romantique,Luxe,Dominican Republic
+U0021,45,Familial,Moyen,South Africa
+U0022,42,Familial,Luxe,India
+U0023,64,Romantique,Luxe,Saint Martin
+U0024,26,Familial,Moyen,Guernsey
+U0025,43,Affaires,Moyen,Guinea
+U0026,23,Groupe,Économique,Zambia
+U0027,26,Affaires,Moyen,Guadeloupe
+U0028,21,Groupe,Économique,Somalia
+U0029,42,Familial,Moyen,Burundi
+U0030,47,Familial,Luxe,Wallis and Futuna
+U0031,66,Familial,Luxe,Iceland
+U0032,66,Familial,Luxe,Austria
+U0033,23,Groupe,Économique,Mauritania
+U0034,19,Solo,Économique,Malaysia
+U0035,40,Romantique,Moyen,Zambia
+U0036,67,Affaires,Moyen,Cote d'Ivoire
+U0037,66,Romantique,Moyen,Somalia
+U0038,30,Romantique,Moyen,Liberia
+U0039,33,Romantique,Luxe,Myanmar
+U0040,60,Romantique,Moyen,Somalia
+U0041,47,Affaires,Luxe,French Guiana
+U0042,67,Familial,Moyen,Mexico
+U0043,56,Affaires,Moyen,Greenland
+U0044,67,Romantique,Luxe,Saint Vincent and the Grenadines
+U0045,24,Solo,Économique,Guadeloupe
+U0046,37,Familial,Luxe,Puerto Rico
+U0047,43,Affaires,Moyen,Aruba
+U0048,22,Solo,Économique,Kenya
+U0049,24,Groupe,Économique,Guinea-Bissau
+U0050,61,Affaires,Moyen,Belarus
+U0051,68,Affaires,Moyen,Algeria
+U0052,40,Affaires,Luxe,United States Minor Outlying Islands
+U0053,60,Familial,Moyen,Peru
+U0054,50,Affaires,Luxe,Northern Mariana Islands
+U0055,18,Groupe,Économique,Cameroon
+U0056,70,Familial,Moyen,Colombia
+U0057,45,Familial,Luxe,Vietnam
+U0058,63,Romantique,Luxe,Tuvalu
+U0059,29,Familial,Luxe,Puerto Rico
+U0060,57,Affaires,Luxe,Anguilla
+U0061,47,Familial,Luxe,United States of America
+U0062,38,Romantique,Moyen,Denmark
+U0063,35,Affaires,Moyen,Hong Kong
+U0064,66,Familial,Luxe,Iran
+U0065,39,Romantique,Luxe,Iraq
+U0066,38,Romantique,Luxe,Papua New Guinea
+U0067,31,Affaires,Luxe,Russian Federation
+U0068,39,Affaires,Luxe,Montserrat
+U0069,53,Romantique,Moyen,Macao
+U0070,23,Solo,Économique,Cuba
+U0071,64,Familial,Luxe,Falkland Islands (Malvinas)
+U0072,53,Romantique,Luxe,Turkey
+U0073,59,Affaires,Luxe,Madagascar
+U0074,46,Romantique,Moyen,Grenada
+U0075,36,Romantique,Luxe,Cote d'Ivoire
+U0076,62,Romantique,Luxe,Iraq
+U0077,60,Affaires,Luxe,Saint Barthelemy
+U0078,48,Affaires,Luxe,Hong Kong
+U0079,45,Affaires,Luxe,Ethiopia
+U0080,40,Affaires,Luxe,Fiji
+U0081,35,Affaires,Luxe,Bahamas
+U0082,32,Romantique,Moyen,Niue
+U0083,38,Romantique,Moyen,Morocco
+U0084,30,Romantique,Luxe,Somalia
+U0085,35,Familial,Luxe,Trinidad and Tobago
+U0086,24,Solo,Économique,France
+U0087,36,Romantique,Luxe,Turkmenistan
+U0088,29,Affaires,Moyen,Lesotho
+U0089,63,Affaires,Moyen,Russian Federation
+U0090,35,Romantique,Moyen,Guam
+U0091,53,Familial,Moyen,Cameroon
+U0092,58,Familial,Moyen,Senegal
+U0093,18,Groupe,Économique,Saint Kitts and Nevis
+U0094,48,Familial,Luxe,Mauritania
+U0095,39,Romantique,Moyen,Antarctica (the territory South of 60 deg S)
+U0096,34,Affaires,Moyen,Falkland Islands (Malvinas)
+U0097,70,Romantique,Luxe,France
+U0098,49,Romantique,Moyen,Equatorial Guinea
+U0099,27,Romantique,Luxe,Ethiopia
+U0100,23,Solo,Économique,Slovakia (Slovak Republic)
+U0101,25,Familial,Luxe,Greece
+U0102,56,Affaires,Moyen,Ghana
+U0103,67,Affaires,Luxe,Falkland Islands (Malvinas)
+U0104,46,Familial,Luxe,Switzerland
+U0105,55,Familial,Luxe,Cook Islands
+U0106,54,Affaires,Moyen,Malawi
+U0107,57,Affaires,Moyen,Lithuania
+U0108,66,Romantique,Moyen,Cote d'Ivoire
+U0109,34,Familial,Moyen,Burundi
+U0110,28,Romantique,Moyen,Malawi
+U0111,53,Romantique,Moyen,Singapore
+U0112,18,Groupe,Économique,Turkmenistan
+U0113,46,Affaires,Luxe,Burkina Faso
+U0114,36,Romantique,Moyen,Ghana
+U0115,36,Familial,Luxe,Malta
+U0116,62,Familial,Moyen,French Polynesia
+U0117,61,Romantique,Luxe,Angola
+U0118,68,Affaires,Moyen,Sweden
+U0119,45,Romantique,Moyen,Maldives
+U0120,59,Romantique,Luxe,Niger
+U0121,70,Romantique,Moyen,Micronesia
+U0122,21,Solo,Économique,Senegal
+U0123,68,Familial,Luxe,Rwanda
+U0124,46,Romantique,Luxe,Uzbekistan
+U0125,62,Familial,Luxe,Ukraine
+U0126,35,Familial,Luxe,Monaco
+U0127,46,Romantique,Moyen,Iran
+U0128,45,Affaires,Luxe,Argentina
+U0129,56,Familial,Moyen,Comoros
+U0130,23,Solo,Économique,Saint Kitts and Nevis
+U0131,61,Affaires,Moyen,Uganda
+U0132,66,Affaires,Luxe,Greenland
+U0133,54,Romantique,Moyen,Colombia
+U0134,48,Affaires,Luxe,Tonga
+U0135,35,Romantique,Luxe,Djibouti
+U0136,58,Familial,Moyen,Equatorial Guinea
+U0137,48,Familial,Luxe,Israel
+U0138,39,Affaires,Moyen,Nigeria
+U0139,28,Affaires,Luxe,British Virgin Islands
+U0140,62,Familial,Luxe,Australia
+U0141,60,Familial,Moyen,Barbados
+U0142,47,Romantique,Luxe,Bahamas
+U0143,34,Affaires,Moyen,Tokelau
+U0144,67,Familial,Moyen,Wallis and Futuna
+U0145,60,Affaires,Luxe,Bulgaria
+U0146,44,Romantique,Moyen,Libyan Arab Jamahiriya
+U0147,51,Familial,Luxe,Singapore
+U0148,58,Familial,Moyen,Myanmar
+U0149,31,Affaires,Moyen,Puerto Rico
+U0150,36,Affaires,Luxe,Austria
+U0151,25,Romantique,Moyen,South Georgia and the South Sandwich Islands
+U0152,63,Romantique,Luxe,Germany
+U0153,53,Romantique,Luxe,Mauritius
+U0154,23,Solo,Économique,Saint Pierre and Miquelon
+U0155,25,Affaires,Moyen,Botswana
+U0156,59,Romantique,Luxe,Saint Barthelemy
+U0157,63,Familial,Luxe,El Salvador
+U0158,44,Familial,Luxe,Myanmar
+U0159,33,Affaires,Moyen,Belarus
+U0160,42,Romantique,Moyen,Mexico
+U0161,22,Groupe,Économique,United States Virgin Islands
+U0162,67,Familial,Luxe,Comoros
+U0163,68,Affaires,Luxe,New Zealand
+U0164,70,Romantique,Luxe,Barbados
+U0165,64,Familial,Luxe,Niue
+U0166,27,Affaires,Luxe,Seychelles
+U0167,40,Familial,Luxe,Tuvalu
+U0168,47,Familial,Moyen,Brunei Darussalam
+U0169,62,Romantique,Luxe,Saint Pierre and Miquelon
+U0170,32,Affaires,Moyen,Togo
+U0171,38,Familial,Luxe,Romania
+U0172,63,Familial,Luxe,Costa Rica
+U0173,60,Affaires,Moyen,Kuwait
+U0174,49,Romantique,Moyen,French Southern Territories
+U0175,50,Affaires,Luxe,Chad
+U0176,24,Groupe,Économique,Zimbabwe
+U0177,24,Groupe,Économique,Taiwan
+U0178,18,Solo,Économique,Hong Kong
+U0179,44,Affaires,Moyen,Congo
+U0180,22,Groupe,Économique,Central African Republic
+U0181,68,Familial,Luxe,Montserrat
+U0182,57,Affaires,Luxe,Western Sahara
+U0183,59,Romantique,Luxe,Marshall Islands
+U0184,61,Affaires,Luxe,Cuba
+U0185,38,Familial,Luxe,Mali
+U0186,52,Romantique,Moyen,Sudan
+U0187,33,Familial,Luxe,Liberia
+U0188,32,Familial,Moyen,Malta
+U0189,45,Romantique,Moyen,Netherlands
+U0190,46,Romantique,Luxe,Jersey
+U0191,19,Solo,Économique,Japan
+U0192,38,Romantique,Luxe,Lao People's Democratic Republic
+U0193,40,Familial,Luxe,Samoa
+U0194,27,Romantique,Luxe,Northern Mariana Islands
+U0195,54,Affaires,Moyen,Iraq
+U0196,28,Romantique,Moyen,Chad
+U0197,57,Familial,Moyen,Trinidad and Tobago
+U0198,49,Affaires,Moyen,Heard Island and McDonald Islands
+U0199,32,Affaires,Luxe,Syrian Arab Republic
+U0200,47,Familial,Moyen,Namibia
+U0201,69,Familial,Luxe,Uganda
+U0202,61,Affaires,Moyen,Ireland
+U0203,22,Groupe,Économique,Venezuela
+U0204,40,Affaires,Luxe,Cocos (Keeling) Islands
+U0205,58,Familial,Luxe,Cuba
+U0206,47,Familial,Moyen,Estonia
 U0207,42,Familial,Moyen,Netherlands
-U0208,33,Affaires,Luxe,Jordan
-U0209,54,Familial,Luxe,Isle of Man
-U0210,19,Groupe,Économique,Nigeria
-U0211,35,Romantique,Moyen,Tonga
-U0212,56,Affaires,Luxe,Pakistan
-U0213,36,Romantique,Luxe,Mexico
-U0214,32,Familial,Moyen,Uganda
-U0215,57,Familial,Moyen,Ghana
-U0216,58,Romantique,Moyen,Egypt
-U0217,37,Affaires,Moyen,Cayman Islands
-U0218,55,Familial,Moyen,French Guiana
-U0219,23,Groupe,Économique,Myanmar
-U0220,38,Familial,Luxe,Uzbekistan
-U0221,29,Romantique,Moyen,Macao
-U0222,68,Affaires,Luxe,Gabon
-U0223,51,Affaires,Luxe,Guinea
+U0208,33,Affaires,Luxe,Nicaragua
+U0209,54,Familial,Luxe,Western Sahara
+U0210,19,Groupe,Économique,Madagascar
+U0211,35,Romantique,Moyen,Bangladesh
+U0212,56,Affaires,Luxe,Greece
+U0213,36,Romantique,Luxe,Lao People's Democratic Republic
+U0214,32,Familial,Moyen,Bosnia and Herzegovina
+U0215,57,Familial,Moyen,Isle of Man
+U0216,58,Romantique,Moyen,Israel
+U0217,37,Affaires,Moyen,Algeria
+U0218,55,Familial,Moyen,Japan
+U0219,23,Groupe,Économique,Sudan
+U0220,38,Familial,Luxe,Hong Kong
+U0221,29,Romantique,Moyen,Malawi
+U0222,68,Affaires,Luxe,Sweden
+U0223,51,Affaires,Luxe,Kyrgyz Republic
 U0224,28,Affaires,Luxe,Niger
-U0225,69,Familial,Luxe,Cuba
-U0226,69,Romantique,Luxe,Slovakia (Slovak Republic)
-U0227,22,Solo,Économique,Finland
-U0228,66,Romantique,Luxe,Denmark
-U0229,69,Affaires,Luxe,Brazil
-U0230,23,Groupe,Économique,Serbia
-U0231,18,Groupe,Économique,Rwanda
-U0232,52,Romantique,Luxe,Equatorial Guinea
-U0233,41,Affaires,Luxe,Ethiopia
-U0234,55,Familial,Luxe,Canada
-U0235,24,Solo,Économique,Indonesia
-U0236,48,Romantique,Luxe,Liberia
-U0237,57,Romantique,Moyen,Guinea
-U0238,58,Familial,Luxe,Hong Kong
-U0239,59,Familial,Moyen,Iceland
-U0240,26,Romantique,Moyen,Latvia
-U0241,37,Affaires,Moyen,Egypt
-U0242,24,Solo,Économique,Papua New Guinea
-U0243,52,Romantique,Luxe,Tuvalu
-U0244,47,Familial,Luxe,Pakistan
-U0245,55,Affaires,Moyen,Togo
-U0246,44,Affaires,Moyen,Antarctica (the territory South of 60 deg S)
-U0247,49,Affaires,Luxe,Lebanon
-U0248,35,Romantique,Luxe,French Guiana
-U0249,31,Affaires,Luxe,Taiwan
-U0250,33,Affaires,Moyen,Sudan
-U0251,61,Familial,Luxe,Guernsey
-U0252,21,Groupe,Économique,Czech Republic
-U0253,35,Romantique,Moyen,Haiti
-U0254,70,Familial,Moyen,Guinea-Bissau
-U0255,60,Romantique,Moyen,Peru
-U0256,21,Groupe,Économique,Kenya
-U0257,33,Romantique,Moyen,Saint Kitts and Nevis
-U0258,22,Solo,Économique,Kyrgyz Republic
-U0259,55,Romantique,Moyen,Lithuania
-U0260,39,Romantique,Moyen,Georgia
-U0261,35,Romantique,Moyen,Solomon Islands
-U0262,52,Familial,Moyen,Western Sahara
-U0263,25,Familial,Moyen,Azerbaijan
-U0264,26,Romantique,Luxe,Kuwait
-U0265,68,Romantique,Luxe,Marshall Islands
-U0266,19,Solo,Économique,Cote d'Ivoire
-U0267,34,Romantique,Moyen,Western Sahara
-U0268,65,Familial,Moyen,Saint Lucia
-U0269,65,Romantique,Luxe,Taiwan
-U0270,46,Familial,Moyen,Iran
-U0271,46,Affaires,Moyen,Guinea-Bissau
-U0272,57,Romantique,Luxe,Uganda
-U0273,47,Affaires,Moyen,Panama
-U0274,21,Groupe,Économique,Anguilla
-U0275,43,Familial,Moyen,Madagascar
-U0276,49,Affaires,Luxe,Spain
-U0277,22,Solo,Économique,Kyrgyz Republic
-U0278,38,Familial,Moyen,Honduras
-U0279,22,Solo,Économique,Indonesia
-U0280,35,Familial,Luxe,Saint Martin
-U0281,42,Affaires,Luxe,Cameroon
-U0282,47,Affaires,Luxe,Syrian Arab Republic
-U0283,24,Solo,Économique,Burkina Faso
-U0284,59,Affaires,Moyen,Malaysia
-U0285,45,Familial,Moyen,New Caledonia
-U0286,44,Familial,Luxe,Afghanistan
-U0287,43,Familial,Moyen,Luxembourg
-U0288,38,Affaires,Luxe,Madagascar
-U0289,60,Familial,Luxe,Saint Lucia
-U0290,27,Familial,Luxe,Kuwait
-U0291,22,Solo,Économique,British Virgin Islands
-U0292,23,Solo,Économique,Norway
-U0293,45,Romantique,Luxe,Angola
-U0294,69,Romantique,Moyen,Dominica
-U0295,55,Affaires,Luxe,Canada
-U0296,60,Romantique,Luxe,Armenia
-U0297,40,Affaires,Luxe,Kiribati
-U0298,64,Romantique,Luxe,Nauru
-U0299,56,Familial,Luxe,Hungary
-U0300,24,Solo,Économique,Lao People's Democratic Republic
-U0301,27,Familial,Luxe,Grenada
-U0302,32,Romantique,Luxe,Cuba
-U0303,53,Familial,Moyen,Antigua and Barbuda
-U0304,66,Familial,Moyen,Bolivia
-U0305,69,Familial,Moyen,Uruguay
-U0306,56,Affaires,Luxe,Swaziland
-U0307,19,Solo,Économique,Grenada
-U0308,35,Familial,Luxe,Benin
-U0309,39,Affaires,Moyen,Turkmenistan
-U0310,29,Romantique,Luxe,Turkey
-U0311,22,Solo,Économique,Norway
-U0312,65,Affaires,Moyen,Barbados
-U0313,23,Solo,Économique,Croatia
-U0314,42,Familial,Luxe,Oman
-U0315,39,Romantique,Luxe,Heard Island and McDonald Islands
-U0316,37,Familial,Luxe,Martinique
-U0317,67,Affaires,Moyen,Morocco
-U0318,21,Solo,Économique,Turkmenistan
-U0319,28,Familial,Moyen,Guinea
-U0320,61,Romantique,Luxe,American Samoa
-U0321,46,Affaires,Luxe,Svalbard & Jan Mayen Islands
-U0322,49,Affaires,Luxe,Bahrain
-U0323,44,Familial,Moyen,Qatar
-U0324,66,Affaires,Moyen,Bouvet Island (Bouvetoya)
-U0325,40,Familial,Moyen,Kiribati
-U0326,36,Familial,Luxe,French Guiana
-U0327,51,Affaires,Luxe,Sweden
-U0328,20,Solo,Économique,Rwanda
-U0329,43,Affaires,Moyen,Latvia
-U0330,18,Solo,Économique,South Georgia and the South Sandwich Islands
-U0331,37,Romantique,Moyen,Algeria
-U0332,66,Familial,Luxe,Cameroon
-U0333,38,Romantique,Moyen,Albania
-U0334,49,Affaires,Luxe,Guatemala
-U0335,29,Romantique,Luxe,Bhutan
-U0336,52,Affaires,Moyen,New Caledonia
-U0337,50,Affaires,Luxe,Saint Martin
-U0338,22,Groupe,Économique,Colombia
-U0339,65,Romantique,Luxe,Estonia
-U0340,19,Groupe,Économique,Italy
-U0341,22,Groupe,Économique,Germany
-U0342,54,Familial,Luxe,Benin
-U0343,63,Affaires,Luxe,French Guiana
-U0344,36,Romantique,Luxe,Antigua and Barbuda
+U0225,69,Familial,Luxe,Marshall Islands
+U0226,69,Romantique,Luxe,France
+U0227,22,Solo,Économique,Belgium
+U0228,66,Romantique,Luxe,Iran
+U0229,69,Affaires,Luxe,Lithuania
+U0230,23,Groupe,Économique,Swaziland
+U0231,18,Groupe,Économique,Montenegro
+U0232,52,Romantique,Luxe,Hungary
+U0233,41,Affaires,Luxe,Trinidad and Tobago
+U0234,55,Familial,Luxe,Chile
+U0235,24,Solo,Économique,Antigua and Barbuda
+U0236,48,Romantique,Luxe,Central African Republic
+U0237,57,Romantique,Moyen,Botswana
+U0238,58,Familial,Luxe,Brunei Darussalam
+U0239,59,Familial,Moyen,Namibia
+U0240,26,Romantique,Moyen,Saudi Arabia
+U0241,37,Affaires,Moyen,Central African Republic
+U0242,24,Solo,Économique,Benin
+U0243,52,Romantique,Luxe,Estonia
+U0244,47,Familial,Luxe,Bosnia and Herzegovina
+U0245,55,Affaires,Moyen,Colombia
+U0246,44,Affaires,Moyen,Sierra Leone
+U0247,49,Affaires,Luxe,Mayotte
+U0248,35,Romantique,Luxe,Aruba
+U0249,31,Affaires,Luxe,Saint Kitts and Nevis
+U0250,33,Affaires,Moyen,San Marino
+U0251,61,Familial,Luxe,Andorra
+U0252,21,Groupe,Économique,Netherlands
+U0253,35,Romantique,Moyen,Syrian Arab Republic
+U0254,70,Familial,Moyen,Andorra
+U0255,60,Romantique,Moyen,Latvia
+U0256,21,Groupe,Économique,Sweden
+U0257,33,Romantique,Moyen,Niger
+U0258,22,Solo,Économique,Iceland
+U0259,55,Romantique,Moyen,Yemen
+U0260,39,Romantique,Moyen,Ghana
+U0261,35,Romantique,Moyen,Cayman Islands
+U0262,52,Familial,Moyen,Saint Martin
+U0263,25,Familial,Moyen,Belgium
+U0264,26,Romantique,Luxe,Cayman Islands
+U0265,68,Romantique,Luxe,San Marino
+U0266,19,Solo,Économique,New Zealand
+U0267,34,Romantique,Moyen,Niue
+U0268,65,Familial,Moyen,Jamaica
+U0269,65,Romantique,Luxe,Algeria
+U0270,46,Familial,Moyen,Cuba
+U0271,46,Affaires,Moyen,Mali
+U0272,57,Romantique,Luxe,El Salvador
+U0273,47,Affaires,Moyen,Bulgaria
+U0274,21,Groupe,Économique,Mexico
+U0275,43,Familial,Moyen,Denmark
+U0276,49,Affaires,Luxe,Mongolia
+U0277,22,Solo,Économique,Chad
+U0278,38,Familial,Moyen,India
+U0279,22,Solo,Économique,Afghanistan
+U0280,35,Familial,Luxe,Nauru
+U0281,42,Affaires,Luxe,Reunion
+U0282,47,Affaires,Luxe,Saint Vincent and the Grenadines
+U0283,24,Solo,Économique,Angola
+U0284,59,Affaires,Moyen,Norfolk Island
+U0285,45,Familial,Moyen,Bahamas
+U0286,44,Familial,Luxe,United States of America
+U0287,43,Familial,Moyen,Canada
+U0288,38,Affaires,Luxe,Saint Vincent and the Grenadines
+U0289,60,Familial,Luxe,Slovenia
+U0290,27,Familial,Luxe,Guatemala
+U0291,22,Solo,Économique,Western Sahara
+U0292,23,Solo,Économique,Albania
+U0293,45,Romantique,Luxe,Vanuatu
+U0294,69,Romantique,Moyen,Samoa
+U0295,55,Affaires,Luxe,Rwanda
+U0296,60,Romantique,Luxe,Antigua and Barbuda
+U0297,40,Affaires,Luxe,Malaysia
+U0298,64,Romantique,Luxe,Christmas Island
+U0299,56,Familial,Luxe,Luxembourg
+U0300,24,Solo,Économique,Western Sahara
+U0301,27,Familial,Luxe,Spain
+U0302,32,Romantique,Luxe,Venezuela
+U0303,53,Familial,Moyen,Hong Kong
+U0304,66,Familial,Moyen,Eritrea
+U0305,69,Familial,Moyen,Ecuador
+U0306,56,Affaires,Luxe,Singapore
+U0307,19,Solo,Économique,Rwanda
+U0308,35,Familial,Luxe,Tajikistan
+U0309,39,Affaires,Moyen,Angola
+U0310,29,Romantique,Luxe,Mali
+U0311,22,Solo,Économique,Guinea-Bissau
+U0312,65,Affaires,Moyen,New Caledonia
+U0313,23,Solo,Économique,Serbia
+U0314,42,Familial,Luxe,Czech Republic
+U0315,39,Romantique,Luxe,Bolivia
+U0316,37,Familial,Luxe,Uruguay
+U0317,67,Affaires,Moyen,Moldova
+U0318,21,Solo,Économique,Saint Lucia
+U0319,28,Familial,Moyen,Guyana
+U0320,61,Romantique,Luxe,Seychelles
+U0321,46,Affaires,Luxe,Heard Island and McDonald Islands
+U0322,49,Affaires,Luxe,Benin
+U0323,44,Familial,Moyen,Saint Martin
+U0324,66,Affaires,Moyen,Cocos (Keeling) Islands
+U0325,40,Familial,Moyen,Switzerland
+U0326,36,Familial,Luxe,Singapore
+U0327,51,Affaires,Luxe,Equatorial Guinea
+U0328,20,Solo,Économique,Kyrgyz Republic
+U0329,43,Affaires,Moyen,Turkmenistan
+U0330,18,Solo,Économique,Indonesia
+U0331,37,Romantique,Moyen,Guinea
+U0332,66,Familial,Luxe,Turkey
+U0333,38,Romantique,Moyen,Chad
+U0334,49,Affaires,Luxe,Gibraltar
+U0335,29,Romantique,Luxe,Mozambique
+U0336,52,Affaires,Moyen,Greece
+U0337,50,Affaires,Luxe,Iraq
+U0338,22,Groupe,Économique,Liechtenstein
+U0339,65,Romantique,Luxe,Mongolia
+U0340,19,Groupe,Économique,Cook Islands
+U0341,22,Groupe,Économique,Djibouti
+U0342,54,Familial,Luxe,Libyan Arab Jamahiriya
+U0343,63,Affaires,Luxe,Nauru
+U0344,36,Romantique,Luxe,El Salvador
 U0345,19,Groupe,Économique,Japan
-U0346,28,Familial,Luxe,Ghana
-U0347,62,Familial,Moyen,Congo
-U0348,45,Romantique,Moyen,United Kingdom
-U0349,45,Affaires,Luxe,Falkland Islands (Malvinas)
-U0350,51,Romantique,Luxe,Armenia
+U0346,28,Familial,Luxe,Tokelau
+U0347,62,Familial,Moyen,Qatar
+U0348,45,Romantique,Moyen,Chad
+U0349,45,Affaires,Luxe,Germany
+U0350,51,Romantique,Luxe,Latvia
 U0351,37,Familial,Luxe,Guyana
-U0352,32,Affaires,Moyen,Saint Lucia
-U0353,22,Solo,Économique,Martinique
-U0354,51,Affaires,Moyen,Tokelau
-U0355,67,Familial,Luxe,Guyana
-U0356,64,Affaires,Moyen,Czech Republic
-U0357,33,Romantique,Moyen,Liberia
-U0358,34,Romantique,Moyen,Svalbard & Jan Mayen Islands
-U0359,56,Romantique,Moyen,Turkey
-U0360,29,Familial,Luxe,Chad
-U0361,47,Affaires,Luxe,Latvia
-U0362,61,Affaires,Luxe,Central African Republic
-U0363,58,Familial,Moyen,Bahamas
-U0364,46,Romantique,Luxe,South Africa
-U0365,46,Affaires,Luxe,Holy See (Vatican City State)
-U0366,68,Familial,Moyen,Cameroon
-U0367,40,Affaires,Moyen,Eritrea
-U0368,37,Affaires,Luxe,Tokelau
-U0369,20,Solo,Économique,Peru
-U0370,41,Familial,Moyen,Luxembourg
-U0371,59,Romantique,Luxe,Greenland
-U0372,47,Affaires,Moyen,Syrian Arab Republic
-U0373,46,Affaires,Moyen,Mauritania
-U0374,38,Familial,Luxe,Kazakhstan
-U0375,50,Romantique,Moyen,Japan
-U0376,46,Romantique,Luxe,Algeria
-U0377,63,Romantique,Moyen,Morocco
-U0378,20,Solo,Économique,Jamaica
-U0379,63,Familial,Luxe,Thailand
-U0380,51,Affaires,Moyen,Gibraltar
-U0381,41,Familial,Luxe,Antarctica (the territory South of 60 deg S)
-U0382,42,Familial,Luxe,Croatia
-U0383,61,Affaires,Moyen,Palestinian Territory
-U0384,68,Affaires,Luxe,Malta
-U0385,22,Groupe,Économique,Martinique
-U0386,24,Groupe,Économique,Papua New Guinea
-U0387,36,Affaires,Moyen,Macao
-U0388,39,Romantique,Moyen,Fiji
-U0389,40,Familial,Luxe,Poland
-U0390,26,Familial,Moyen,Andorra
-U0391,37,Familial,Luxe,Botswana
-U0392,59,Familial,Moyen,Armenia
-U0393,60,Affaires,Moyen,Turkmenistan
-U0394,59,Affaires,Luxe,Kazakhstan
-U0395,50,Familial,Moyen,Nigeria
-U0396,41,Familial,Moyen,Belize
-U0397,31,Affaires,Luxe,South Africa
-U0398,30,Romantique,Moyen,Benin
-U0399,27,Romantique,Luxe,Norfolk Island
-U0400,68,Romantique,Moyen,Grenada
-U0401,60,Familial,Moyen,Namibia
-U0402,56,Familial,Moyen,San Marino
-U0403,28,Romantique,Moyen,French Guiana
-U0404,64,Familial,Moyen,Kyrgyz Republic
-U0405,44,Familial,Moyen,United Arab Emirates
-U0406,46,Affaires,Luxe,Montenegro
-U0407,66,Affaires,Luxe,Papua New Guinea
-U0408,32,Familial,Moyen,Fiji
-U0409,37,Affaires,Moyen,Congo
-U0410,41,Affaires,Luxe,Luxembourg
-U0411,47,Familial,Luxe,Burundi
-U0412,50,Affaires,Luxe,Comoros
-U0413,28,Romantique,Moyen,Argentina
-U0414,34,Romantique,Luxe,Congo
-U0415,41,Affaires,Moyen,Madagascar
-U0416,63,Affaires,Moyen,Taiwan
-U0417,36,Romantique,Moyen,Paraguay
-U0418,35,Affaires,Moyen,India
-U0419,45,Romantique,Moyen,Suriname
-U0420,70,Familial,Luxe,Netherlands
-U0421,19,Groupe,Économique,Jamaica
-U0422,21,Groupe,Économique,Romania
-U0423,50,Familial,Moyen,Czech Republic
-U0424,42,Romantique,Luxe,Nigeria
-U0425,32,Romantique,Luxe,Norway
-U0426,24,Groupe,Économique,Uzbekistan
-U0427,68,Romantique,Moyen,Tunisia
-U0428,20,Groupe,Économique,Libyan Arab Jamahiriya
-U0429,48,Affaires,Moyen,Saint Pierre and Miquelon
-U0430,66,Affaires,Luxe,Greenland
-U0431,46,Affaires,Moyen,Bhutan
-U0432,23,Solo,Économique,Burundi
-U0433,34,Romantique,Moyen,Heard Island and McDonald Islands
-U0434,53,Affaires,Luxe,Jamaica
-U0435,25,Affaires,Moyen,Suriname
-U0436,37,Romantique,Moyen,Christmas Island
-U0437,33,Affaires,Luxe,Guinea-Bissau
-U0438,22,Solo,Économique,Latvia
-U0439,49,Affaires,Moyen,Saint Barthelemy
-U0440,58,Affaires,Moyen,Belgium
-U0441,63,Romantique,Luxe,Bahamas
-U0442,45,Romantique,Luxe,Cuba
-U0443,33,Familial,Luxe,Cambodia
-U0444,29,Familial,Moyen,British Indian Ocean Territory (Chagos Archipelago)
-U0445,51,Familial,Moyen,Antarctica (the territory South of 60 deg S)
-U0446,51,Affaires,Moyen,Pakistan
-U0447,42,Familial,Moyen,Rwanda
-U0448,58,Familial,Luxe,Vietnam
-U0449,34,Familial,Moyen,Taiwan
-U0450,40,Romantique,Luxe,Cape Verde
-U0451,33,Familial,Moyen,Bahamas
-U0452,67,Affaires,Luxe,Mauritius
-U0453,26,Romantique,Luxe,Myanmar
-U0454,52,Familial,Moyen,Russian Federation
-U0455,67,Affaires,Luxe,Latvia
-U0456,62,Familial,Moyen,Kuwait
-U0457,69,Romantique,Moyen,Sweden
-U0458,63,Familial,Moyen,Bhutan
-U0459,36,Romantique,Moyen,Greece
-U0460,68,Romantique,Moyen,French Southern Territories
-U0461,38,Affaires,Luxe,Greenland
-U0462,70,Affaires,Luxe,Sao Tome and Principe
-U0463,34,Romantique,Moyen,Antarctica (the territory South of 60 deg S)
-U0464,36,Affaires,Moyen,Finland
-U0465,59,Familial,Luxe,Iceland
-U0466,25,Affaires,Luxe,El Salvador
-U0467,43,Affaires,Luxe,Jamaica
-U0468,42,Familial,Moyen,Ethiopia
-U0469,49,Affaires,Luxe,Panama
-U0470,41,Affaires,Luxe,Cambodia
-U0471,69,Romantique,Luxe,North Macedonia
-U0472,23,Groupe,Économique,Chad
-U0473,56,Romantique,Luxe,Vanuatu
-U0474,38,Romantique,Moyen,Philippines
-U0475,38,Familial,Luxe,Afghanistan
-U0476,37,Affaires,Luxe,Indonesia
-U0477,28,Familial,Luxe,South Africa
-U0478,40,Familial,Moyen,Cameroon
-U0479,64,Familial,Luxe,Iceland
-U0480,35,Familial,Moyen,Bahrain
-U0481,22,Groupe,Économique,Guinea-Bissau
-U0482,41,Affaires,Moyen,Chad
-U0483,19,Solo,Économique,Bulgaria
-U0484,56,Affaires,Luxe,Bhutan
-U0485,20,Solo,Économique,Puerto Rico
-U0486,22,Solo,Économique,Lao People's Democratic Republic
-U0487,67,Affaires,Luxe,Saint Barthelemy
-U0488,41,Familial,Moyen,Azerbaijan
-U0489,56,Romantique,Luxe,Mexico
-U0490,41,Familial,Luxe,Singapore
-U0491,66,Romantique,Moyen,French Southern Territories
-U0492,51,Familial,Luxe,Norfolk Island
-U0493,38,Familial,Luxe,Korea
-U0494,33,Romantique,Moyen,Myanmar
-U0495,65,Romantique,Luxe,Turkmenistan
-U0496,51,Familial,Moyen,Benin
-U0497,34,Affaires,Luxe,Oman
-U0498,31,Familial,Luxe,Tonga
-U0499,62,Familial,Moyen,Mauritania
-U0500,25,Romantique,Moyen,Bolivia
-U0501,46,Romantique,Luxe,Iraq
-U0502,23,Groupe,Économique,Iceland
-U0503,60,Familial,Moyen,Sao Tome and Principe
-U0504,53,Affaires,Luxe,North Macedonia
-U0505,37,Romantique,Moyen,Lesotho
-U0506,68,Familial,Moyen,Comoros
-U0507,25,Romantique,Moyen,Northern Mariana Islands
-U0508,33,Affaires,Moyen,Wallis and Futuna
-U0509,41,Affaires,Luxe,French Guiana
-U0510,47,Affaires,Moyen,Macao
-U0511,57,Romantique,Moyen,Georgia
-U0512,37,Affaires,Luxe,Rwanda
-U0513,51,Familial,Luxe,Micronesia
-U0514,70,Affaires,Moyen,France
-U0515,26,Affaires,Moyen,Jersey
-U0516,46,Familial,Luxe,Thailand
-U0517,26,Familial,Moyen,Sao Tome and Principe
-U0518,67,Romantique,Luxe,Sri Lanka
-U0519,50,Romantique,Moyen,Belize
-U0520,51,Romantique,Luxe,Central African Republic
-U0521,28,Romantique,Luxe,Chile
-U0522,63,Romantique,Luxe,Portugal
-U0523,51,Familial,Moyen,Armenia
-U0524,34,Romantique,Luxe,Korea
-U0525,26,Familial,Luxe,Belgium
-U0526,57,Affaires,Moyen,Ukraine
-U0527,50,Affaires,Moyen,Tajikistan
-U0528,55,Affaires,Moyen,Angola
-U0529,28,Familial,Luxe,Senegal
-U0530,54,Romantique,Moyen,Bermuda
-U0531,23,Solo,Économique,Benin
-U0532,59,Affaires,Luxe,Nepal
-U0533,59,Romantique,Luxe,Norway
-U0534,57,Affaires,Moyen,Syrian Arab Republic
-U0535,49,Affaires,Luxe,Finland
-U0536,59,Familial,Luxe,North Macedonia
-U0537,33,Familial,Luxe,American Samoa
-U0538,37,Affaires,Moyen,Cameroon
-U0539,62,Romantique,Moyen,Tonga
-U0540,46,Familial,Luxe,Comoros
-U0541,47,Romantique,Luxe,Cook Islands
-U0542,56,Romantique,Luxe,Mauritius
-U0543,63,Familial,Luxe,Canada
-U0544,43,Romantique,Luxe,Costa Rica
-U0545,50,Affaires,Moyen,Luxembourg
-U0546,38,Romantique,Luxe,Sweden
-U0547,25,Affaires,Luxe,Palestinian Territory
-U0548,33,Romantique,Moyen,Kyrgyz Republic
-U0549,21,Groupe,Économique,Oman
-U0550,42,Affaires,Luxe,Congo
-U0551,33,Romantique,Luxe,United States of America
-U0552,54,Affaires,Luxe,Djibouti
-U0553,30,Romantique,Luxe,Somalia
-U0554,50,Familial,Luxe,Senegal
-U0555,37,Affaires,Moyen,Samoa
-U0556,23,Groupe,Économique,Macao
-U0557,50,Familial,Moyen,Saudi Arabia
-U0558,31,Familial,Luxe,Azerbaijan
-U0559,21,Solo,Économique,Saint Lucia
-U0560,36,Affaires,Luxe,Guinea
-U0561,36,Familial,Moyen,Nauru
-U0562,24,Groupe,Économique,Guinea-Bissau
-U0563,26,Affaires,Luxe,Greece
-U0564,66,Familial,Luxe,Sweden
-U0565,20,Groupe,Économique,Bosnia and Herzegovina
-U0566,21,Solo,Économique,Hong Kong
-U0567,41,Affaires,Luxe,Qatar
-U0568,22,Groupe,Économique,American Samoa
-U0569,50,Familial,Luxe,French Guiana
-U0570,70,Affaires,Moyen,Tokelau
-U0571,26,Romantique,Luxe,Djibouti
-U0572,41,Familial,Luxe,Botswana
-U0573,66,Romantique,Moyen,Korea
-U0574,56,Affaires,Luxe,Barbados
-U0575,50,Romantique,Moyen,Djibouti
-U0576,20,Solo,Économique,Germany
-U0577,63,Familial,Luxe,Solomon Islands
-U0578,51,Familial,Moyen,Kyrgyz Republic
-U0579,56,Affaires,Moyen,Macao
-U0580,38,Familial,Luxe,Tunisia
-U0581,28,Affaires,Luxe,Guyana
-U0582,55,Familial,Luxe,Haiti
-U0583,63,Affaires,Luxe,Saint Kitts and Nevis
-U0584,48,Romantique,Luxe,Sri Lanka
-U0585,39,Familial,Moyen,Botswana
-U0586,44,Affaires,Luxe,Bahamas
-U0587,68,Affaires,Moyen,Qatar
-U0588,56,Familial,Luxe,Sudan
-U0589,59,Affaires,Moyen,Dominica
-U0590,64,Romantique,Luxe,Belgium
-U0591,28,Familial,Luxe,Myanmar
-U0592,27,Familial,Moyen,Lesotho
-U0593,20,Solo,Économique,Kenya
-U0594,30,Romantique,Luxe,Estonia
-U0595,38,Affaires,Moyen,Cocos (Keeling) Islands
-U0596,44,Affaires,Moyen,Brunei Darussalam
-U0597,44,Affaires,Luxe,United Kingdom
-U0598,65,Affaires,Moyen,Christmas Island
-U0599,63,Romantique,Moyen,Japan
-U0600,53,Familial,Luxe,Bosnia and Herzegovina
-U0601,51,Familial,Luxe,Sudan
-U0602,29,Affaires,Luxe,Sudan
-U0603,52,Familial,Luxe,Hong Kong
-U0604,57,Familial,Moyen,North Macedonia
-U0605,33,Affaires,Luxe,Vanuatu
-U0606,32,Affaires,Luxe,Honduras
-U0607,63,Romantique,Luxe,Montserrat
-U0608,38,Affaires,Luxe,Philippines
-U0609,53,Affaires,Luxe,Germany
-U0610,36,Romantique,Luxe,Guatemala
-U0611,43,Familial,Moyen,Lesotho
-U0612,36,Romantique,Luxe,Mauritius
-U0613,63,Romantique,Luxe,Somalia
-U0614,46,Affaires,Luxe,Burkina Faso
-U0615,65,Familial,Moyen,Palestinian Territory
-U0616,30,Familial,Luxe,Sri Lanka
-U0617,53,Affaires,Luxe,India
-U0618,26,Romantique,Moyen,Congo
-U0619,33,Romantique,Moyen,Singapore
-U0620,58,Romantique,Moyen,Venezuela
-U0621,24,Groupe,Économique,Saint Martin
-U0622,39,Familial,Luxe,Jordan
-U0623,24,Solo,Économique,Liberia
-U0624,18,Solo,Économique,Christmas Island
-U0625,44,Affaires,Luxe,Solomon Islands
-U0626,48,Affaires,Moyen,Ecuador
-U0627,66,Familial,Luxe,Bulgaria
-U0628,36,Familial,Moyen,Bouvet Island (Bouvetoya)
-U0629,67,Romantique,Moyen,Djibouti
-U0630,52,Affaires,Moyen,Israel
-U0631,29,Affaires,Moyen,Uruguay
-U0632,20,Groupe,Économique,Indonesia
-U0633,68,Familial,Moyen,Swaziland
-U0634,65,Familial,Moyen,Ethiopia
-U0635,18,Groupe,Économique,Georgia
-U0636,54,Affaires,Moyen,Cambodia
-U0637,39,Affaires,Luxe,Bolivia
-U0638,59,Affaires,Luxe,Tonga
-U0639,26,Familial,Luxe,Saint Barthelemy
-U0640,35,Romantique,Moyen,Reunion
-U0641,39,Romantique,Luxe,Saint Pierre and Miquelon
-U0642,59,Familial,Moyen,Guernsey
-U0643,18,Groupe,Économique,Lithuania
-U0644,68,Familial,Moyen,Bulgaria
-U0645,29,Familial,Luxe,Cayman Islands
-U0646,70,Familial,Luxe,Yemen
-U0647,23,Groupe,Économique,Seychelles
-U0648,60,Romantique,Moyen,Svalbard & Jan Mayen Islands
-U0649,26,Affaires,Luxe,Rwanda
-U0650,33,Romantique,Luxe,Fiji
-U0651,42,Romantique,Luxe,Swaziland
-U0652,66,Familial,Luxe,Paraguay
-U0653,37,Familial,Moyen,Thailand
-U0654,34,Familial,Luxe,Saint Helena
-U0655,62,Romantique,Moyen,Kiribati
-U0656,60,Romantique,Luxe,Romania
-U0657,37,Romantique,Luxe,Sri Lanka
-U0658,61,Affaires,Luxe,Isle of Man
-U0659,62,Romantique,Luxe,Martinique
-U0660,41,Affaires,Moyen,Isle of Man
-U0661,32,Romantique,Luxe,Belarus
-U0662,27,Affaires,Luxe,Honduras
-U0663,44,Affaires,Luxe,Finland
-U0664,66,Affaires,Moyen,Swaziland
-U0665,66,Romantique,Moyen,Pakistan
-U0666,51,Familial,Luxe,Cuba
-U0667,22,Solo,Économique,France
-U0668,21,Solo,Économique,India
-U0669,54,Affaires,Moyen,Albania
-U0670,28,Affaires,Luxe,Denmark
-U0671,25,Familial,Moyen,Guadeloupe
-U0672,63,Affaires,Luxe,Greece
-U0673,23,Groupe,Économique,Mongolia
-U0674,69,Romantique,Luxe,Cote d'Ivoire
-U0675,26,Familial,Luxe,Colombia
-U0676,47,Affaires,Moyen,Haiti
-U0677,53,Familial,Luxe,Bosnia and Herzegovina
-U0678,64,Romantique,Luxe,Bermuda
-U0679,34,Romantique,Moyen,Vietnam
-U0680,55,Romantique,Moyen,Malaysia
-U0681,45,Familial,Moyen,Azerbaijan
-U0682,52,Romantique,Moyen,Cambodia
-U0683,48,Romantique,Luxe,Liechtenstein
-U0684,44,Romantique,Moyen,Chile
-U0685,67,Affaires,Luxe,Jamaica
-U0686,41,Familial,Luxe,Kyrgyz Republic
-U0687,42,Familial,Moyen,Aruba
-U0688,61,Affaires,Moyen,Djibouti
-U0689,59,Familial,Moyen,Lithuania
-U0690,29,Familial,Luxe,Uganda
-U0691,51,Romantique,Moyen,Liechtenstein
-U0692,18,Solo,Économique,Afghanistan
-U0693,37,Affaires,Luxe,Guyana
-U0694,52,Familial,Moyen,Moldova
-U0695,33,Affaires,Luxe,Algeria
-U0696,27,Affaires,Moyen,Lesotho
-U0697,64,Romantique,Moyen,Russian Federation
-U0698,69,Affaires,Luxe,Slovenia
-U0699,57,Romantique,Moyen,Saint Vincent and the Grenadines
-U0700,31,Romantique,Moyen,Georgia
-U0701,56,Romantique,Luxe,Taiwan
-U0702,56,Affaires,Moyen,Trinidad and Tobago
-U0703,33,Familial,Moyen,Ecuador
-U0704,43,Familial,Moyen,Paraguay
-U0705,52,Romantique,Moyen,Armenia
-U0706,26,Familial,Luxe,Rwanda
-U0707,32,Familial,Luxe,Swaziland
-U0708,54,Affaires,Luxe,Colombia
-U0709,33,Affaires,Moyen,Turkmenistan
-U0710,60,Affaires,Moyen,Congo
-U0711,44,Familial,Luxe,Bosnia and Herzegovina
-U0712,21,Solo,Économique,Thailand
-U0713,58,Affaires,Luxe,Pitcairn Islands
-U0714,53,Familial,Moyen,Indonesia
-U0715,40,Affaires,Luxe,Bolivia
-U0716,68,Affaires,Luxe,Grenada
-U0717,62,Familial,Luxe,Samoa
-U0718,27,Affaires,Luxe,Australia
-U0719,29,Familial,Luxe,Haiti
-U0720,33,Romantique,Luxe,Bhutan
-U0721,63,Romantique,Luxe,Turkmenistan
-U0722,21,Groupe,Économique,Sri Lanka
-U0723,44,Affaires,Moyen,Taiwan
-U0724,42,Romantique,Luxe,French Polynesia
-U0725,31,Affaires,Moyen,Trinidad and Tobago
-U0726,46,Familial,Moyen,Italy
-U0727,52,Affaires,Moyen,Ecuador
-U0728,21,Groupe,Économique,Svalbard & Jan Mayen Islands
-U0729,42,Affaires,Moyen,Italy
-U0730,22,Solo,Économique,Slovakia (Slovak Republic)
-U0731,69,Affaires,Moyen,Cocos (Keeling) Islands
-U0732,48,Romantique,Luxe,South Georgia and the South Sandwich Islands
-U0733,37,Romantique,Moyen,Timor-Leste
-U0734,30,Familial,Moyen,Kazakhstan
-U0735,65,Familial,Moyen,Cape Verde
-U0736,62,Affaires,Moyen,Belarus
-U0737,43,Romantique,Luxe,Jamaica
-U0738,67,Familial,Luxe,Tokelau
-U0739,47,Affaires,Luxe,Nigeria
-U0740,37,Affaires,Luxe,Tanzania
-U0741,50,Familial,Luxe,Cape Verde
-U0742,24,Groupe,Économique,Eritrea
-U0743,66,Familial,Moyen,Bosnia and Herzegovina
-U0744,41,Familial,Luxe,Philippines
-U0745,20,Solo,Économique,Kiribati
-U0746,65,Romantique,Moyen,Ghana
-U0747,34,Familial,Luxe,Malawi
-U0748,36,Romantique,Moyen,Macao
-U0749,39,Romantique,Luxe,Aruba
-U0750,54,Romantique,Luxe,Moldova
-U0751,53,Affaires,Luxe,Finland
-U0752,34,Affaires,Luxe,Timor-Leste
-U0753,47,Romantique,Luxe,Venezuela
-U0754,28,Romantique,Luxe,Reunion
-U0755,29,Familial,Moyen,El Salvador
-U0756,51,Romantique,Moyen,San Marino
-U0757,70,Affaires,Moyen,Guinea
-U0758,66,Romantique,Luxe,Barbados
-U0759,26,Familial,Moyen,Isle of Man
-U0760,22,Solo,Économique,San Marino
-U0761,18,Solo,Économique,Andorra
-U0762,50,Familial,Luxe,Namibia
-U0763,21,Groupe,Économique,Gabon
-U0764,60,Familial,Moyen,Finland
-U0765,18,Groupe,Économique,San Marino
-U0766,18,Solo,Économique,Papua New Guinea
-U0767,51,Affaires,Luxe,Jamaica
-U0768,52,Familial,Moyen,Switzerland
-U0769,50,Affaires,Luxe,Martinique
-U0770,69,Romantique,Moyen,Puerto Rico
-U0771,24,Solo,Économique,Cocos (Keeling) Islands
-U0772,33,Romantique,Luxe,Austria
-U0773,70,Familial,Luxe,Timor-Leste
-U0774,68,Familial,Moyen,Saint Lucia
-U0775,41,Familial,Luxe,Kyrgyz Republic
-U0776,54,Romantique,Moyen,Zimbabwe
-U0777,37,Familial,Moyen,Portugal
-U0778,59,Affaires,Moyen,Mongolia
-U0779,23,Groupe,Économique,Cambodia
-U0780,42,Familial,Luxe,Iraq
-U0781,21,Solo,Économique,United Kingdom
-U0782,62,Romantique,Moyen,Cameroon
-U0783,49,Familial,Luxe,Northern Mariana Islands
-U0784,54,Romantique,Moyen,Cambodia
-U0785,32,Romantique,Luxe,Canada
-U0786,35,Romantique,Moyen,Georgia
-U0787,61,Familial,Moyen,Antarctica (the territory South of 60 deg S)
-U0788,29,Affaires,Moyen,Colombia
-U0789,31,Familial,Moyen,Slovakia (Slovak Republic)
-U0790,66,Affaires,Luxe,Bermuda
-U0791,22,Groupe,Économique,Australia
-U0792,28,Familial,Moyen,Singapore
-U0793,54,Familial,Luxe,Sweden
-U0794,42,Affaires,Moyen,Luxembourg
-U0795,68,Affaires,Moyen,Israel
-U0796,50,Affaires,Luxe,Suriname
-U0797,21,Solo,Économique,Comoros
-U0798,45,Romantique,Moyen,Czech Republic
-U0799,39,Familial,Luxe,Bermuda
-U0800,67,Familial,Moyen,Luxembourg
-U0801,58,Familial,Luxe,Chad
-U0802,49,Romantique,Luxe,Angola
-U0803,53,Familial,Luxe,Romania
-U0804,29,Familial,Luxe,Taiwan
-U0805,23,Groupe,Économique,Heard Island and McDonald Islands
-U0806,69,Romantique,Moyen,Nicaragua
-U0807,23,Groupe,Économique,Uzbekistan
-U0808,27,Affaires,Moyen,Nicaragua
-U0809,65,Familial,Luxe,Honduras
-U0810,41,Romantique,Moyen,Nigeria
-U0811,18,Groupe,Économique,Niue
-U0812,46,Familial,Luxe,India
-U0813,24,Solo,Économique,Latvia
-U0814,23,Solo,Économique,Heard Island and McDonald Islands
-U0815,45,Familial,Luxe,Chile
-U0816,24,Solo,Économique,Ireland
-U0817,23,Groupe,Économique,Luxembourg
-U0818,53,Romantique,Luxe,Namibia
-U0819,42,Romantique,Luxe,Albania
-U0820,44,Familial,Moyen,El Salvador
-U0821,64,Affaires,Moyen,Italy
-U0822,54,Affaires,Moyen,Haiti
-U0823,61,Familial,Moyen,El Salvador
-U0824,26,Affaires,Luxe,Bolivia
-U0825,35,Affaires,Moyen,Greece
-U0826,22,Solo,Économique,Venezuela
-U0827,45,Familial,Luxe,Western Sahara
-U0828,37,Affaires,Moyen,Benin
-U0829,41,Familial,Moyen,Liberia
-U0830,64,Affaires,Luxe,Afghanistan
-U0831,56,Affaires,Moyen,El Salvador
-U0832,47,Romantique,Moyen,Saint Lucia
-U0833,37,Romantique,Luxe,Finland
-U0834,39,Familial,Luxe,Germany
-U0835,69,Familial,Luxe,Indonesia
-U0836,39,Affaires,Moyen,Saint Lucia
-U0837,37,Affaires,Moyen,Malaysia
-U0838,48,Familial,Moyen,Peru
-U0839,43,Familial,Luxe,Vietnam
-U0840,65,Affaires,Luxe,Namibia
-U0841,54,Romantique,Luxe,Kiribati
-U0842,42,Familial,Luxe,Saudi Arabia
-U0843,41,Romantique,Moyen,Niue
-U0844,55,Affaires,Moyen,Paraguay
-U0845,61,Affaires,Moyen,New Zealand
-U0846,64,Familial,Moyen,Oman
-U0847,46,Familial,Moyen,Saint Kitts and Nevis
-U0848,70,Familial,Luxe,Anguilla
-U0849,26,Familial,Luxe,Russian Federation
-U0850,33,Affaires,Moyen,Guadeloupe
-U0851,63,Familial,Luxe,Ethiopia
-U0852,22,Groupe,Économique,Sierra Leone
-U0853,56,Familial,Luxe,United States Minor Outlying Islands
-U0854,52,Affaires,Luxe,Nigeria
-U0855,52,Romantique,Luxe,Georgia
-U0856,62,Affaires,Moyen,Fiji
-U0857,24,Solo,Économique,El Salvador
-U0858,60,Affaires,Luxe,Saint Martin
-U0859,28,Familial,Moyen,Bhutan
-U0860,54,Affaires,Luxe,Azerbaijan
-U0861,66,Familial,Luxe,United States Minor Outlying Islands
-U0862,24,Solo,Économique,Cocos (Keeling) Islands
-U0863,24,Groupe,Économique,Northern Mariana Islands
-U0864,32,Familial,Moyen,Mali
-U0865,46,Familial,Luxe,Grenada
-U0866,47,Affaires,Moyen,Philippines
-U0867,40,Romantique,Luxe,Afghanistan
-U0868,24,Groupe,Économique,Syrian Arab Republic
-U0869,44,Romantique,Moyen,Niger
-U0870,64,Romantique,Luxe,Saint Pierre and Miquelon
-U0871,37,Affaires,Luxe,Guatemala
-U0872,68,Romantique,Luxe,Sudan
+U0352,32,Affaires,Moyen,Thailand
+U0353,22,Solo,Économique,Hong Kong
+U0354,51,Affaires,Moyen,Malta
+U0355,67,Familial,Luxe,Colombia
+U0356,64,Affaires,Moyen,Kazakhstan
+U0357,33,Romantique,Moyen,Guyana
+U0358,34,Romantique,Moyen,Bahrain
+U0359,56,Romantique,Moyen,Egypt
+U0360,29,Familial,Luxe,Namibia
+U0361,47,Affaires,Luxe,Equatorial Guinea
+U0362,61,Affaires,Luxe,Croatia
+U0363,58,Familial,Moyen,Dominica
+U0364,46,Romantique,Luxe,Falkland Islands (Malvinas)
+U0365,46,Affaires,Luxe,Iceland
+U0366,68,Familial,Moyen,Croatia
+U0367,40,Affaires,Moyen,Reunion
+U0368,37,Affaires,Luxe,Uganda
+U0369,20,Solo,Économique,El Salvador
+U0370,41,Familial,Moyen,Spain
+U0371,59,Romantique,Luxe,Antarctica (the territory South of 60 deg S)
+U0372,47,Affaires,Moyen,Macao
+U0373,46,Affaires,Moyen,Algeria
+U0374,38,Familial,Luxe,Wallis and Futuna
+U0375,50,Romantique,Moyen,Spain
+U0376,46,Romantique,Luxe,Turkmenistan
+U0377,63,Romantique,Moyen,Papua New Guinea
+U0378,20,Solo,Économique,Senegal
+U0379,63,Familial,Luxe,Japan
+U0380,51,Affaires,Moyen,Moldova
+U0381,41,Familial,Luxe,Bhutan
+U0382,42,Familial,Luxe,Luxembourg
+U0383,61,Affaires,Moyen,Brunei Darussalam
+U0384,68,Affaires,Luxe,Chile
+U0385,22,Groupe,Économique,Wallis and Futuna
+U0386,24,Groupe,Économique,Croatia
+U0387,36,Affaires,Moyen,Australia
+U0388,39,Romantique,Moyen,Tonga
+U0389,40,Familial,Luxe,Burundi
+U0390,26,Familial,Moyen,Sao Tome and Principe
+U0391,37,Familial,Luxe,Barbados
+U0392,59,Familial,Moyen,Argentina
+U0393,60,Affaires,Moyen,Iran
+U0394,59,Affaires,Luxe,Nigeria
+U0395,50,Familial,Moyen,Seychelles
+U0396,41,Familial,Moyen,Dominica
+U0397,31,Affaires,Luxe,Senegal
+U0398,30,Romantique,Moyen,United States Virgin Islands
+U0399,27,Romantique,Luxe,Tajikistan
+U0400,68,Romantique,Moyen,Wallis and Futuna
+U0401,60,Familial,Moyen,Iceland
+U0402,56,Familial,Moyen,Kuwait
+U0403,28,Romantique,Moyen,Palestinian Territory
+U0404,64,Familial,Moyen,New Zealand
+U0405,44,Familial,Moyen,Tanzania
+U0406,46,Affaires,Luxe,Nigeria
+U0407,66,Affaires,Luxe,Dominican Republic
+U0408,32,Familial,Moyen,Northern Mariana Islands
+U0409,37,Affaires,Moyen,Kuwait
+U0410,41,Affaires,Luxe,Cook Islands
+U0411,47,Familial,Luxe,Guadeloupe
+U0412,50,Affaires,Luxe,Colombia
+U0413,28,Romantique,Moyen,Cote d'Ivoire
+U0414,34,Romantique,Luxe,Sweden
+U0415,41,Affaires,Moyen,Mauritania
+U0416,63,Affaires,Moyen,Togo
+U0417,36,Romantique,Moyen,Luxembourg
+U0418,35,Affaires,Moyen,Zimbabwe
+U0419,45,Romantique,Moyen,Chad
+U0420,70,Familial,Luxe,Germany
+U0421,19,Groupe,Économique,Bahrain
+U0422,21,Groupe,Économique,Bulgaria
+U0423,50,Familial,Moyen,Vietnam
+U0424,42,Romantique,Luxe,Reunion
+U0425,32,Romantique,Luxe,Greenland
+U0426,24,Groupe,Économique,United States Virgin Islands
+U0427,68,Romantique,Moyen,Burkina Faso
+U0428,20,Groupe,Économique,British Indian Ocean Territory (Chagos Archipelago)
+U0429,48,Affaires,Moyen,Mayotte
+U0430,66,Affaires,Luxe,Pitcairn Islands
+U0431,46,Affaires,Moyen,Romania
+U0432,23,Solo,Économique,Norway
+U0433,34,Romantique,Moyen,American Samoa
+U0434,53,Affaires,Luxe,United States Virgin Islands
+U0435,25,Affaires,Moyen,Falkland Islands (Malvinas)
+U0436,37,Romantique,Moyen,Italy
+U0437,33,Affaires,Luxe,Jersey
+U0438,22,Solo,Économique,Luxembourg
+U0439,49,Affaires,Moyen,Austria
+U0440,58,Affaires,Moyen,Saint Barthelemy
+U0441,63,Romantique,Luxe,Micronesia
+U0442,45,Romantique,Luxe,Gambia
+U0443,33,Familial,Luxe,Poland
+U0444,29,Familial,Moyen,Sudan
+U0445,51,Familial,Moyen,Burundi
+U0446,51,Affaires,Moyen,Netherlands
+U0447,42,Familial,Moyen,Colombia
+U0448,58,Familial,Luxe,French Guiana
+U0449,34,Familial,Moyen,Estonia
+U0450,40,Romantique,Luxe,Vietnam
+U0451,33,Familial,Moyen,Western Sahara
+U0452,67,Affaires,Luxe,Malaysia
+U0453,26,Romantique,Luxe,Tanzania
+U0454,52,Familial,Moyen,American Samoa
+U0455,67,Affaires,Luxe,Netherlands
+U0456,62,Familial,Moyen,Myanmar
+U0457,69,Romantique,Moyen,Zambia
+U0458,63,Familial,Moyen,Greece
+U0459,36,Romantique,Moyen,Netherlands Antilles
+U0460,68,Romantique,Moyen,Qatar
+U0461,38,Affaires,Luxe,Iran
+U0462,70,Affaires,Luxe,Burundi
+U0463,34,Romantique,Moyen,Tunisia
+U0464,36,Affaires,Moyen,Argentina
+U0465,59,Familial,Luxe,Pakistan
+U0466,25,Affaires,Luxe,Guinea
+U0467,43,Affaires,Luxe,Burkina Faso
+U0468,42,Familial,Moyen,Yemen
+U0469,49,Affaires,Luxe,United Kingdom
+U0470,41,Affaires,Luxe,Yemen
+U0471,69,Romantique,Luxe,Bouvet Island (Bouvetoya)
+U0472,23,Groupe,Économique,Czech Republic
+U0473,56,Romantique,Luxe,Moldova
+U0474,38,Romantique,Moyen,Falkland Islands (Malvinas)
+U0475,38,Familial,Luxe,Namibia
+U0476,37,Affaires,Luxe,Mozambique
+U0477,28,Familial,Luxe,Hong Kong
+U0478,40,Familial,Moyen,Cote d'Ivoire
+U0479,64,Familial,Luxe,Palau
+U0480,35,Familial,Moyen,Latvia
+U0481,22,Groupe,Économique,Congo
+U0482,41,Affaires,Moyen,Saint Kitts and Nevis
+U0483,19,Solo,Économique,Grenada
+U0484,56,Affaires,Luxe,Greenland
+U0485,20,Solo,Économique,Korea
+U0486,22,Solo,Économique,Bulgaria
+U0487,67,Affaires,Luxe,Congo
+U0488,41,Familial,Moyen,Philippines
+U0489,56,Romantique,Luxe,Hong Kong
+U0490,41,Familial,Luxe,Azerbaijan
+U0491,66,Romantique,Moyen,British Virgin Islands
+U0492,51,Familial,Luxe,Switzerland
+U0493,38,Familial,Luxe,Cameroon
+U0494,33,Romantique,Moyen,Uruguay
+U0495,65,Romantique,Luxe,Nigeria
+U0496,51,Familial,Moyen,Brazil
+U0497,34,Affaires,Luxe,Estonia
+U0498,31,Familial,Luxe,Romania
+U0499,62,Familial,Moyen,Bhutan
+U0500,25,Romantique,Moyen,Vanuatu
+U0501,46,Romantique,Luxe,Korea
+U0502,23,Groupe,Économique,Austria
+U0503,60,Familial,Moyen,Costa Rica
+U0504,53,Affaires,Luxe,Niue
+U0505,37,Romantique,Moyen,Samoa
+U0506,68,Familial,Moyen,Bouvet Island (Bouvetoya)
+U0507,25,Romantique,Moyen,Turkmenistan
+U0508,33,Affaires,Moyen,Japan
+U0509,41,Affaires,Luxe,Saint Pierre and Miquelon
+U0510,47,Affaires,Moyen,Nauru
+U0511,57,Romantique,Moyen,Tonga
+U0512,37,Affaires,Luxe,Sweden
+U0513,51,Familial,Luxe,Svalbard & Jan Mayen Islands
+U0514,70,Affaires,Moyen,Aruba
+U0515,26,Affaires,Moyen,Netherlands
+U0516,46,Familial,Luxe,Papua New Guinea
+U0517,26,Familial,Moyen,Saint Pierre and Miquelon
+U0518,67,Romantique,Luxe,Grenada
+U0519,50,Romantique,Moyen,New Zealand
+U0520,51,Romantique,Luxe,Cote d'Ivoire
+U0521,28,Romantique,Luxe,Heard Island and McDonald Islands
+U0522,63,Romantique,Luxe,El Salvador
+U0523,51,Familial,Moyen,Saint Kitts and Nevis
+U0524,34,Romantique,Luxe,Western Sahara
+U0525,26,Familial,Luxe,Slovenia
+U0526,57,Affaires,Moyen,Reunion
+U0527,50,Affaires,Moyen,Mauritania
+U0528,55,Affaires,Moyen,Central African Republic
+U0529,28,Familial,Luxe,French Polynesia
+U0530,54,Romantique,Moyen,South Georgia and the South Sandwich Islands
+U0531,23,Solo,Économique,Bahamas
+U0532,59,Affaires,Luxe,Liberia
+U0533,59,Romantique,Luxe,Maldives
+U0534,57,Affaires,Moyen,Cook Islands
+U0535,49,Affaires,Luxe,Dominica
+U0536,59,Familial,Luxe,Uganda
+U0537,33,Familial,Luxe,Lao People's Democratic Republic
+U0538,37,Affaires,Moyen,Somalia
+U0539,62,Romantique,Moyen,Slovenia
+U0540,46,Familial,Luxe,Benin
+U0541,47,Romantique,Luxe,Brunei Darussalam
+U0542,56,Romantique,Luxe,China
+U0543,63,Familial,Luxe,Kiribati
+U0544,43,Romantique,Luxe,Eritrea
+U0545,50,Affaires,Moyen,Brazil
+U0546,38,Romantique,Luxe,Hungary
+U0547,25,Affaires,Luxe,Maldives
+U0548,33,Romantique,Moyen,Denmark
+U0549,21,Groupe,Économique,Falkland Islands (Malvinas)
+U0550,42,Affaires,Luxe,Guinea
+U0551,33,Romantique,Luxe,Tajikistan
+U0552,54,Affaires,Luxe,Costa Rica
+U0553,30,Romantique,Luxe,New Zealand
+U0554,50,Familial,Luxe,Botswana
+U0555,37,Affaires,Moyen,Uzbekistan
+U0556,23,Groupe,Économique,Cocos (Keeling) Islands
+U0557,50,Familial,Moyen,Iraq
+U0558,31,Familial,Luxe,Bolivia
+U0559,21,Solo,Économique,Kyrgyz Republic
+U0560,36,Affaires,Luxe,Comoros
+U0561,36,Familial,Moyen,Philippines
+U0562,24,Groupe,Économique,Chile
+U0563,26,Affaires,Luxe,Faroe Islands
+U0564,66,Familial,Luxe,Egypt
+U0565,20,Groupe,Économique,Mozambique
+U0566,21,Solo,Économique,Belgium
+U0567,41,Affaires,Luxe,Saint Pierre and Miquelon
+U0568,22,Groupe,Économique,Sao Tome and Principe
+U0569,50,Familial,Luxe,Solomon Islands
+U0570,70,Affaires,Moyen,Monaco
+U0571,26,Romantique,Luxe,Kenya
+U0572,41,Familial,Luxe,Sweden
+U0573,66,Romantique,Moyen,Morocco
+U0574,56,Affaires,Luxe,Madagascar
+U0575,50,Romantique,Moyen,Guernsey
+U0576,20,Solo,Économique,Uganda
+U0577,63,Familial,Luxe,Fiji
+U0578,51,Familial,Moyen,Italy
+U0579,56,Affaires,Moyen,Russian Federation
+U0580,38,Familial,Luxe,Puerto Rico
+U0581,28,Affaires,Luxe,Andorra
+U0582,55,Familial,Luxe,China
+U0583,63,Affaires,Luxe,Germany
+U0584,48,Romantique,Luxe,Morocco
+U0585,39,Familial,Moyen,United States Minor Outlying Islands
+U0586,44,Affaires,Luxe,Moldova
+U0587,68,Affaires,Moyen,Kenya
+U0588,56,Familial,Luxe,Nicaragua
+U0589,59,Affaires,Moyen,Antigua and Barbuda
+U0590,64,Romantique,Luxe,Chile
+U0591,28,Familial,Luxe,Bouvet Island (Bouvetoya)
+U0592,27,Familial,Moyen,Tokelau
+U0593,20,Solo,Économique,Cameroon
+U0594,30,Romantique,Luxe,Jamaica
+U0595,38,Affaires,Moyen,Jersey
+U0596,44,Affaires,Moyen,Tokelau
+U0597,44,Affaires,Luxe,Honduras
+U0598,65,Affaires,Moyen,United States Virgin Islands
+U0599,63,Romantique,Moyen,Central African Republic
+U0600,53,Familial,Luxe,Namibia
+U0601,51,Familial,Luxe,Egypt
+U0602,29,Affaires,Luxe,Saint Lucia
+U0603,52,Familial,Luxe,Japan
+U0604,57,Familial,Moyen,Macao
+U0605,33,Affaires,Luxe,Saint Lucia
+U0606,32,Affaires,Luxe,Turks and Caicos Islands
+U0607,63,Romantique,Luxe,Guyana
+U0608,38,Affaires,Luxe,Fiji
+U0609,53,Affaires,Luxe,Martinique
+U0610,36,Romantique,Luxe,Kyrgyz Republic
+U0611,43,Familial,Moyen,Liberia
+U0612,36,Romantique,Luxe,China
+U0613,63,Romantique,Luxe,Montserrat
+U0614,46,Affaires,Luxe,Holy See (Vatican City State)
+U0615,65,Familial,Moyen,Togo
+U0616,30,Familial,Luxe,Jamaica
+U0617,53,Affaires,Luxe,Reunion
+U0618,26,Romantique,Moyen,Norway
+U0619,33,Romantique,Moyen,Madagascar
+U0620,58,Romantique,Moyen,Lesotho
+U0621,24,Groupe,Économique,Guyana
+U0622,39,Familial,Luxe,Dominican Republic
+U0623,24,Solo,Économique,Argentina
+U0624,18,Solo,Économique,Singapore
+U0625,44,Affaires,Luxe,Belarus
+U0626,48,Affaires,Moyen,Vietnam
+U0627,66,Familial,Luxe,Romania
+U0628,36,Familial,Moyen,Maldives
+U0629,67,Romantique,Moyen,Romania
+U0630,52,Affaires,Moyen,Brunei Darussalam
+U0631,29,Affaires,Moyen,Mauritania
+U0632,20,Groupe,Économique,Finland
+U0633,68,Familial,Moyen,Korea
+U0634,65,Familial,Moyen,North Macedonia
+U0635,18,Groupe,Économique,Belgium
+U0636,54,Affaires,Moyen,Korea
+U0637,39,Affaires,Luxe,Poland
+U0638,59,Affaires,Luxe,Liberia
+U0639,26,Familial,Luxe,Zambia
+U0640,35,Romantique,Moyen,Belgium
+U0641,39,Romantique,Luxe,Kenya
+U0642,59,Familial,Moyen,Belize
+U0643,18,Groupe,Économique,Faroe Islands
+U0644,68,Familial,Moyen,Djibouti
+U0645,29,Familial,Luxe,Tonga
+U0646,70,Familial,Luxe,Lithuania
+U0647,23,Groupe,Économique,Vanuatu
+U0648,60,Romantique,Moyen,Dominica
+U0649,26,Affaires,Luxe,Iceland
+U0650,33,Romantique,Luxe,Andorra
+U0651,42,Romantique,Luxe,New Caledonia
+U0652,66,Familial,Luxe,Holy See (Vatican City State)
+U0653,37,Familial,Moyen,Uzbekistan
+U0654,34,Familial,Luxe,Antarctica (the territory South of 60 deg S)
+U0655,62,Romantique,Moyen,Mexico
+U0656,60,Romantique,Luxe,Madagascar
+U0657,37,Romantique,Luxe,Ethiopia
+U0658,61,Affaires,Luxe,United States Minor Outlying Islands
+U0659,62,Romantique,Luxe,Greece
+U0660,41,Affaires,Moyen,Greece
+U0661,32,Romantique,Luxe,Angola
+U0662,27,Affaires,Luxe,Swaziland
+U0663,44,Affaires,Luxe,Liberia
+U0664,66,Affaires,Moyen,Azerbaijan
+U0665,66,Romantique,Moyen,Syrian Arab Republic
+U0666,51,Familial,Luxe,Kyrgyz Republic
+U0667,22,Solo,Économique,Djibouti
+U0668,21,Solo,Économique,Mayotte
+U0669,54,Affaires,Moyen,Haiti
+U0670,28,Affaires,Luxe,Belize
+U0671,25,Familial,Moyen,Montserrat
+U0672,63,Affaires,Luxe,Armenia
+U0673,23,Groupe,Économique,Isle of Man
+U0674,69,Romantique,Luxe,South Africa
+U0675,26,Familial,Luxe,Norway
+U0676,47,Affaires,Moyen,Trinidad and Tobago
+U0677,53,Familial,Luxe,San Marino
+U0678,64,Romantique,Luxe,Senegal
+U0679,34,Romantique,Moyen,Cameroon
+U0680,55,Romantique,Moyen,Gabon
+U0681,45,Familial,Moyen,Cook Islands
+U0682,52,Romantique,Moyen,Benin
+U0683,48,Romantique,Luxe,British Virgin Islands
+U0684,44,Romantique,Moyen,Central African Republic
+U0685,67,Affaires,Luxe,Guinea-Bissau
+U0686,41,Familial,Luxe,Greenland
+U0687,42,Familial,Moyen,Sri Lanka
+U0688,61,Affaires,Moyen,Falkland Islands (Malvinas)
+U0689,59,Familial,Moyen,Guyana
+U0690,29,Familial,Luxe,Mauritania
+U0691,51,Romantique,Moyen,Maldives
+U0692,18,Solo,Économique,Denmark
+U0693,37,Affaires,Luxe,Uganda
+U0694,52,Familial,Moyen,Bulgaria
+U0695,33,Affaires,Luxe,Palau
+U0696,27,Affaires,Moyen,Christmas Island
+U0697,64,Romantique,Moyen,Falkland Islands (Malvinas)
+U0698,69,Affaires,Luxe,Congo
+U0699,57,Romantique,Moyen,Hungary
+U0700,31,Romantique,Moyen,Nicaragua
+U0701,56,Romantique,Luxe,Guinea-Bissau
+U0702,56,Affaires,Moyen,Bahrain
+U0703,33,Familial,Moyen,Qatar
+U0704,43,Familial,Moyen,Sudan
+U0705,52,Romantique,Moyen,Andorra
+U0706,26,Familial,Luxe,Mayotte
+U0707,32,Familial,Luxe,Luxembourg
+U0708,54,Affaires,Luxe,Cook Islands
+U0709,33,Affaires,Moyen,Gabon
+U0710,60,Affaires,Moyen,Qatar
+U0711,44,Familial,Luxe,Bhutan
+U0712,21,Solo,Économique,United States of America
+U0713,58,Affaires,Luxe,Niue
+U0714,53,Familial,Moyen,Guam
+U0715,40,Affaires,Luxe,Cayman Islands
+U0716,68,Affaires,Luxe,Latvia
+U0717,62,Familial,Luxe,Guinea-Bissau
+U0718,27,Affaires,Luxe,China
+U0719,29,Familial,Luxe,Burundi
+U0720,33,Romantique,Luxe,Heard Island and McDonald Islands
+U0721,63,Romantique,Luxe,Saint Vincent and the Grenadines
+U0722,21,Groupe,Économique,Kyrgyz Republic
+U0723,44,Affaires,Moyen,Cuba
+U0724,42,Romantique,Luxe,Nauru
+U0725,31,Affaires,Moyen,Guam
+U0726,46,Familial,Moyen,Costa Rica
+U0727,52,Affaires,Moyen,British Virgin Islands
+U0728,21,Groupe,Économique,Tonga
+U0729,42,Affaires,Moyen,Estonia
+U0730,22,Solo,Économique,Tokelau
+U0731,69,Affaires,Moyen,San Marino
+U0732,48,Romantique,Luxe,Faroe Islands
+U0733,37,Romantique,Moyen,Montserrat
+U0734,30,Familial,Moyen,Tuvalu
+U0735,65,Familial,Moyen,Poland
+U0736,62,Affaires,Moyen,Congo
+U0737,43,Romantique,Luxe,Korea
+U0738,67,Familial,Luxe,American Samoa
+U0739,47,Affaires,Luxe,Morocco
+U0740,37,Affaires,Luxe,Thailand
+U0741,50,Familial,Luxe,Gibraltar
+U0742,24,Groupe,Économique,Tonga
+U0743,66,Familial,Moyen,Hungary
+U0744,41,Familial,Luxe,Oman
+U0745,20,Solo,Économique,Uzbekistan
+U0746,65,Romantique,Moyen,Falkland Islands (Malvinas)
+U0747,34,Familial,Luxe,United Kingdom
+U0748,36,Romantique,Moyen,United States Minor Outlying Islands
+U0749,39,Romantique,Luxe,Iceland
+U0750,54,Romantique,Luxe,Nauru
+U0751,53,Affaires,Luxe,Sierra Leone
+U0752,34,Affaires,Luxe,Falkland Islands (Malvinas)
+U0753,47,Romantique,Luxe,Swaziland
+U0754,28,Romantique,Luxe,Christmas Island
+U0755,29,Familial,Moyen,Italy
+U0756,51,Romantique,Moyen,Bermuda
+U0757,70,Affaires,Moyen,Montenegro
+U0758,66,Romantique,Luxe,Madagascar
+U0759,26,Familial,Moyen,Pakistan
+U0760,22,Solo,Économique,Malta
+U0761,18,Solo,Économique,Botswana
+U0762,50,Familial,Luxe,Saint Helena
+U0763,21,Groupe,Économique,Andorra
+U0764,60,Familial,Moyen,Luxembourg
+U0765,18,Groupe,Économique,Chile
+U0766,18,Solo,Économique,Norway
+U0767,51,Affaires,Luxe,Saint Kitts and Nevis
+U0768,52,Familial,Moyen,Cameroon
+U0769,50,Affaires,Luxe,Panama
+U0770,69,Romantique,Moyen,Switzerland
+U0771,24,Solo,Économique,Falkland Islands (Malvinas)
+U0772,33,Romantique,Luxe,Russian Federation
+U0773,70,Familial,Luxe,Moldova
+U0774,68,Familial,Moyen,Brunei Darussalam
+U0775,41,Familial,Luxe,Singapore
+U0776,54,Romantique,Moyen,Ecuador
+U0777,37,Familial,Moyen,Uganda
+U0778,59,Affaires,Moyen,Ecuador
+U0779,23,Groupe,Économique,Madagascar
+U0780,42,Familial,Luxe,Andorra
+U0781,21,Solo,Économique,Slovenia
+U0782,62,Romantique,Moyen,Rwanda
+U0783,49,Familial,Luxe,China
+U0784,54,Romantique,Moyen,South Georgia and the South Sandwich Islands
+U0785,32,Romantique,Luxe,Seychelles
+U0786,35,Romantique,Moyen,Mauritania
+U0787,61,Familial,Moyen,Bouvet Island (Bouvetoya)
+U0788,29,Affaires,Moyen,Switzerland
+U0789,31,Familial,Moyen,Romania
+U0790,66,Affaires,Luxe,United States of America
+U0791,22,Groupe,Économique,Czech Republic
+U0792,28,Familial,Moyen,French Southern Territories
+U0793,54,Familial,Luxe,Mali
+U0794,42,Affaires,Moyen,Martinique
+U0795,68,Affaires,Moyen,Sri Lanka
+U0796,50,Affaires,Luxe,Cook Islands
+U0797,21,Solo,Économique,Finland
+U0798,45,Romantique,Moyen,Dominica
+U0799,39,Familial,Luxe,Norfolk Island
+U0800,67,Familial,Moyen,Turks and Caicos Islands
+U0801,58,Familial,Luxe,United States Virgin Islands
+U0802,49,Romantique,Luxe,Finland
+U0803,53,Familial,Luxe,Tonga
+U0804,29,Familial,Luxe,Andorra
+U0805,23,Groupe,Économique,Burkina Faso
+U0806,69,Romantique,Moyen,Italy
+U0807,23,Groupe,Économique,Malawi
+U0808,27,Affaires,Moyen,Cuba
+U0809,65,Familial,Luxe,Tanzania
+U0810,41,Romantique,Moyen,Antarctica (the territory South of 60 deg S)
+U0811,18,Groupe,Économique,Italy
+U0812,46,Familial,Luxe,Kyrgyz Republic
+U0813,24,Solo,Économique,Estonia
+U0814,23,Solo,Économique,Liberia
+U0815,45,Familial,Luxe,Antigua and Barbuda
+U0816,24,Solo,Économique,Guyana
+U0817,23,Groupe,Économique,Vanuatu
+U0818,53,Romantique,Luxe,Estonia
+U0819,42,Romantique,Luxe,Haiti
+U0820,44,Familial,Moyen,Nigeria
+U0821,64,Affaires,Moyen,Hong Kong
+U0822,54,Affaires,Moyen,Tanzania
+U0823,61,Familial,Moyen,Nigeria
+U0824,26,Affaires,Luxe,Dominican Republic
+U0825,35,Affaires,Moyen,Cote d'Ivoire
+U0826,22,Solo,Économique,Turkmenistan
+U0827,45,Familial,Luxe,Kiribati
+U0828,37,Affaires,Moyen,Tajikistan
+U0829,41,Familial,Moyen,United States Virgin Islands
+U0830,64,Affaires,Luxe,New Caledonia
+U0831,56,Affaires,Moyen,Bulgaria
+U0832,47,Romantique,Moyen,Syrian Arab Republic
+U0833,37,Romantique,Luxe,Bhutan
+U0834,39,Familial,Luxe,Sao Tome and Principe
+U0835,69,Familial,Luxe,Guernsey
+U0836,39,Affaires,Moyen,Lesotho
+U0837,37,Affaires,Moyen,Palau
+U0838,48,Familial,Moyen,Palau
+U0839,43,Familial,Luxe,Seychelles
+U0840,65,Affaires,Luxe,Eritrea
+U0841,54,Romantique,Luxe,Jersey
+U0842,42,Familial,Luxe,Aruba
+U0843,41,Romantique,Moyen,Turkmenistan
+U0844,55,Affaires,Moyen,Rwanda
+U0845,61,Affaires,Moyen,Nauru
+U0846,64,Familial,Moyen,Venezuela
+U0847,46,Familial,Moyen,Afghanistan
+U0848,70,Familial,Luxe,Congo
+U0849,26,Familial,Luxe,Northern Mariana Islands
+U0850,33,Affaires,Moyen,Venezuela
+U0851,63,Familial,Luxe,Kuwait
+U0852,22,Groupe,Économique,Central African Republic
+U0853,56,Familial,Luxe,Brazil
+U0854,52,Affaires,Luxe,Turkmenistan
+U0855,52,Romantique,Luxe,Cape Verde
+U0856,62,Affaires,Moyen,Botswana
+U0857,24,Solo,Économique,Ecuador
+U0858,60,Affaires,Luxe,Kyrgyz Republic
+U0859,28,Familial,Moyen,Korea
+U0860,54,Affaires,Luxe,Malta
+U0861,66,Familial,Luxe,Guernsey
+U0862,24,Solo,Économique,American Samoa
+U0863,24,Groupe,Économique,New Zealand
+U0864,32,Familial,Moyen,Algeria
+U0865,46,Familial,Luxe,Afghanistan
+U0866,47,Affaires,Moyen,British Virgin Islands
+U0867,40,Romantique,Luxe,Zambia
+U0868,24,Groupe,Économique,Guadeloupe
+U0869,44,Romantique,Moyen,Svalbard & Jan Mayen Islands
+U0870,64,Romantique,Luxe,Zimbabwe
+U0871,37,Affaires,Luxe,Philippines
+U0872,68,Romantique,Luxe,Finland
 U0873,40,Familial,Moyen,Jamaica
-U0874,46,Affaires,Luxe,Christmas Island
-U0875,38,Romantique,Luxe,Cameroon
-U0876,20,Solo,Économique,Macao
-U0877,19,Groupe,Économique,Tunisia
-U0878,59,Romantique,Moyen,Sudan
-U0879,65,Romantique,Moyen,Kyrgyz Republic
-U0880,53,Romantique,Luxe,Bouvet Island (Bouvetoya)
-U0881,53,Familial,Luxe,Haiti
-U0882,32,Affaires,Moyen,Niger
-U0883,29,Familial,Luxe,Western Sahara
-U0884,43,Romantique,Moyen,Gabon
-U0885,46,Affaires,Luxe,French Polynesia
-U0886,42,Romantique,Moyen,Myanmar
-U0887,31,Affaires,Moyen,Lithuania
-U0888,54,Romantique,Moyen,Togo
-U0889,41,Familial,Moyen,Argentina
-U0890,47,Romantique,Luxe,Papua New Guinea
-U0891,60,Familial,Luxe,Gibraltar
-U0892,56,Familial,Luxe,Tajikistan
-U0893,55,Romantique,Luxe,Cambodia
-U0894,40,Familial,Moyen,Benin
-U0895,70,Affaires,Luxe,Argentina
-U0896,57,Affaires,Moyen,Antigua and Barbuda
-U0897,61,Romantique,Luxe,Honduras
-U0898,25,Romantique,Luxe,Luxembourg
-U0899,25,Romantique,Luxe,Costa Rica
-U0900,62,Romantique,Luxe,Western Sahara
-U0901,44,Affaires,Moyen,United States Minor Outlying Islands
-U0902,54,Familial,Luxe,Costa Rica
-U0903,29,Affaires,Moyen,Greece
-U0904,53,Romantique,Luxe,Norway
-U0905,36,Romantique,Moyen,Bhutan
-U0906,38,Affaires,Moyen,Uzbekistan
-U0907,40,Romantique,Luxe,Kazakhstan
-U0908,26,Romantique,Luxe,Singapore
-U0909,53,Affaires,Luxe,Vanuatu
-U0910,44,Affaires,Luxe,Saudi Arabia
-U0911,44,Affaires,Luxe,Northern Mariana Islands
-U0912,49,Romantique,Moyen,Dominica
-U0913,54,Romantique,Moyen,Ukraine
-U0914,36,Romantique,Luxe,Algeria
-U0915,32,Familial,Luxe,Liechtenstein
-U0916,28,Affaires,Luxe,Kuwait
-U0917,53,Affaires,Moyen,Croatia
-U0918,54,Romantique,Luxe,Antarctica (the territory South of 60 deg S)
-U0919,67,Affaires,Luxe,Saint Pierre and Miquelon
-U0920,52,Romantique,Luxe,Marshall Islands
-U0921,52,Romantique,Luxe,United States of America
-U0922,24,Solo,Économique,Bangladesh
-U0923,37,Romantique,Luxe,Australia
-U0924,34,Affaires,Moyen,Zimbabwe
-U0925,46,Romantique,Moyen,Sao Tome and Principe
-U0926,31,Familial,Luxe,Iceland
-U0927,63,Affaires,Luxe,Norfolk Island
-U0928,28,Familial,Moyen,Iceland
-U0929,68,Romantique,Moyen,Turkmenistan
-U0930,69,Romantique,Luxe,Faroe Islands
-U0931,52,Familial,Moyen,Gambia
-U0932,38,Familial,Luxe,Fiji
-U0933,36,Familial,Luxe,Zambia
-U0934,50,Affaires,Moyen,Tanzania
-U0935,26,Affaires,Moyen,Yemen
-U0936,35,Familial,Moyen,United Arab Emirates
-U0937,62,Romantique,Moyen,Equatorial Guinea
-U0938,27,Familial,Luxe,Australia
-U0939,33,Familial,Luxe,Ecuador
-U0940,49,Romantique,Luxe,Costa Rica
-U0941,58,Familial,Luxe,Denmark
-U0942,46,Romantique,Moyen,British Virgin Islands
-U0943,43,Affaires,Luxe,Congo
-U0944,62,Familial,Luxe,Jamaica
-U0945,49,Familial,Moyen,Suriname
-U0946,67,Affaires,Moyen,Macao
-U0947,64,Familial,Luxe,Germany
-U0948,22,Groupe,Économique,Peru
-U0949,31,Affaires,Moyen,Guadeloupe
-U0950,49,Familial,Luxe,Zimbabwe
-U0951,36,Affaires,Moyen,Palestinian Territory
-U0952,54,Familial,Luxe,Morocco
-U0953,61,Romantique,Moyen,Palestinian Territory
-U0954,24,Groupe,Économique,Moldova
-U0955,19,Solo,Économique,Denmark
-U0956,28,Affaires,Luxe,Suriname
-U0957,18,Groupe,Économique,Australia
-U0958,30,Familial,Moyen,Western Sahara
-U0959,59,Familial,Moyen,British Virgin Islands
-U0960,35,Romantique,Luxe,Congo
-U0961,34,Romantique,Luxe,Saint Martin
-U0962,60,Affaires,Moyen,Honduras
-U0963,21,Groupe,Économique,Tokelau
-U0964,58,Familial,Moyen,Guinea-Bissau
-U0965,45,Affaires,Moyen,Vanuatu
-U0966,63,Romantique,Moyen,French Guiana
-U0967,31,Affaires,Moyen,Solomon Islands
-U0968,26,Familial,Moyen,Afghanistan
-U0969,51,Affaires,Luxe,Togo
-U0970,18,Solo,Économique,Vietnam
-U0971,62,Familial,Moyen,Anguilla
-U0972,45,Affaires,Moyen,Kenya
-U0973,48,Romantique,Moyen,Malawi
-U0974,42,Romantique,Moyen,Tajikistan
-U0975,24,Groupe,Économique,Romania
-U0976,41,Familial,Moyen,Hungary
-U0977,42,Romantique,Moyen,South Africa
-U0978,22,Solo,Économique,Somalia
-U0979,57,Affaires,Moyen,Brunei Darussalam
-U0980,46,Familial,Moyen,Trinidad and Tobago
-U0981,58,Affaires,Moyen,Antigua and Barbuda
-U0982,44,Affaires,Luxe,Papua New Guinea
-U0983,31,Romantique,Moyen,Cocos (Keeling) Islands
-U0984,26,Romantique,Luxe,Cyprus
-U0985,40,Familial,Luxe,Central African Republic
-U0986,68,Romantique,Moyen,Turkmenistan
-U0987,35,Familial,Moyen,Isle of Man
-U0988,33,Familial,Luxe,Comoros
-U0989,67,Affaires,Moyen,Heard Island and McDonald Islands
-U0990,60,Familial,Moyen,Japan
-U0991,51,Affaires,Moyen,Argentina
-U0992,65,Familial,Luxe,Turks and Caicos Islands
-U0993,59,Romantique,Moyen,Saint Pierre and Miquelon
-U0994,49,Familial,Moyen,Vanuatu
-U0995,33,Affaires,Moyen,Cuba
-U0996,51,Romantique,Luxe,San Marino
-U0997,38,Romantique,Luxe,Mexico
-U0998,54,Familial,Luxe,United Arab Emirates
-U0999,52,Affaires,Moyen,Micronesia
-U1000,66,Familial,Moyen,Iran
-U1001,19,Solo,Économique,Reunion
-U1002,18,Groupe,Économique,Greenland
-U1003,31,Romantique,Moyen,Romania
-U1004,68,Familial,Luxe,Guinea
-U1005,58,Affaires,Luxe,Kazakhstan
-U1006,45,Affaires,Luxe,Timor-Leste
-U1007,23,Solo,Économique,Malawi
-U1008,35,Romantique,Luxe,Hong Kong
-U1009,23,Solo,Économique,Belgium
-U1010,69,Romantique,Luxe,Gibraltar
-U1011,43,Affaires,Moyen,Saint Kitts and Nevis
-U1012,37,Familial,Luxe,Guinea-Bissau
-U1013,64,Romantique,Moyen,El Salvador
-U1014,33,Romantique,Luxe,Paraguay
-U1015,25,Affaires,Moyen,Luxembourg
-U1016,37,Familial,Moyen,Armenia
-U1017,25,Romantique,Moyen,Somalia
-U1018,62,Romantique,Moyen,Christmas Island
-U1019,49,Familial,Luxe,Gabon
-U1020,28,Affaires,Moyen,Albania
-U1021,65,Familial,Moyen,Norway
-U1022,67,Romantique,Luxe,New Caledonia
-U1023,69,Familial,Luxe,Tonga
-U1024,51,Romantique,Luxe,Poland
-U1025,63,Affaires,Moyen,Mali
-U1026,49,Familial,Luxe,Iran
-U1027,21,Groupe,Économique,Tunisia
-U1028,54,Romantique,Luxe,United States Virgin Islands
-U1029,28,Affaires,Moyen,Jamaica
-U1030,54,Affaires,Moyen,Western Sahara
-U1031,32,Familial,Moyen,Bahamas
-U1032,20,Solo,Économique,Czech Republic
-U1033,33,Romantique,Luxe,Oman
-U1034,41,Familial,Moyen,Tokelau
-U1035,29,Romantique,Luxe,French Southern Territories
-U1036,32,Affaires,Moyen,Anguilla
-U1037,44,Affaires,Luxe,Timor-Leste
-U1038,35,Romantique,Luxe,Panama
-U1039,25,Familial,Moyen,Korea
+U0874,46,Affaires,Luxe,Marshall Islands
+U0875,38,Romantique,Luxe,Bolivia
+U0876,20,Solo,Économique,Bahrain
+U0877,19,Groupe,Économique,Isle of Man
+U0878,59,Romantique,Moyen,Wallis and Futuna
+U0879,65,Romantique,Moyen,Monaco
+U0880,53,Romantique,Luxe,Saint Martin
+U0881,53,Familial,Luxe,Portugal
+U0882,32,Affaires,Moyen,Mexico
+U0883,29,Familial,Luxe,Congo
+U0884,43,Romantique,Moyen,Uruguay
+U0885,46,Affaires,Luxe,Guinea
+U0886,42,Romantique,Moyen,Somalia
+U0887,31,Affaires,Moyen,Lesotho
+U0888,54,Romantique,Moyen,Lebanon
+U0889,41,Familial,Moyen,Colombia
+U0890,47,Romantique,Luxe,Liberia
+U0891,60,Familial,Luxe,French Guiana
+U0892,56,Familial,Luxe,Yemen
+U0893,55,Romantique,Luxe,Guinea
+U0894,40,Familial,Moyen,Niger
+U0895,70,Affaires,Luxe,Bulgaria
+U0896,57,Affaires,Moyen,Kenya
+U0897,61,Romantique,Luxe,Venezuela
+U0898,25,Romantique,Luxe,Greenland
+U0899,25,Romantique,Luxe,Norfolk Island
+U0900,62,Romantique,Luxe,Cape Verde
+U0901,44,Affaires,Moyen,Singapore
+U0902,54,Familial,Luxe,Guam
+U0903,29,Affaires,Moyen,Venezuela
+U0904,53,Romantique,Luxe,Haiti
+U0905,36,Romantique,Moyen,Zimbabwe
+U0906,38,Affaires,Moyen,Saint Barthelemy
+U0907,40,Romantique,Luxe,Bolivia
+U0908,26,Romantique,Luxe,Romania
+U0909,53,Affaires,Luxe,Cayman Islands
+U0910,44,Affaires,Luxe,Luxembourg
+U0911,44,Affaires,Luxe,Belgium
+U0912,49,Romantique,Moyen,Japan
+U0913,54,Romantique,Moyen,Andorra
+U0914,36,Romantique,Luxe,Saint Vincent and the Grenadines
+U0915,32,Familial,Luxe,Kiribati
+U0916,28,Affaires,Luxe,Djibouti
+U0917,53,Affaires,Moyen,Ireland
+U0918,54,Romantique,Luxe,Bosnia and Herzegovina
+U0919,67,Affaires,Luxe,Ethiopia
+U0920,52,Romantique,Luxe,Cote d'Ivoire
+U0921,52,Romantique,Luxe,Central African Republic
+U0922,24,Solo,Économique,Hungary
+U0923,37,Romantique,Luxe,Tunisia
+U0924,34,Affaires,Moyen,Tajikistan
+U0925,46,Romantique,Moyen,Liberia
+U0926,31,Familial,Luxe,Niger
+U0927,63,Affaires,Luxe,Bahamas
+U0928,28,Familial,Moyen,Reunion
+U0929,68,Romantique,Moyen,Lesotho
+U0930,69,Romantique,Luxe,Saint Kitts and Nevis
+U0931,52,Familial,Moyen,Suriname
+U0932,38,Familial,Luxe,British Indian Ocean Territory (Chagos Archipelago)
+U0933,36,Familial,Luxe,Niue
+U0934,50,Affaires,Moyen,Cayman Islands
+U0935,26,Affaires,Moyen,Nauru
+U0936,35,Familial,Moyen,Turks and Caicos Islands
+U0937,62,Romantique,Moyen,Indonesia
+U0938,27,Familial,Luxe,Namibia
+U0939,33,Familial,Luxe,Martinique
+U0940,49,Romantique,Luxe,Senegal
+U0941,58,Familial,Luxe,Samoa
+U0942,46,Romantique,Moyen,Belgium
+U0943,43,Affaires,Luxe,Honduras
+U0944,62,Familial,Luxe,Solomon Islands
+U0945,49,Familial,Moyen,Turkey
+U0946,67,Affaires,Moyen,Libyan Arab Jamahiriya
+U0947,64,Familial,Luxe,Reunion
+U0948,22,Groupe,Économique,Costa Rica
+U0949,31,Affaires,Moyen,New Zealand
+U0950,49,Familial,Luxe,New Caledonia
+U0951,36,Affaires,Moyen,French Guiana
+U0952,54,Familial,Luxe,United States of America
+U0953,61,Romantique,Moyen,Ireland
+U0954,24,Groupe,Économique,Guinea-Bissau
+U0955,19,Solo,Économique,Djibouti
+U0956,28,Affaires,Luxe,Benin
+U0957,18,Groupe,Économique,Marshall Islands
+U0958,30,Familial,Moyen,Jersey
+U0959,59,Familial,Moyen,Latvia
+U0960,35,Romantique,Luxe,Armenia
+U0961,34,Romantique,Luxe,Libyan Arab Jamahiriya
+U0962,60,Affaires,Moyen,Puerto Rico
+U0963,21,Groupe,Économique,Brazil
+U0964,58,Familial,Moyen,Uzbekistan
+U0965,45,Affaires,Moyen,Netherlands
+U0966,63,Romantique,Moyen,Suriname
+U0967,31,Affaires,Moyen,Antarctica (the territory South of 60 deg S)
+U0968,26,Familial,Moyen,United Kingdom
+U0969,51,Affaires,Luxe,Martinique
+U0970,18,Solo,Économique,Saint Helena
+U0971,62,Familial,Moyen,Norway
+U0972,45,Affaires,Moyen,Malawi
+U0973,48,Romantique,Moyen,Brazil
+U0974,42,Romantique,Moyen,Poland
+U0975,24,Groupe,Économique,Yemen
+U0976,41,Familial,Moyen,Guinea-Bissau
+U0977,42,Romantique,Moyen,Philippines
+U0978,22,Solo,Économique,United Arab Emirates
+U0979,57,Affaires,Moyen,Brazil
+U0980,46,Familial,Moyen,Svalbard & Jan Mayen Islands
+U0981,58,Affaires,Moyen,Luxembourg
+U0982,44,Affaires,Luxe,Dominican Republic
+U0983,31,Romantique,Moyen,Latvia
+U0984,26,Romantique,Luxe,Netherlands
+U0985,40,Familial,Luxe,Cape Verde
+U0986,68,Romantique,Moyen,Faroe Islands
+U0987,35,Familial,Moyen,India
+U0988,33,Familial,Luxe,Azerbaijan
+U0989,67,Affaires,Moyen,Cape Verde
+U0990,60,Familial,Moyen,Germany
+U0991,51,Affaires,Moyen,Seychelles
+U0992,65,Familial,Luxe,Bolivia
+U0993,59,Romantique,Moyen,French Polynesia
+U0994,49,Familial,Moyen,Northern Mariana Islands
+U0995,33,Affaires,Moyen,France
+U0996,51,Romantique,Luxe,Sierra Leone
+U0997,38,Romantique,Luxe,Andorra
+U0998,54,Familial,Luxe,Barbados
+U0999,52,Affaires,Moyen,Korea
+U1000,66,Familial,Moyen,Lesotho
+U1001,19,Solo,Économique,Poland
+U1002,18,Groupe,Économique,Jordan
+U1003,31,Romantique,Moyen,Peru
+U1004,68,Familial,Luxe,Vanuatu
+U1005,58,Affaires,Luxe,Antigua and Barbuda
+U1006,45,Affaires,Luxe,Thailand
+U1007,23,Solo,Économique,Equatorial Guinea
+U1008,35,Romantique,Luxe,Benin
+U1009,23,Solo,Économique,Falkland Islands (Malvinas)
+U1010,69,Romantique,Luxe,Equatorial Guinea
+U1011,43,Affaires,Moyen,Burkina Faso
+U1012,37,Familial,Luxe,Senegal
+U1013,64,Romantique,Moyen,Djibouti
+U1014,33,Romantique,Luxe,Syrian Arab Republic
+U1015,25,Affaires,Moyen,Finland
+U1016,37,Familial,Moyen,Vietnam
+U1017,25,Romantique,Moyen,Cayman Islands
+U1018,62,Romantique,Moyen,Poland
+U1019,49,Familial,Luxe,Switzerland
+U1020,28,Affaires,Moyen,Belgium
+U1021,65,Familial,Moyen,Hong Kong
+U1022,67,Romantique,Luxe,Christmas Island
+U1023,69,Familial,Luxe,Mongolia
+U1024,51,Romantique,Luxe,Pitcairn Islands
+U1025,63,Affaires,Moyen,New Caledonia
+U1026,49,Familial,Luxe,Guyana
+U1027,21,Groupe,Économique,Nicaragua
+U1028,54,Romantique,Luxe,Ethiopia
+U1029,28,Affaires,Moyen,Belgium
+U1030,54,Affaires,Moyen,Cocos (Keeling) Islands
+U1031,32,Familial,Moyen,Guam
+U1032,20,Solo,Économique,Croatia
+U1033,33,Romantique,Luxe,Cape Verde
+U1034,41,Familial,Moyen,Poland
+U1035,29,Romantique,Luxe,South Africa
+U1036,32,Affaires,Moyen,Ghana
+U1037,44,Affaires,Luxe,Israel
+U1038,35,Romantique,Luxe,Sri Lanka
+U1039,25,Familial,Moyen,Hungary
 U1040,29,Romantique,Moyen,Ghana
-U1041,43,Romantique,Luxe,Philippines
-U1042,36,Affaires,Luxe,Namibia
-U1043,23,Groupe,Économique,British Virgin Islands
-U1044,18,Groupe,Économique,Mauritius
-U1045,30,Affaires,Luxe,Taiwan
-U1046,65,Affaires,Moyen,Senegal
-U1047,47,Familial,Luxe,Australia
-U1048,67,Romantique,Moyen,Kyrgyz Republic
-U1049,27,Romantique,Luxe,South Africa
-U1050,19,Solo,Économique,Pakistan
-U1051,52,Familial,Moyen,Uruguay
-U1052,39,Romantique,Luxe,Aruba
-U1053,65,Affaires,Luxe,Holy See (Vatican City State)
-U1054,24,Solo,Économique,Greece
-U1055,51,Romantique,Luxe,Guyana
-U1056,49,Romantique,Moyen,Saudi Arabia
-U1057,63,Familial,Moyen,Saint Martin
-U1058,20,Solo,Économique,Bahamas
-U1059,51,Familial,Luxe,Netherlands
-U1060,47,Affaires,Moyen,Uganda
-U1061,55,Romantique,Moyen,Bhutan
-U1062,58,Familial,Moyen,Grenada
-U1063,55,Affaires,Moyen,Jamaica
-U1064,45,Affaires,Moyen,Estonia
-U1065,33,Affaires,Luxe,Nepal
-U1066,38,Affaires,Luxe,Paraguay
-U1067,38,Affaires,Luxe,United States of America
-U1068,32,Romantique,Moyen,China
-U1069,26,Familial,Moyen,Jordan
-U1070,27,Romantique,Moyen,Montserrat
-U1071,46,Familial,Luxe,Cuba
-U1072,44,Romantique,Luxe,Seychelles
-U1073,67,Romantique,Luxe,Tajikistan
-U1074,37,Affaires,Luxe,Guadeloupe
-U1075,25,Romantique,Moyen,Guyana
-U1076,69,Affaires,Luxe,Martinique
-U1077,70,Affaires,Moyen,Heard Island and McDonald Islands
-U1078,31,Affaires,Moyen,Benin
-U1079,23,Solo,Économique,Saudi Arabia
-U1080,40,Familial,Moyen,Canada
-U1081,61,Familial,Luxe,Norway
-U1082,70,Romantique,Moyen,Eritrea
-U1083,43,Familial,Moyen,Isle of Man
-U1084,24,Groupe,Économique,Seychelles
-U1085,24,Solo,Économique,French Southern Territories
-U1086,25,Romantique,Moyen,Kazakhstan
-U1087,67,Romantique,Moyen,Denmark
-U1088,30,Affaires,Luxe,Uruguay
-U1089,61,Affaires,Moyen,Guatemala
-U1090,55,Affaires,Luxe,Liechtenstein
-U1091,70,Romantique,Moyen,Antarctica (the territory South of 60 deg S)
-U1092,22,Solo,Économique,Senegal
-U1093,59,Familial,Moyen,New Zealand
-U1094,23,Groupe,Économique,Serbia
-U1095,25,Romantique,Luxe,Burundi
-U1096,21,Solo,Économique,British Indian Ocean Territory (Chagos Archipelago)
-U1097,54,Familial,Luxe,Marshall Islands
-U1098,49,Romantique,Luxe,Cape Verde
-U1099,61,Familial,Moyen,Hong Kong
-U1100,40,Romantique,Moyen,Christmas Island
-U1101,35,Affaires,Luxe,Poland
-U1102,27,Romantique,Moyen,Vietnam
-U1103,59,Familial,Luxe,Palau
-U1104,44,Affaires,Luxe,French Guiana
-U1105,21,Solo,Économique,British Indian Ocean Territory (Chagos Archipelago)
-U1106,35,Affaires,Moyen,Switzerland
-U1107,44,Romantique,Moyen,Greece
-U1108,58,Affaires,Moyen,Monaco
-U1109,42,Affaires,Luxe,Armenia
-U1110,48,Affaires,Luxe,Zimbabwe
-U1111,40,Affaires,Luxe,United Arab Emirates
-U1112,42,Familial,Moyen,Niger
-U1113,19,Groupe,Économique,Algeria
-U1114,56,Romantique,Moyen,Ireland
-U1115,69,Familial,Moyen,Grenada
-U1116,69,Familial,Luxe,United Arab Emirates
-U1117,67,Affaires,Moyen,Syrian Arab Republic
-U1118,28,Romantique,Moyen,Palestinian Territory
-U1119,60,Romantique,Luxe,Montserrat
-U1120,52,Affaires,Moyen,Turkey
-U1121,66,Romantique,Luxe,Jamaica
-U1122,40,Romantique,Moyen,Ireland
-U1123,33,Familial,Luxe,Suriname
-U1124,69,Affaires,Luxe,Romania
-U1125,55,Romantique,Luxe,Montenegro
-U1126,54,Affaires,Moyen,Uzbekistan
-U1127,54,Romantique,Luxe,New Caledonia
-U1128,52,Familial,Moyen,Sweden
-U1129,49,Romantique,Moyen,France
-U1130,21,Solo,Économique,Poland
-U1131,56,Romantique,Moyen,Nigeria
-U1132,51,Familial,Moyen,Nepal
-U1133,39,Familial,Moyen,Kuwait
-U1134,69,Romantique,Luxe,Tunisia
-U1135,63,Romantique,Luxe,Jersey
-U1136,21,Solo,Économique,Comoros
-U1137,27,Familial,Moyen,Hungary
-U1138,67,Romantique,Luxe,Saudi Arabia
-U1139,22,Groupe,Économique,Luxembourg
-U1140,63,Affaires,Luxe,Indonesia
-U1141,55,Romantique,Luxe,Bhutan
-U1142,37,Affaires,Moyen,Iran
-U1143,28,Familial,Luxe,Falkland Islands (Malvinas)
-U1144,68,Affaires,Luxe,Ghana
-U1145,59,Familial,Moyen,Colombia
-U1146,63,Affaires,Luxe,Belarus
-U1147,32,Familial,Moyen,Turks and Caicos Islands
-U1148,42,Familial,Luxe,United States Minor Outlying Islands
-U1149,26,Romantique,Moyen,Liberia
-U1150,62,Affaires,Luxe,Guatemala
-U1151,67,Affaires,Moyen,Trinidad and Tobago
-U1152,29,Familial,Luxe,Suriname
-U1153,69,Affaires,Moyen,American Samoa
-U1154,58,Affaires,Moyen,Saint Pierre and Miquelon
-U1155,49,Romantique,Luxe,Algeria
-U1156,65,Romantique,Moyen,Cuba
-U1157,40,Familial,Moyen,Turkmenistan
-U1158,58,Romantique,Luxe,Singapore
-U1159,46,Romantique,Luxe,Pitcairn Islands
-U1160,31,Romantique,Moyen,Spain
-U1161,40,Familial,Moyen,Malawi
-U1162,64,Romantique,Moyen,Suriname
-U1163,42,Familial,Luxe,Gabon
-U1164,28,Affaires,Luxe,Eritrea
-U1165,42,Familial,Luxe,Equatorial Guinea
-U1166,24,Groupe,Économique,Greenland
-U1167,68,Affaires,Moyen,Czech Republic
-U1168,28,Affaires,Moyen,Marshall Islands
-U1169,69,Romantique,Luxe,Puerto Rico
-U1170,19,Groupe,Économique,Tanzania
-U1171,34,Romantique,Moyen,Armenia
-U1172,39,Romantique,Luxe,Nauru
-U1173,28,Familial,Moyen,Trinidad and Tobago
-U1174,53,Romantique,Luxe,Brazil
-U1175,56,Affaires,Luxe,Philippines
-U1176,63,Romantique,Luxe,Micronesia
-U1177,59,Romantique,Luxe,Lebanon
-U1178,28,Romantique,Moyen,Bahamas
-U1179,39,Romantique,Moyen,Antigua and Barbuda
-U1180,44,Affaires,Luxe,Canada
-U1181,60,Familial,Luxe,Turkmenistan
-U1182,33,Romantique,Moyen,Argentina
-U1183,43,Affaires,Luxe,Cambodia
-U1184,27,Romantique,Luxe,South Georgia and the South Sandwich Islands
-U1185,18,Groupe,Économique,Mauritania
-U1186,23,Groupe,Économique,Chad
+U1041,43,Romantique,Luxe,North Macedonia
+U1042,36,Affaires,Luxe,Finland
+U1043,23,Groupe,Économique,Ukraine
+U1044,18,Groupe,Économique,Portugal
+U1045,30,Affaires,Luxe,Belize
+U1046,65,Affaires,Moyen,Denmark
+U1047,47,Familial,Luxe,Colombia
+U1048,67,Romantique,Moyen,Fiji
+U1049,27,Romantique,Luxe,Solomon Islands
+U1050,19,Solo,Économique,Norway
+U1051,52,Familial,Moyen,American Samoa
+U1052,39,Romantique,Luxe,Austria
+U1053,65,Affaires,Luxe,Algeria
+U1054,24,Solo,Économique,Spain
+U1055,51,Romantique,Luxe,New Caledonia
+U1056,49,Romantique,Moyen,Sao Tome and Principe
+U1057,63,Familial,Moyen,Fiji
+U1058,20,Solo,Économique,Saint Helena
+U1059,51,Familial,Luxe,Western Sahara
+U1060,47,Affaires,Moyen,Saint Pierre and Miquelon
+U1061,55,Romantique,Moyen,United States Virgin Islands
+U1062,58,Familial,Moyen,Afghanistan
+U1063,55,Affaires,Moyen,Tuvalu
+U1064,45,Affaires,Moyen,Martinique
+U1065,33,Affaires,Luxe,Brazil
+U1066,38,Affaires,Luxe,New Zealand
+U1067,38,Affaires,Luxe,Montenegro
+U1068,32,Romantique,Moyen,Romania
+U1069,26,Familial,Moyen,Tajikistan
+U1070,27,Romantique,Moyen,Peru
+U1071,46,Familial,Luxe,Bouvet Island (Bouvetoya)
+U1072,44,Romantique,Luxe,North Macedonia
+U1073,67,Romantique,Luxe,Kyrgyz Republic
+U1074,37,Affaires,Luxe,Korea
+U1075,25,Romantique,Moyen,Bahamas
+U1076,69,Affaires,Luxe,Saint Vincent and the Grenadines
+U1077,70,Affaires,Moyen,Maldives
+U1078,31,Affaires,Moyen,Congo
+U1079,23,Solo,Économique,Yemen
+U1080,40,Familial,Moyen,Azerbaijan
+U1081,61,Familial,Luxe,Taiwan
+U1082,70,Romantique,Moyen,Iraq
+U1083,43,Familial,Moyen,Equatorial Guinea
+U1084,24,Groupe,Économique,Swaziland
+U1085,24,Solo,Économique,Rwanda
+U1086,25,Romantique,Moyen,Montenegro
+U1087,67,Romantique,Moyen,Slovenia
+U1088,30,Affaires,Luxe,Latvia
+U1089,61,Affaires,Moyen,Bermuda
+U1090,55,Affaires,Luxe,Papua New Guinea
+U1091,70,Romantique,Moyen,Uzbekistan
+U1092,22,Solo,Économique,Palau
+U1093,59,Familial,Moyen,Lesotho
+U1094,23,Groupe,Économique,Dominica
+U1095,25,Romantique,Luxe,Faroe Islands
+U1096,21,Solo,Économique,Sierra Leone
+U1097,54,Familial,Luxe,Japan
+U1098,49,Romantique,Luxe,South Georgia and the South Sandwich Islands
+U1099,61,Familial,Moyen,Croatia
+U1100,40,Romantique,Moyen,Honduras
+U1101,35,Affaires,Luxe,Czech Republic
+U1102,27,Romantique,Moyen,Mexico
+U1103,59,Familial,Luxe,Syrian Arab Republic
+U1104,44,Affaires,Luxe,Tajikistan
+U1105,21,Solo,Économique,Monaco
+U1106,35,Affaires,Moyen,Wallis and Futuna
+U1107,44,Romantique,Moyen,Bahrain
+U1108,58,Affaires,Moyen,Congo
+U1109,42,Affaires,Luxe,Australia
+U1110,48,Affaires,Luxe,Bermuda
+U1111,40,Affaires,Luxe,Mozambique
+U1112,42,Familial,Moyen,Dominican Republic
+U1113,19,Groupe,Économique,Malaysia
+U1114,56,Romantique,Moyen,Norway
+U1115,69,Familial,Moyen,Nicaragua
+U1116,69,Familial,Luxe,Peru
+U1117,67,Affaires,Moyen,Suriname
+U1118,28,Romantique,Moyen,Tokelau
+U1119,60,Romantique,Luxe,Brazil
+U1120,52,Affaires,Moyen,Panama
+U1121,66,Romantique,Luxe,Guam
+U1122,40,Romantique,Moyen,Korea
+U1123,33,Familial,Luxe,Norway
+U1124,69,Affaires,Luxe,Bosnia and Herzegovina
+U1125,55,Romantique,Luxe,Jordan
+U1126,54,Affaires,Moyen,Saint Barthelemy
+U1127,54,Romantique,Luxe,Saint Vincent and the Grenadines
+U1128,52,Familial,Moyen,South Africa
+U1129,49,Romantique,Moyen,Chile
+U1130,21,Solo,Économique,French Polynesia
+U1131,56,Romantique,Moyen,Latvia
+U1132,51,Familial,Moyen,Mayotte
+U1133,39,Familial,Moyen,Sri Lanka
+U1134,69,Romantique,Luxe,Brazil
+U1135,63,Romantique,Luxe,Italy
+U1136,21,Solo,Économique,Belarus
+U1137,27,Familial,Moyen,Western Sahara
+U1138,67,Romantique,Luxe,Christmas Island
+U1139,22,Groupe,Économique,Lebanon
+U1140,63,Affaires,Luxe,Nauru
+U1141,55,Romantique,Luxe,Lebanon
+U1142,37,Affaires,Moyen,Portugal
+U1143,28,Familial,Luxe,Svalbard & Jan Mayen Islands
+U1144,68,Affaires,Luxe,Dominica
+U1145,59,Familial,Moyen,Lesotho
+U1146,63,Affaires,Luxe,North Macedonia
+U1147,32,Familial,Moyen,Australia
+U1148,42,Familial,Luxe,Grenada
+U1149,26,Romantique,Moyen,Japan
+U1150,62,Affaires,Luxe,Niger
+U1151,67,Affaires,Moyen,Germany
+U1152,29,Familial,Luxe,Switzerland
+U1153,69,Affaires,Moyen,French Polynesia
+U1154,58,Affaires,Moyen,Rwanda
+U1155,49,Romantique,Luxe,Niger
+U1156,65,Romantique,Moyen,Malta
+U1157,40,Familial,Moyen,Togo
+U1158,58,Romantique,Luxe,Hong Kong
+U1159,46,Romantique,Luxe,Kenya
+U1160,31,Romantique,Moyen,Turkmenistan
+U1161,40,Familial,Moyen,Ethiopia
+U1162,64,Romantique,Moyen,Spain
+U1163,42,Familial,Luxe,Swaziland
+U1164,28,Affaires,Luxe,Ireland
+U1165,42,Familial,Luxe,Holy See (Vatican City State)
+U1166,24,Groupe,Économique,Guinea-Bissau
+U1167,68,Affaires,Moyen,Svalbard & Jan Mayen Islands
+U1168,28,Affaires,Moyen,Swaziland
+U1169,69,Romantique,Luxe,Timor-Leste
+U1170,19,Groupe,Économique,Uganda
+U1171,34,Romantique,Moyen,New Zealand
+U1172,39,Romantique,Luxe,Mauritania
+U1173,28,Familial,Moyen,Congo
+U1174,53,Romantique,Luxe,Puerto Rico
+U1175,56,Affaires,Luxe,Reunion
+U1176,63,Romantique,Luxe,Somalia
+U1177,59,Romantique,Luxe,Guyana
+U1178,28,Romantique,Moyen,Saint Barthelemy
+U1179,39,Romantique,Moyen,United Arab Emirates
+U1180,44,Affaires,Luxe,Western Sahara
+U1181,60,Familial,Luxe,Lao People's Democratic Republic
+U1182,33,Romantique,Moyen,Hungary
+U1183,43,Affaires,Luxe,Marshall Islands
+U1184,27,Romantique,Luxe,Jersey
+U1185,18,Groupe,Économique,Palestinian Territory
+U1186,23,Groupe,Économique,Nigeria
 U1187,70,Affaires,Luxe,Isle of Man
-U1188,30,Romantique,Moyen,Saint Helena
-U1189,31,Romantique,Luxe,Libyan Arab Jamahiriya
-U1190,23,Groupe,Économique,Guernsey
-U1191,25,Affaires,Luxe,Montenegro
-U1192,48,Familial,Luxe,Honduras
-U1193,23,Groupe,Économique,South Africa
-U1194,29,Affaires,Luxe,Afghanistan
-U1195,41,Romantique,Luxe,Argentina
-U1196,20,Groupe,Économique,Burundi
-U1197,46,Familial,Luxe,Latvia
-U1198,32,Affaires,Moyen,Guinea-Bissau
-U1199,27,Familial,Moyen,Tokelau
-U1200,23,Groupe,Économique,Oman
-U1201,69,Affaires,Luxe,Montserrat
-U1202,66,Affaires,Moyen,Liberia
-U1203,53,Romantique,Luxe,Israel
-U1204,70,Affaires,Luxe,Czech Republic
-U1205,52,Affaires,Luxe,Hong Kong
-U1206,54,Romantique,Luxe,Peru
-U1207,37,Romantique,Luxe,Turks and Caicos Islands
-U1208,63,Romantique,Moyen,San Marino
-U1209,25,Affaires,Moyen,Iceland
-U1210,28,Romantique,Moyen,Poland
-U1211,26,Romantique,Luxe,Pitcairn Islands
-U1212,23,Groupe,Économique,Sweden
-U1213,30,Familial,Moyen,Moldova
-U1214,56,Familial,Luxe,Marshall Islands
-U1215,64,Romantique,Moyen,Italy
-U1216,42,Affaires,Luxe,Bolivia
-U1217,53,Familial,Luxe,Mexico
-U1218,51,Familial,Moyen,Saint Vincent and the Grenadines
-U1219,68,Affaires,Luxe,Martinique
-U1220,25,Affaires,Moyen,Kuwait
-U1221,27,Familial,Moyen,Afghanistan
-U1222,24,Solo,Économique,Costa Rica
-U1223,68,Familial,Luxe,Slovenia
-U1224,44,Familial,Luxe,Armenia
-U1225,59,Familial,Luxe,Azerbaijan
-U1226,20,Solo,Économique,Georgia
-U1227,35,Affaires,Moyen,Heard Island and McDonald Islands
-U1228,57,Affaires,Luxe,Maldives
-U1229,20,Groupe,Économique,Panama
-U1230,39,Familial,Moyen,Brunei Darussalam
-U1231,21,Groupe,Économique,French Guiana
-U1232,35,Affaires,Moyen,Congo
-U1233,39,Affaires,Luxe,Gambia
-U1234,35,Affaires,Moyen,North Macedonia
-U1235,32,Romantique,Luxe,Malawi
-U1236,65,Familial,Luxe,Bahamas
-U1237,35,Familial,Luxe,South Africa
-U1238,56,Affaires,Moyen,Romania
-U1239,30,Affaires,Moyen,Burundi
-U1240,70,Familial,Luxe,Czech Republic
-U1241,66,Affaires,Luxe,Costa Rica
-U1242,70,Romantique,Moyen,Saint Barthelemy
-U1243,22,Groupe,Économique,Tokelau
-U1244,63,Affaires,Luxe,Chad
-U1245,26,Familial,Moyen,Hong Kong
-U1246,29,Romantique,Moyen,Palestinian Territory
-U1247,21,Solo,Économique,Bulgaria
-U1248,20,Groupe,Économique,Russian Federation
-U1249,21,Groupe,Économique,Belgium
-U1250,63,Romantique,Luxe,Japan
-U1251,41,Familial,Luxe,Pitcairn Islands
-U1252,58,Romantique,Moyen,Grenada
-U1253,33,Affaires,Luxe,Barbados
-U1254,56,Familial,Moyen,Faroe Islands
-U1255,48,Affaires,Luxe,Ecuador
-U1256,40,Romantique,Luxe,Svalbard & Jan Mayen Islands
-U1257,65,Affaires,Moyen,Cape Verde
-U1258,36,Romantique,Luxe,Northern Mariana Islands
-U1259,21,Solo,Économique,Montenegro
-U1260,54,Romantique,Moyen,Puerto Rico
-U1261,59,Romantique,Moyen,Peru
-U1262,35,Familial,Luxe,Papua New Guinea
-U1263,50,Romantique,Moyen,Christmas Island
-U1264,48,Romantique,Moyen,North Macedonia
-U1265,56,Romantique,Moyen,El Salvador
-U1266,34,Familial,Luxe,Turkey
-U1267,63,Affaires,Luxe,United States Minor Outlying Islands
-U1268,45,Familial,Luxe,Lao People's Democratic Republic
-U1269,47,Familial,Moyen,Latvia
-U1270,47,Familial,Luxe,Cyprus
-U1271,55,Romantique,Moyen,Bahrain
-U1272,50,Affaires,Luxe,Cuba
-U1273,53,Affaires,Luxe,Liechtenstein
-U1274,37,Familial,Moyen,Sweden
-U1275,48,Romantique,Luxe,Fiji
-U1276,35,Familial,Luxe,Lithuania
-U1277,35,Affaires,Luxe,Guernsey
-U1278,30,Romantique,Moyen,Armenia
-U1279,21,Groupe,Économique,Gabon
-U1280,60,Familial,Moyen,Lebanon
-U1281,64,Romantique,Luxe,Bangladesh
-U1282,36,Affaires,Luxe,Switzerland
-U1283,43,Familial,Moyen,Jamaica
-U1284,55,Affaires,Moyen,China
-U1285,39,Familial,Moyen,Saint Helena
-U1286,61,Affaires,Luxe,Burundi
-U1287,60,Familial,Luxe,Montserrat
-U1288,28,Familial,Moyen,Papua New Guinea
-U1289,36,Romantique,Luxe,Antigua and Barbuda
-U1290,26,Familial,Luxe,Lithuania
-U1291,64,Affaires,Moyen,Cocos (Keeling) Islands
-U1292,61,Familial,Moyen,Papua New Guinea
-U1293,32,Affaires,Moyen,Anguilla
-U1294,65,Familial,Luxe,Puerto Rico
-U1295,68,Familial,Luxe,Martinique
-U1296,34,Familial,Luxe,Palau
-U1297,47,Romantique,Luxe,Finland
-U1298,21,Solo,Économique,France
-U1299,48,Romantique,Moyen,Cyprus
-U1300,61,Familial,Luxe,Niue
-U1301,44,Romantique,Moyen,Mauritania
-U1302,26,Romantique,Luxe,Saint Martin
-U1303,44,Affaires,Luxe,Israel
-U1304,27,Affaires,Moyen,Pakistan
-U1305,67,Romantique,Luxe,Dominica
-U1306,39,Familial,Moyen,Guernsey
-U1307,38,Familial,Moyen,Seychelles
-U1308,18,Groupe,Économique,Romania
-U1309,35,Romantique,Moyen,Central African Republic
-U1310,54,Romantique,Luxe,Equatorial Guinea
-U1311,68,Romantique,Moyen,Gibraltar
-U1312,57,Familial,Luxe,Albania
-U1313,43,Familial,Luxe,Gibraltar
-U1314,42,Romantique,Moyen,Montenegro
-U1315,52,Romantique,Luxe,French Southern Territories
-U1316,18,Groupe,Économique,China
-U1317,66,Affaires,Moyen,Solomon Islands
-U1318,19,Solo,Économique,Equatorial Guinea
-U1319,58,Affaires,Moyen,Turks and Caicos Islands
-U1320,32,Familial,Luxe,Portugal
-U1321,37,Romantique,Moyen,San Marino
-U1322,42,Affaires,Luxe,Hong Kong
-U1323,28,Romantique,Moyen,Timor-Leste
-U1324,37,Affaires,Luxe,Honduras
-U1325,64,Affaires,Luxe,Bahamas
-U1326,45,Affaires,Moyen,Cyprus
-U1327,39,Affaires,Luxe,Jamaica
-U1328,66,Romantique,Moyen,Bangladesh
-U1329,69,Familial,Moyen,Australia
-U1330,32,Romantique,Moyen,Belgium
-U1331,31,Familial,Moyen,Bermuda
-U1332,55,Affaires,Moyen,Mauritania
-U1333,25,Affaires,Moyen,Mayotte
-U1334,42,Affaires,Luxe,Haiti
-U1335,67,Affaires,Moyen,Samoa
-U1336,56,Romantique,Moyen,Dominica
-U1337,59,Romantique,Moyen,Comoros
-U1338,62,Romantique,Luxe,Japan
-U1339,46,Familial,Moyen,Grenada
-U1340,53,Familial,Luxe,Greenland
-U1341,62,Romantique,Moyen,Montenegro
-U1342,62,Affaires,Moyen,Turkmenistan
-U1343,37,Affaires,Moyen,Hungary
-U1344,60,Affaires,Luxe,Azerbaijan
-U1345,57,Affaires,Moyen,Bulgaria
-U1346,44,Romantique,Moyen,Ethiopia
-U1347,36,Romantique,Moyen,Latvia
-U1348,49,Romantique,Moyen,Spain
-U1349,67,Familial,Moyen,Djibouti
-U1350,40,Affaires,Luxe,Portugal
-U1351,36,Romantique,Moyen,Korea
-U1352,53,Familial,Moyen,Czech Republic
-U1353,62,Familial,Luxe,Belgium
-U1354,33,Romantique,Moyen,Trinidad and Tobago
-U1355,60,Romantique,Moyen,Antarctica (the territory South of 60 deg S)
-U1356,54,Affaires,Luxe,Zambia
-U1357,27,Romantique,Moyen,France
-U1358,64,Affaires,Moyen,British Indian Ocean Territory (Chagos Archipelago)
-U1359,34,Familial,Moyen,New Zealand
-U1360,47,Familial,Luxe,Lebanon
-U1361,47,Romantique,Moyen,Barbados
-U1362,70,Romantique,Moyen,Thailand
-U1363,36,Affaires,Luxe,Liberia
-U1364,45,Affaires,Moyen,France
-U1365,24,Solo,Économique,Bosnia and Herzegovina
-U1366,18,Solo,Économique,Holy See (Vatican City State)
-U1367,60,Affaires,Moyen,Western Sahara
-U1368,39,Affaires,Luxe,Uruguay
-U1369,57,Familial,Moyen,Moldova
-U1370,41,Familial,Moyen,Guinea
-U1371,25,Affaires,Luxe,North Macedonia
-U1372,47,Familial,Luxe,Armenia
-U1373,62,Familial,Luxe,Greenland
-U1374,59,Romantique,Moyen,Myanmar
-U1375,26,Familial,Moyen,Azerbaijan
-U1376,28,Romantique,Luxe,Italy
-U1377,55,Familial,Luxe,Gabon
-U1378,29,Familial,Luxe,Sweden
-U1379,67,Familial,Moyen,United Kingdom
-U1380,61,Affaires,Moyen,Cuba
-U1381,48,Familial,Moyen,Panama
-U1382,44,Familial,Moyen,Mauritius
-U1383,22,Groupe,Économique,Azerbaijan
-U1384,59,Familial,Moyen,Martinique
-U1385,63,Affaires,Moyen,Antarctica (the territory South of 60 deg S)
-U1386,60,Familial,Moyen,Tuvalu
-U1387,45,Affaires,Moyen,Dominica
-U1388,48,Familial,Luxe,Namibia
-U1389,27,Familial,Moyen,Algeria
-U1390,18,Solo,Économique,Nepal
-U1391,50,Familial,Luxe,Western Sahara
-U1392,28,Romantique,Luxe,British Indian Ocean Territory (Chagos Archipelago)
-U1393,38,Romantique,Luxe,Cameroon
-U1394,35,Romantique,Moyen,Lao People's Democratic Republic
-U1395,53,Affaires,Luxe,Gambia
-U1396,43,Romantique,Moyen,Luxembourg
-U1397,47,Familial,Luxe,Afghanistan
-U1398,23,Groupe,Économique,Poland
-U1399,46,Familial,Moyen,Spain
-U1400,49,Affaires,Moyen,Ghana
-U1401,24,Groupe,Économique,Tanzania
-U1402,44,Romantique,Moyen,Ukraine
-U1403,70,Romantique,Luxe,Saudi Arabia
-U1404,50,Affaires,Moyen,Taiwan
-U1405,59,Affaires,Luxe,Faroe Islands
-U1406,39,Affaires,Moyen,Gibraltar
-U1407,70,Romantique,Luxe,Sierra Leone
-U1408,39,Familial,Luxe,Guyana
-U1409,63,Affaires,Luxe,Burundi
-U1410,63,Familial,Moyen,French Polynesia
-U1411,24,Solo,Économique,Mauritania
-U1412,18,Groupe,Économique,Norway
-U1413,40,Affaires,Luxe,Guam
-U1414,53,Affaires,Luxe,Armenia
-U1415,62,Romantique,Moyen,Saint Martin
-U1416,28,Affaires,Moyen,Seychelles
-U1417,70,Affaires,Luxe,Palau
-U1418,24,Groupe,Économique,Taiwan
-U1419,57,Romantique,Moyen,Guinea-Bissau
-U1420,25,Affaires,Moyen,Kiribati
-U1421,47,Romantique,Luxe,United States Minor Outlying Islands
-U1422,24,Groupe,Économique,Finland
-U1423,20,Solo,Économique,Angola
-U1424,67,Familial,Luxe,Brunei Darussalam
-U1425,60,Affaires,Moyen,Uganda
-U1426,49,Romantique,Moyen,Kiribati
-U1427,53,Familial,Luxe,Chad
-U1428,50,Romantique,Moyen,Korea
-U1429,64,Romantique,Moyen,Taiwan
-U1430,42,Affaires,Luxe,Eritrea
-U1431,50,Familial,Luxe,Guadeloupe
-U1432,56,Affaires,Moyen,Taiwan
-U1433,35,Affaires,Luxe,Bangladesh
-U1434,36,Affaires,Moyen,United Kingdom
-U1435,26,Affaires,Luxe,Nepal
-U1436,62,Affaires,Luxe,Tunisia
-U1437,63,Affaires,Moyen,Portugal
-U1438,30,Romantique,Luxe,Myanmar
-U1439,61,Familial,Moyen,Bermuda
-U1440,63,Affaires,Moyen,Australia
-U1441,50,Affaires,Luxe,Angola
-U1442,63,Romantique,Luxe,Tuvalu
-U1443,53,Familial,Luxe,Slovenia
-U1444,61,Affaires,Luxe,Wallis and Futuna
-U1445,45,Romantique,Moyen,Togo
-U1446,19,Groupe,Économique,South Georgia and the South Sandwich Islands
-U1447,27,Romantique,Moyen,Netherlands
-U1448,30,Affaires,Moyen,Malta
-U1449,36,Familial,Luxe,Faroe Islands
-U1450,27,Romantique,Luxe,Slovakia (Slovak Republic)
-U1451,31,Familial,Moyen,Solomon Islands
-U1452,40,Familial,Moyen,Western Sahara
-U1453,57,Affaires,Moyen,Timor-Leste
-U1454,65,Affaires,Luxe,Canada
-U1455,33,Familial,Luxe,Colombia
-U1456,62,Affaires,Moyen,Guinea
-U1457,42,Familial,Luxe,Finland
-U1458,68,Affaires,Luxe,New Caledonia
-U1459,53,Romantique,Moyen,Dominican Republic
-U1460,65,Familial,Moyen,Swaziland
-U1461,57,Familial,Moyen,Togo
-U1462,58,Affaires,Luxe,Tanzania
-U1463,66,Affaires,Moyen,Tanzania
-U1464,67,Affaires,Moyen,Taiwan
-U1465,36,Affaires,Moyen,Guyana
-U1466,61,Romantique,Moyen,Andorra
-U1467,29,Familial,Moyen,Bouvet Island (Bouvetoya)
-U1468,42,Romantique,Luxe,Botswana
-U1469,35,Familial,Luxe,Honduras
-U1470,26,Romantique,Luxe,Saint Lucia
-U1471,18,Groupe,Économique,Nicaragua
-U1472,47,Affaires,Moyen,Burundi
-U1473,20,Solo,Économique,Syrian Arab Republic
-U1474,38,Familial,Moyen,Zimbabwe
-U1475,67,Affaires,Luxe,Algeria
-U1476,49,Affaires,Luxe,Korea
-U1477,22,Groupe,Économique,China
-U1478,51,Romantique,Moyen,Dominica
-U1479,51,Romantique,Moyen,Kiribati
-U1480,44,Affaires,Luxe,Djibouti
-U1481,23,Groupe,Économique,Comoros
-U1482,32,Romantique,Luxe,Uganda
-U1483,39,Affaires,Luxe,Korea
-U1484,31,Familial,Luxe,Saint Helena
-U1485,53,Affaires,Moyen,Zimbabwe
-U1486,25,Familial,Luxe,Azerbaijan
-U1487,46,Romantique,Moyen,Cape Verde
-U1488,20,Groupe,Économique,Lithuania
-U1489,42,Romantique,Luxe,Norway
-U1490,34,Familial,Luxe,Yemen
-U1491,19,Groupe,Économique,Madagascar
-U1492,50,Affaires,Luxe,Croatia
-U1493,49,Romantique,Luxe,Antarctica (the territory South of 60 deg S)
-U1494,59,Romantique,Luxe,Kazakhstan
-U1495,50,Romantique,Moyen,Romania
-U1496,28,Familial,Moyen,Equatorial Guinea
-U1497,58,Romantique,Moyen,Comoros
-U1498,60,Affaires,Moyen,Namibia
-U1499,61,Familial,Moyen,Jordan
-U1500,31,Familial,Luxe,Reunion
-U1501,59,Romantique,Moyen,Rwanda
-U1502,19,Groupe,Économique,Samoa
-U1503,63,Familial,Moyen,Korea
-U1504,23,Solo,Économique,Benin
-U1505,21,Solo,Économique,French Guiana
-U1506,68,Familial,Moyen,Saint Martin
-U1507,54,Romantique,Luxe,Finland
-U1508,44,Familial,Luxe,Sudan
-U1509,58,Familial,Luxe,Belize
-U1510,38,Romantique,Luxe,Slovakia (Slovak Republic)
-U1511,61,Romantique,Moyen,Netherlands Antilles
-U1512,59,Affaires,Moyen,Belarus
-U1513,66,Affaires,Moyen,Guinea-Bissau
-U1514,62,Romantique,Luxe,Mongolia
-U1515,50,Romantique,Luxe,Mozambique
-U1516,68,Affaires,Luxe,New Zealand
-U1517,56,Romantique,Luxe,Morocco
-U1518,66,Familial,Luxe,Mali
-U1519,43,Affaires,Moyen,Norway
-U1520,48,Romantique,Moyen,New Caledonia
-U1521,26,Familial,Luxe,British Virgin Islands
-U1522,68,Affaires,Luxe,New Zealand
-U1523,58,Romantique,Luxe,Cote d'Ivoire
-U1524,61,Affaires,Luxe,Italy
-U1525,18,Solo,Économique,New Zealand
-U1526,25,Romantique,Moyen,Brazil
-U1527,54,Affaires,Luxe,Egypt
-U1528,52,Affaires,Moyen,Thailand
-U1529,37,Romantique,Luxe,Kuwait
-U1530,31,Affaires,Moyen,Israel
-U1531,28,Romantique,Moyen,Oman
-U1532,57,Familial,Moyen,Tonga
-U1533,25,Romantique,Moyen,Latvia
-U1534,66,Affaires,Luxe,Cyprus
-U1535,59,Affaires,Moyen,Uganda
-U1536,36,Familial,Moyen,Lithuania
-U1537,34,Romantique,Moyen,Nepal
-U1538,64,Affaires,Luxe,Cayman Islands
-U1539,39,Affaires,Moyen,French Polynesia
-U1540,60,Affaires,Moyen,Netherlands
-U1541,24,Groupe,Économique,Dominica
-U1542,57,Romantique,Moyen,Vanuatu
-U1543,38,Affaires,Luxe,Puerto Rico
-U1544,39,Familial,Luxe,Mayotte
-U1545,62,Affaires,Moyen,Iran
-U1546,54,Affaires,Luxe,Belarus
-U1547,69,Familial,Luxe,Norway
-U1548,28,Romantique,Luxe,Tokelau
-U1549,33,Romantique,Luxe,Montserrat
-U1550,35,Affaires,Moyen,Liechtenstein
-U1551,61,Affaires,Luxe,Serbia
-U1552,48,Familial,Luxe,Ukraine
-U1553,40,Familial,Luxe,Pitcairn Islands
-U1554,53,Romantique,Moyen,Pitcairn Islands
-U1555,59,Affaires,Moyen,Wallis and Futuna
-U1556,35,Romantique,Moyen,Ireland
-U1557,34,Familial,Moyen,South Africa
-U1558,64,Romantique,Moyen,Eritrea
-U1559,50,Affaires,Moyen,Guam
-U1560,70,Affaires,Luxe,Slovakia (Slovak Republic)
-U1561,67,Affaires,Moyen,Japan
-U1562,20,Groupe,Économique,Spain
-U1563,52,Affaires,Luxe,Sudan
-U1564,59,Romantique,Luxe,Iraq
-U1565,43,Romantique,Luxe,Kuwait
-U1566,26,Affaires,Moyen,Venezuela
-U1567,43,Familial,Moyen,Belarus
-U1568,60,Romantique,Moyen,Sri Lanka
-U1569,66,Affaires,Moyen,Lao People's Democratic Republic
-U1570,46,Romantique,Moyen,Montenegro
-U1571,54,Affaires,Moyen,Grenada
-U1572,65,Affaires,Luxe,Japan
-U1573,40,Romantique,Moyen,Suriname
-U1574,66,Familial,Moyen,Seychelles
-U1575,22,Groupe,Économique,Jordan
-U1576,41,Romantique,Moyen,Pitcairn Islands
-U1577,60,Romantique,Luxe,Chad
-U1578,42,Familial,Luxe,Gambia
-U1579,20,Solo,Économique,Trinidad and Tobago
-U1580,59,Familial,Moyen,Slovakia (Slovak Republic)
-U1581,63,Affaires,Luxe,Northern Mariana Islands
-U1582,65,Familial,Moyen,Oman
-U1583,42,Affaires,Luxe,China
-U1584,41,Affaires,Moyen,Algeria
-U1585,51,Familial,Luxe,Sierra Leone
-U1586,32,Familial,Luxe,Saint Pierre and Miquelon
-U1587,40,Familial,Luxe,Falkland Islands (Malvinas)
-U1588,68,Familial,Moyen,Switzerland
-U1589,50,Romantique,Luxe,Nauru
-U1590,28,Romantique,Moyen,Barbados
-U1591,50,Affaires,Luxe,Heard Island and McDonald Islands
-U1592,31,Romantique,Moyen,Tuvalu
-U1593,28,Affaires,Moyen,Bosnia and Herzegovina
-U1594,60,Romantique,Luxe,French Guiana
-U1595,69,Familial,Moyen,South Africa
-U1596,48,Affaires,Luxe,China
-U1597,48,Romantique,Moyen,Palestinian Territory
-U1598,59,Familial,Moyen,Hungary
-U1599,33,Romantique,Moyen,Burundi
-U1600,54,Affaires,Moyen,Samoa
-U1601,26,Familial,Moyen,Bolivia
-U1602,54,Romantique,Moyen,Taiwan
-U1603,28,Affaires,Moyen,Indonesia
-U1604,51,Familial,Moyen,Grenada
-U1605,64,Affaires,Luxe,British Virgin Islands
-U1606,23,Solo,Économique,Kyrgyz Republic
-U1607,46,Affaires,Luxe,Palestinian Territory
-U1608,48,Romantique,Moyen,Nepal
-U1609,44,Affaires,Moyen,Romania
-U1610,68,Affaires,Moyen,French Southern Territories
-U1611,57,Affaires,Luxe,French Southern Territories
-U1612,28,Familial,Luxe,Chile
-U1613,47,Affaires,Moyen,Mauritania
-U1614,32,Affaires,Luxe,Saint Lucia
-U1615,26,Romantique,Moyen,Heard Island and McDonald Islands
-U1616,30,Familial,Luxe,Tuvalu
-U1617,70,Romantique,Moyen,Norfolk Island
-U1618,29,Affaires,Moyen,British Virgin Islands
-U1619,68,Affaires,Moyen,Ecuador
-U1620,23,Groupe,Économique,El Salvador
-U1621,60,Romantique,Moyen,Iraq
-U1622,67,Affaires,Luxe,French Polynesia
-U1623,51,Familial,Luxe,Western Sahara
-U1624,20,Groupe,Économique,Gibraltar
-U1625,32,Affaires,Luxe,Estonia
-U1626,40,Affaires,Moyen,Montserrat
-U1627,45,Romantique,Luxe,Sri Lanka
-U1628,48,Romantique,Moyen,Nepal
-U1629,36,Familial,Luxe,Pakistan
-U1630,34,Romantique,Moyen,Nepal
-U1631,63,Affaires,Moyen,Qatar
-U1632,54,Affaires,Moyen,Greece
-U1633,51,Romantique,Luxe,Germany
-U1634,59,Romantique,Luxe,Greenland
-U1635,44,Familial,Moyen,Barbados
-U1636,27,Affaires,Luxe,Togo
-U1637,34,Familial,Luxe,Saint Vincent and the Grenadines
-U1638,54,Familial,Luxe,Estonia
-U1639,61,Familial,Moyen,Montenegro
-U1640,44,Affaires,Luxe,Togo
-U1641,29,Affaires,Luxe,Australia
-U1642,34,Affaires,Luxe,Antigua and Barbuda
-U1643,67,Affaires,Luxe,Ireland
-U1644,65,Romantique,Moyen,Gabon
-U1645,65,Romantique,Luxe,Saint Vincent and the Grenadines
-U1646,68,Affaires,Moyen,Nicaragua
-U1647,24,Solo,Économique,Cote d'Ivoire
-U1648,50,Familial,Luxe,Jersey
-U1649,69,Affaires,Moyen,Iran
-U1650,28,Affaires,Moyen,Madagascar
-U1651,69,Romantique,Moyen,Norway
-U1652,48,Affaires,Luxe,Namibia
-U1653,23,Solo,Économique,South Georgia and the South Sandwich Islands
-U1654,34,Romantique,Luxe,Congo
-U1655,23,Solo,Économique,Cote d'Ivoire
-U1656,64,Familial,Luxe,Christmas Island
-U1657,57,Affaires,Luxe,Solomon Islands
-U1658,63,Affaires,Moyen,Cocos (Keeling) Islands
-U1659,67,Romantique,Luxe,Syrian Arab Republic
-U1660,46,Romantique,Moyen,French Southern Territories
-U1661,60,Affaires,Luxe,Montenegro
-U1662,30,Romantique,Moyen,British Indian Ocean Territory (Chagos Archipelago)
-U1663,57,Romantique,Moyen,Ukraine
-U1664,41,Romantique,Moyen,Saint Barthelemy
-U1665,28,Romantique,Luxe,Samoa
-U1666,67,Familial,Luxe,Malta
-U1667,60,Familial,Luxe,Vietnam
-U1668,55,Romantique,Moyen,Belgium
-U1669,65,Affaires,Moyen,Gabon
-U1670,23,Groupe,Économique,China
-U1671,64,Affaires,Luxe,Madagascar
-U1672,40,Familial,Moyen,Yemen
-U1673,56,Romantique,Luxe,Lithuania
-U1674,43,Affaires,Moyen,Niue
-U1675,34,Romantique,Luxe,Lesotho
-U1676,50,Romantique,Moyen,Bangladesh
-U1677,50,Familial,Luxe,China
-U1678,25,Familial,Luxe,Australia
-U1679,52,Affaires,Luxe,Tunisia
-U1680,62,Familial,Luxe,Libyan Arab Jamahiriya
-U1681,54,Familial,Moyen,Swaziland
-U1682,66,Familial,Luxe,Slovenia
-U1683,61,Familial,Moyen,Jamaica
-U1684,48,Romantique,Luxe,Western Sahara
-U1685,22,Groupe,Économique,French Southern Territories
-U1686,58,Romantique,Moyen,Saudi Arabia
-U1687,69,Familial,Luxe,Tanzania
-U1688,40,Affaires,Moyen,Guernsey
-U1689,62,Familial,Moyen,United States Minor Outlying Islands
-U1690,36,Romantique,Luxe,Puerto Rico
-U1691,61,Affaires,Luxe,Romania
-U1692,22,Solo,Économique,Turkmenistan
-U1693,48,Familial,Luxe,American Samoa
-U1694,31,Familial,Luxe,Latvia
-U1695,29,Familial,Moyen,Benin
-U1696,49,Affaires,Moyen,Lithuania
-U1697,33,Familial,Moyen,Cyprus
-U1698,34,Romantique,Moyen,Suriname
-U1699,30,Romantique,Luxe,Vietnam
-U1700,27,Romantique,Moyen,Myanmar
-U1701,23,Groupe,Économique,Chad
-U1702,57,Romantique,Moyen,Bangladesh
-U1703,48,Familial,Luxe,United States Virgin Islands
-U1704,49,Affaires,Luxe,Bouvet Island (Bouvetoya)
-U1705,49,Romantique,Luxe,Iran
-U1706,43,Romantique,Moyen,Algeria
-U1707,21,Groupe,Économique,Angola
-U1708,48,Affaires,Moyen,Uganda
-U1709,50,Familial,Luxe,Vanuatu
-U1710,61,Romantique,Luxe,Togo
-U1711,25,Familial,Luxe,Argentina
-U1712,38,Familial,Moyen,Latvia
-U1713,18,Solo,Économique,Armenia
-U1714,42,Affaires,Moyen,Isle of Man
-U1715,38,Affaires,Luxe,Central African Republic
-U1716,29,Familial,Luxe,Bhutan
-U1717,33,Affaires,Luxe,Reunion
-U1718,57,Familial,Luxe,Marshall Islands
-U1719,29,Affaires,Luxe,Estonia
-U1720,31,Affaires,Luxe,Costa Rica
-U1721,41,Familial,Luxe,Samoa
-U1722,46,Romantique,Moyen,Congo
-U1723,54,Affaires,Moyen,Germany
-U1724,70,Romantique,Luxe,Dominican Republic
-U1725,69,Romantique,Luxe,Guyana
-U1726,42,Romantique,Moyen,Greece
-U1727,69,Affaires,Moyen,India
-U1728,48,Romantique,Moyen,Equatorial Guinea
-U1729,44,Familial,Moyen,Jordan
-U1730,58,Affaires,Luxe,Azerbaijan
-U1731,68,Familial,Luxe,Antarctica (the territory South of 60 deg S)
-U1732,34,Familial,Moyen,New Zealand
-U1733,43,Romantique,Moyen,Netherlands Antilles
-U1734,21,Solo,Économique,Palestinian Territory
-U1735,70,Familial,Luxe,British Indian Ocean Territory (Chagos Archipelago)
-U1736,58,Romantique,Luxe,Montenegro
-U1737,65,Familial,Luxe,Northern Mariana Islands
-U1738,41,Familial,Luxe,Palestinian Territory
-U1739,40,Romantique,Luxe,Ukraine
-U1740,25,Affaires,Moyen,Costa Rica
-U1741,54,Affaires,Moyen,Iceland
-U1742,67,Familial,Luxe,Guinea
-U1743,38,Familial,Luxe,Russian Federation
-U1744,67,Affaires,Luxe,Cameroon
-U1745,23,Groupe,Économique,Hong Kong
-U1746,57,Familial,Luxe,French Southern Territories
-U1747,58,Romantique,Moyen,Guinea
-U1748,58,Familial,Luxe,Togo
-U1749,58,Affaires,Luxe,Turks and Caicos Islands
-U1750,22,Solo,Économique,El Salvador
-U1751,28,Affaires,Moyen,North Macedonia
-U1752,38,Affaires,Luxe,Macao
-U1753,63,Familial,Luxe,Czech Republic
-U1754,35,Affaires,Luxe,Pakistan
-U1755,65,Affaires,Luxe,Bouvet Island (Bouvetoya)
-U1756,44,Romantique,Moyen,Nigeria
-U1757,19,Solo,Économique,Benin
-U1758,64,Romantique,Luxe,Isle of Man
-U1759,65,Affaires,Moyen,Bouvet Island (Bouvetoya)
-U1760,31,Romantique,Luxe,British Indian Ocean Territory (Chagos Archipelago)
-U1761,24,Solo,Économique,Indonesia
-U1762,22,Groupe,Économique,Senegal
-U1763,53,Romantique,Moyen,Japan
-U1764,67,Familial,Moyen,Saint Barthelemy
-U1765,24,Groupe,Économique,Austria
-U1766,57,Romantique,Moyen,Venezuela
-U1767,59,Familial,Luxe,Mauritania
-U1768,32,Romantique,Luxe,French Southern Territories
-U1769,46,Affaires,Moyen,Colombia
-U1770,26,Familial,Moyen,Korea
-U1771,19,Solo,Économique,Guinea
-U1772,60,Familial,Luxe,Guatemala
-U1773,48,Familial,Luxe,Bolivia
-U1774,53,Familial,Moyen,Faroe Islands
-U1775,62,Affaires,Moyen,Sudan
-U1776,55,Affaires,Luxe,Antarctica (the territory South of 60 deg S)
-U1777,58,Affaires,Luxe,Gambia
-U1778,51,Affaires,Luxe,Liberia
-U1779,40,Familial,Moyen,Montserrat
-U1780,69,Romantique,Luxe,Namibia
-U1781,37,Affaires,Luxe,Estonia
-U1782,34,Romantique,Luxe,Cuba
-U1783,18,Solo,Économique,Latvia
-U1784,51,Romantique,Luxe,Sao Tome and Principe
-U1785,36,Affaires,Moyen,Djibouti
-U1786,62,Familial,Luxe,Heard Island and McDonald Islands
-U1787,37,Romantique,Luxe,Belize
-U1788,69,Familial,Moyen,Saint Vincent and the Grenadines
-U1789,68,Romantique,Luxe,Tajikistan
-U1790,30,Affaires,Luxe,Madagascar
-U1791,43,Romantique,Moyen,Ukraine
-U1792,63,Affaires,Luxe,Wallis and Futuna
-U1793,42,Romantique,Luxe,French Guiana
-U1794,23,Groupe,Économique,San Marino
-U1795,58,Romantique,Luxe,Fiji
-U1796,36,Familial,Luxe,Saint Helena
-U1797,44,Romantique,Moyen,Jamaica
-U1798,29,Romantique,Luxe,Croatia
-U1799,25,Familial,Luxe,Guadeloupe
-U1800,57,Familial,Luxe,Belarus
-U1801,62,Affaires,Luxe,Christmas Island
-U1802,30,Affaires,Moyen,Lesotho
-U1803,27,Romantique,Moyen,Christmas Island
-U1804,29,Romantique,Luxe,Slovakia (Slovak Republic)
-U1805,35,Romantique,Luxe,Saint Pierre and Miquelon
-U1806,64,Romantique,Moyen,Saudi Arabia
-U1807,23,Solo,Économique,Bahrain
-U1808,18,Groupe,Économique,Bermuda
-U1809,31,Affaires,Luxe,Korea
-U1810,37,Affaires,Luxe,Guernsey
-U1811,47,Affaires,Moyen,Jersey
-U1812,39,Romantique,Moyen,Belize
-U1813,21,Groupe,Économique,Albania
-U1814,67,Familial,Moyen,Solomon Islands
-U1815,52,Familial,Moyen,Mayotte
-U1816,30,Affaires,Luxe,Djibouti
-U1817,18,Solo,Économique,Bermuda
-U1818,67,Affaires,Moyen,Montserrat
-U1819,42,Familial,Moyen,Belgium
-U1820,65,Romantique,Moyen,Nigeria
-U1821,47,Affaires,Moyen,Slovakia (Slovak Republic)
-U1822,51,Affaires,Moyen,Finland
-U1823,48,Familial,Luxe,Kuwait
-U1824,38,Romantique,Moyen,Kuwait
-U1825,65,Affaires,Moyen,Belgium
-U1826,34,Affaires,Luxe,Bhutan
-U1827,30,Affaires,Moyen,Korea
-U1828,60,Romantique,Moyen,Somalia
-U1829,33,Familial,Luxe,Western Sahara
-U1830,38,Romantique,Moyen,Brunei Darussalam
-U1831,68,Familial,Moyen,Indonesia
-U1832,43,Romantique,Moyen,Japan
-U1833,20,Groupe,Économique,Cook Islands
-U1834,62,Affaires,Moyen,Cayman Islands
-U1835,41,Romantique,Moyen,Burundi
-U1836,28,Affaires,Moyen,Honduras
-U1837,61,Affaires,Luxe,Afghanistan
-U1838,66,Affaires,Moyen,Uzbekistan
-U1839,21,Groupe,Économique,Cape Verde
-U1840,59,Romantique,Moyen,French Guiana
-U1841,26,Affaires,Moyen,Zimbabwe
-U1842,38,Familial,Luxe,Morocco
-U1843,69,Familial,Moyen,Ireland
-U1844,19,Groupe,Économique,Papua New Guinea
-U1845,40,Affaires,Moyen,Morocco
-U1846,34,Romantique,Luxe,Kazakhstan
-U1847,63,Familial,Luxe,United States Virgin Islands
-U1848,52,Affaires,Luxe,Senegal
-U1849,30,Familial,Moyen,Saint Pierre and Miquelon
-U1850,52,Familial,Luxe,Latvia
-U1851,64,Familial,Luxe,Gabon
-U1852,56,Affaires,Moyen,Anguilla
-U1853,22,Solo,Économique,Andorra
-U1854,46,Familial,Luxe,Philippines
-U1855,52,Familial,Luxe,Qatar
-U1856,18,Groupe,Économique,Montserrat
-U1857,64,Romantique,Moyen,Paraguay
-U1858,57,Familial,Moyen,Wallis and Futuna
-U1859,38,Familial,Moyen,Bosnia and Herzegovina
-U1860,60,Affaires,Luxe,Pakistan
-U1861,30,Familial,Luxe,Tunisia
-U1862,67,Affaires,Moyen,Suriname
-U1863,57,Familial,Luxe,Guam
-U1864,44,Affaires,Luxe,South Africa
-U1865,25,Romantique,Moyen,Namibia
-U1866,20,Solo,Économique,Papua New Guinea
-U1867,29,Romantique,Moyen,Slovenia
-U1868,24,Groupe,Économique,Angola
-U1869,30,Romantique,Moyen,Pakistan
-U1870,54,Affaires,Luxe,Nicaragua
-U1871,60,Familial,Luxe,Turkey
-U1872,21,Groupe,Économique,Seychelles
-U1873,32,Familial,Moyen,Bosnia and Herzegovina
-U1874,18,Solo,Économique,Egypt
-U1875,59,Familial,Moyen,Syrian Arab Republic
-U1876,47,Affaires,Moyen,Bulgaria
-U1877,41,Affaires,Luxe,Western Sahara
-U1878,70,Familial,Moyen,Ghana
-U1879,70,Affaires,Luxe,Greenland
-U1880,51,Romantique,Moyen,Bosnia and Herzegovina
-U1881,37,Romantique,Moyen,Netherlands
-U1882,51,Romantique,Moyen,Norway
-U1883,64,Romantique,Luxe,Cameroon
-U1884,30,Romantique,Moyen,Nepal
-U1885,54,Affaires,Moyen,Paraguay
-U1886,53,Affaires,Luxe,Timor-Leste
-U1887,65,Romantique,Luxe,Iran
-U1888,61,Familial,Luxe,Korea
-U1889,24,Solo,Économique,Antarctica (the territory South of 60 deg S)
-U1890,68,Romantique,Luxe,Monaco
-U1891,50,Familial,Moyen,Mozambique
-U1892,52,Affaires,Luxe,Mexico
-U1893,40,Familial,Luxe,Austria
-U1894,41,Familial,Luxe,Timor-Leste
-U1895,70,Affaires,Luxe,Montserrat
-U1896,56,Romantique,Moyen,Argentina
-U1897,42,Affaires,Luxe,United States Virgin Islands
-U1898,41,Familial,Luxe,Cuba
-U1899,43,Romantique,Moyen,Tanzania
-U1900,36,Familial,Moyen,Antarctica (the territory South of 60 deg S)
-U1901,51,Romantique,Luxe,Turkmenistan
-U1902,18,Groupe,Économique,Nicaragua
-U1903,32,Romantique,Luxe,Thailand
-U1904,19,Groupe,Économique,Ukraine
-U1905,53,Affaires,Moyen,Anguilla
-U1906,24,Solo,Économique,Tonga
-U1907,47,Familial,Moyen,Cote d'Ivoire
-U1908,26,Affaires,Luxe,Tonga
-U1909,55,Romantique,Moyen,Bolivia
+U1188,30,Romantique,Moyen,Brunei Darussalam
+U1189,31,Romantique,Luxe,Solomon Islands
+U1190,23,Groupe,Économique,Pitcairn Islands
+U1191,25,Affaires,Luxe,Bulgaria
+U1192,48,Familial,Luxe,Guatemala
+U1193,23,Groupe,Économique,Dominican Republic
+U1194,29,Affaires,Luxe,Canada
+U1195,41,Romantique,Luxe,French Southern Territories
+U1196,20,Groupe,Économique,Azerbaijan
+U1197,46,Familial,Luxe,Cocos (Keeling) Islands
+U1198,32,Affaires,Moyen,Somalia
+U1199,27,Familial,Moyen,South Georgia and the South Sandwich Islands
+U1200,23,Groupe,Économique,Isle of Man
+U1201,69,Affaires,Luxe,Liechtenstein
+U1202,66,Affaires,Moyen,Turkey
+U1203,53,Romantique,Luxe,Mayotte
+U1204,70,Affaires,Luxe,Congo
+U1205,52,Affaires,Luxe,Afghanistan
+U1206,54,Romantique,Luxe,Holy See (Vatican City State)
+U1207,37,Romantique,Luxe,Reunion
+U1208,63,Romantique,Moyen,Wallis and Futuna
+U1209,25,Affaires,Moyen,Saint Lucia
+U1210,28,Romantique,Moyen,India
+U1211,26,Romantique,Luxe,Guatemala
+U1212,23,Groupe,Économique,Cuba
+U1213,30,Familial,Moyen,Iraq
+U1214,56,Familial,Luxe,Croatia
+U1215,64,Romantique,Moyen,Congo
+U1216,42,Affaires,Luxe,Aruba
+U1217,53,Familial,Luxe,Chad
+U1218,51,Familial,Moyen,Kiribati
+U1219,68,Affaires,Luxe,Falkland Islands (Malvinas)
+U1220,25,Affaires,Moyen,United States of America
+U1221,27,Familial,Moyen,French Guiana
+U1222,24,Solo,Économique,French Guiana
+U1223,68,Familial,Luxe,Colombia
+U1224,44,Familial,Luxe,New Zealand
+U1225,59,Familial,Luxe,Wallis and Futuna
+U1226,20,Solo,Économique,Papua New Guinea
+U1227,35,Affaires,Moyen,Bangladesh
+U1228,57,Affaires,Luxe,Venezuela
+U1229,20,Groupe,Économique,Croatia
+U1230,39,Familial,Moyen,Haiti
+U1231,21,Groupe,Économique,Rwanda
+U1232,35,Affaires,Moyen,South Georgia and the South Sandwich Islands
+U1233,39,Affaires,Luxe,Mayotte
+U1234,35,Affaires,Moyen,Grenada
+U1235,32,Romantique,Luxe,Guyana
+U1236,65,Familial,Luxe,French Southern Territories
+U1237,35,Familial,Luxe,Guadeloupe
+U1238,56,Affaires,Moyen,Micronesia
+U1239,30,Affaires,Moyen,Dominican Republic
+U1240,70,Familial,Luxe,Cuba
+U1241,66,Affaires,Luxe,France
+U1242,70,Romantique,Moyen,Tuvalu
+U1243,22,Groupe,Économique,Jamaica
+U1244,63,Affaires,Luxe,Philippines
+U1245,26,Familial,Moyen,Anguilla
+U1246,29,Romantique,Moyen,Kenya
+U1247,21,Solo,Économique,Tuvalu
+U1248,20,Groupe,Économique,Nigeria
+U1249,21,Groupe,Économique,Mongolia
+U1250,63,Romantique,Luxe,Guatemala
+U1251,41,Familial,Luxe,Uganda
+U1252,58,Romantique,Moyen,Chile
+U1253,33,Affaires,Luxe,Jordan
+U1254,56,Familial,Moyen,Cuba
+U1255,48,Affaires,Luxe,China
+U1256,40,Romantique,Luxe,Qatar
+U1257,65,Affaires,Moyen,Liechtenstein
+U1258,36,Romantique,Luxe,Guam
+U1259,21,Solo,Économique,Gambia
+U1260,54,Romantique,Moyen,Cote d'Ivoire
+U1261,59,Romantique,Moyen,Zimbabwe
+U1262,35,Familial,Luxe,Kiribati
+U1263,50,Romantique,Moyen,Guam
+U1264,48,Romantique,Moyen,Monaco
+U1265,56,Romantique,Moyen,South Georgia and the South Sandwich Islands
+U1266,34,Familial,Luxe,Canada
+U1267,63,Affaires,Luxe,United States Virgin Islands
+U1268,45,Familial,Luxe,Guam
+U1269,47,Familial,Moyen,Iceland
+U1270,47,Familial,Luxe,Canada
+U1271,55,Romantique,Moyen,Dominica
+U1272,50,Affaires,Luxe,Isle of Man
+U1273,53,Affaires,Luxe,Greenland
+U1274,37,Familial,Moyen,Vietnam
+U1275,48,Romantique,Luxe,Russian Federation
+U1276,35,Familial,Luxe,Saint Helena
+U1277,35,Affaires,Luxe,Niger
+U1278,30,Romantique,Moyen,Oman
+U1279,21,Groupe,Économique,Pitcairn Islands
+U1280,60,Familial,Moyen,South Africa
+U1281,64,Romantique,Luxe,Saudi Arabia
+U1282,36,Affaires,Luxe,Poland
+U1283,43,Familial,Moyen,American Samoa
+U1284,55,Affaires,Moyen,Portugal
+U1285,39,Familial,Moyen,Martinique
+U1286,61,Affaires,Luxe,Ghana
+U1287,60,Familial,Luxe,Guatemala
+U1288,28,Familial,Moyen,El Salvador
+U1289,36,Romantique,Luxe,Italy
+U1290,26,Familial,Luxe,Mauritania
+U1291,64,Affaires,Moyen,Solomon Islands
+U1292,61,Familial,Moyen,British Indian Ocean Territory (Chagos Archipelago)
+U1293,32,Affaires,Moyen,Belize
+U1294,65,Familial,Luxe,Finland
+U1295,68,Familial,Luxe,Tuvalu
+U1296,34,Familial,Luxe,Nicaragua
+U1297,47,Romantique,Luxe,British Virgin Islands
+U1298,21,Solo,Économique,Netherlands
+U1299,48,Romantique,Moyen,Kuwait
+U1300,61,Familial,Luxe,France
+U1301,44,Romantique,Moyen,Bahrain
+U1302,26,Romantique,Luxe,Rwanda
+U1303,44,Affaires,Luxe,Uganda
+U1304,27,Affaires,Moyen,France
+U1305,67,Romantique,Luxe,Korea
+U1306,39,Familial,Moyen,Eritrea
+U1307,38,Familial,Moyen,Uganda
+U1308,18,Groupe,Économique,Armenia
+U1309,35,Romantique,Moyen,Cayman Islands
+U1310,54,Romantique,Luxe,French Guiana
+U1311,68,Romantique,Moyen,Gambia
+U1312,57,Familial,Luxe,Eritrea
+U1313,43,Familial,Luxe,Nicaragua
+U1314,42,Romantique,Moyen,Mayotte
+U1315,52,Romantique,Luxe,Oman
+U1316,18,Groupe,Économique,Tunisia
+U1317,66,Affaires,Moyen,Burundi
+U1318,19,Solo,Économique,Finland
+U1319,58,Affaires,Moyen,Turkey
+U1320,32,Familial,Luxe,Australia
+U1321,37,Romantique,Moyen,El Salvador
+U1322,42,Affaires,Luxe,Saint Pierre and Miquelon
+U1323,28,Romantique,Moyen,Kenya
+U1324,37,Affaires,Luxe,Sudan
+U1325,64,Affaires,Luxe,Serbia
+U1326,45,Affaires,Moyen,Botswana
+U1327,39,Affaires,Luxe,Maldives
+U1328,66,Romantique,Moyen,Sudan
+U1329,69,Familial,Moyen,Romania
+U1330,32,Romantique,Moyen,Montserrat
+U1331,31,Familial,Moyen,Israel
+U1332,55,Affaires,Moyen,Anguilla
+U1333,25,Affaires,Moyen,Belgium
+U1334,42,Affaires,Luxe,Sri Lanka
+U1335,67,Affaires,Moyen,El Salvador
+U1336,56,Romantique,Moyen,American Samoa
+U1337,59,Romantique,Moyen,Saint Helena
+U1338,62,Romantique,Luxe,Svalbard & Jan Mayen Islands
+U1339,46,Familial,Moyen,Belgium
+U1340,53,Familial,Luxe,Zimbabwe
+U1341,62,Romantique,Moyen,Falkland Islands (Malvinas)
+U1342,62,Affaires,Moyen,Bosnia and Herzegovina
+U1343,37,Affaires,Moyen,Germany
+U1344,60,Affaires,Luxe,Singapore
+U1345,57,Affaires,Moyen,Svalbard & Jan Mayen Islands
+U1346,44,Romantique,Moyen,Venezuela
+U1347,36,Romantique,Moyen,Nigeria
+U1348,49,Romantique,Moyen,Korea
+U1349,67,Familial,Moyen,Monaco
+U1350,40,Affaires,Luxe,Turks and Caicos Islands
+U1351,36,Romantique,Moyen,Moldova
+U1352,53,Familial,Moyen,Iceland
+U1353,62,Familial,Luxe,Maldives
+U1354,33,Romantique,Moyen,Antigua and Barbuda
+U1355,60,Romantique,Moyen,Syrian Arab Republic
+U1356,54,Affaires,Luxe,Guadeloupe
+U1357,27,Romantique,Moyen,Liechtenstein
+U1358,64,Affaires,Moyen,Niue
+U1359,34,Familial,Moyen,Norfolk Island
+U1360,47,Familial,Luxe,Fiji
+U1361,47,Romantique,Moyen,French Southern Territories
+U1362,70,Romantique,Moyen,Guyana
+U1363,36,Affaires,Luxe,Sri Lanka
+U1364,45,Affaires,Moyen,Fiji
+U1365,24,Solo,Économique,Saudi Arabia
+U1366,18,Solo,Économique,Nicaragua
+U1367,60,Affaires,Moyen,Pakistan
+U1368,39,Affaires,Luxe,Saint Helena
+U1369,57,Familial,Moyen,Denmark
+U1370,41,Familial,Moyen,Isle of Man
+U1371,25,Affaires,Luxe,Niue
+U1372,47,Familial,Luxe,Indonesia
+U1373,62,Familial,Luxe,Thailand
+U1374,59,Romantique,Moyen,Guinea-Bissau
+U1375,26,Familial,Moyen,Afghanistan
+U1376,28,Romantique,Luxe,New Zealand
+U1377,55,Familial,Luxe,Algeria
+U1378,29,Familial,Luxe,Saudi Arabia
+U1379,67,Familial,Moyen,Denmark
+U1380,61,Affaires,Moyen,French Southern Territories
+U1381,48,Familial,Moyen,Niger
+U1382,44,Familial,Moyen,Canada
+U1383,22,Groupe,Économique,Solomon Islands
+U1384,59,Familial,Moyen,Fiji
+U1385,63,Affaires,Moyen,Greenland
+U1386,60,Familial,Moyen,Russian Federation
+U1387,45,Affaires,Moyen,Lao People's Democratic Republic
+U1388,48,Familial,Luxe,Bosnia and Herzegovina
+U1389,27,Familial,Moyen,Papua New Guinea
+U1390,18,Solo,Économique,Palau
+U1391,50,Familial,Luxe,Burundi
+U1392,28,Romantique,Luxe,Dominican Republic
+U1393,38,Romantique,Luxe,Israel
+U1394,35,Romantique,Moyen,Guernsey
+U1395,53,Affaires,Luxe,United States Virgin Islands
+U1396,43,Romantique,Moyen,Portugal
+U1397,47,Familial,Luxe,Somalia
+U1398,23,Groupe,Économique,Marshall Islands
+U1399,46,Familial,Moyen,Gibraltar
+U1400,49,Affaires,Moyen,Chad
+U1401,24,Groupe,Économique,Belgium
+U1402,44,Romantique,Moyen,Swaziland
+U1403,70,Romantique,Luxe,Saint Lucia
+U1404,50,Affaires,Moyen,Ireland
+U1405,59,Affaires,Luxe,Egypt
+U1406,39,Affaires,Moyen,Haiti
+U1407,70,Romantique,Luxe,Netherlands
+U1408,39,Familial,Luxe,Swaziland
+U1409,63,Affaires,Luxe,Cook Islands
+U1410,63,Familial,Moyen,Russian Federation
+U1411,24,Solo,Économique,India
+U1412,18,Groupe,Économique,Netherlands
+U1413,40,Affaires,Luxe,Angola
+U1414,53,Affaires,Luxe,Ireland
+U1415,62,Romantique,Moyen,Greenland
+U1416,28,Affaires,Moyen,Guam
+U1417,70,Affaires,Luxe,Afghanistan
+U1418,24,Groupe,Économique,Bolivia
+U1419,57,Romantique,Moyen,Niger
+U1420,25,Affaires,Moyen,Switzerland
+U1421,47,Romantique,Luxe,Dominica
+U1422,24,Groupe,Économique,Sri Lanka
+U1423,20,Solo,Économique,Iceland
+U1424,67,Familial,Luxe,Barbados
+U1425,60,Affaires,Moyen,Papua New Guinea
+U1426,49,Romantique,Moyen,Lebanon
+U1427,53,Familial,Luxe,Eritrea
+U1428,50,Romantique,Moyen,Bahrain
+U1429,64,Romantique,Moyen,Azerbaijan
+U1430,42,Affaires,Luxe,Portugal
+U1431,50,Familial,Luxe,Saint Martin
+U1432,56,Affaires,Moyen,French Guiana
+U1433,35,Affaires,Luxe,Yemen
+U1434,36,Affaires,Moyen,Cyprus
+U1435,26,Affaires,Luxe,Ukraine
+U1436,62,Affaires,Luxe,Jordan
+U1437,63,Affaires,Moyen,Uzbekistan
+U1438,30,Romantique,Luxe,British Indian Ocean Territory (Chagos Archipelago)
+U1439,61,Familial,Moyen,Israel
+U1440,63,Affaires,Moyen,South Africa
+U1441,50,Affaires,Luxe,Heard Island and McDonald Islands
+U1442,63,Romantique,Luxe,Uruguay
+U1443,53,Familial,Luxe,Bosnia and Herzegovina
+U1444,61,Affaires,Luxe,Belarus
+U1445,45,Romantique,Moyen,American Samoa
+U1446,19,Groupe,Économique,Aruba
+U1447,27,Romantique,Moyen,Algeria
+U1448,30,Affaires,Moyen,Georgia
+U1449,36,Familial,Luxe,Gibraltar
+U1450,27,Romantique,Luxe,Seychelles
+U1451,31,Familial,Moyen,Azerbaijan
+U1452,40,Familial,Moyen,Equatorial Guinea
+U1453,57,Affaires,Moyen,Spain
+U1454,65,Affaires,Luxe,Cook Islands
+U1455,33,Familial,Luxe,New Caledonia
+U1456,62,Affaires,Moyen,Croatia
+U1457,42,Familial,Luxe,Liberia
+U1458,68,Affaires,Luxe,Croatia
+U1459,53,Romantique,Moyen,Palau
+U1460,65,Familial,Moyen,Greenland
+U1461,57,Familial,Moyen,Bosnia and Herzegovina
+U1462,58,Affaires,Luxe,Congo
+U1463,66,Affaires,Moyen,Saint Barthelemy
+U1464,67,Affaires,Moyen,Brunei Darussalam
+U1465,36,Affaires,Moyen,Egypt
+U1466,61,Romantique,Moyen,Latvia
+U1467,29,Familial,Moyen,United States Minor Outlying Islands
+U1468,42,Romantique,Luxe,Aruba
+U1469,35,Familial,Luxe,Saint Martin
+U1470,26,Romantique,Luxe,Libyan Arab Jamahiriya
+U1471,18,Groupe,Économique,Central African Republic
+U1472,47,Affaires,Moyen,Finland
+U1473,20,Solo,Économique,Ecuador
+U1474,38,Familial,Moyen,Djibouti
+U1475,67,Affaires,Luxe,French Guiana
+U1476,49,Affaires,Luxe,Trinidad and Tobago
+U1477,22,Groupe,Économique,Tajikistan
+U1478,51,Romantique,Moyen,Jersey
+U1479,51,Romantique,Moyen,Tanzania
+U1480,44,Affaires,Luxe,Korea
+U1481,23,Groupe,Économique,Seychelles
+U1482,32,Romantique,Luxe,Cambodia
+U1483,39,Affaires,Luxe,Brazil
+U1484,31,Familial,Luxe,Reunion
+U1485,53,Affaires,Moyen,Albania
+U1486,25,Familial,Luxe,Svalbard & Jan Mayen Islands
+U1487,46,Romantique,Moyen,Papua New Guinea
+U1488,20,Groupe,Économique,Russian Federation
+U1489,42,Romantique,Luxe,Montenegro
+U1490,34,Familial,Luxe,Anguilla
+U1491,19,Groupe,Économique,Netherlands Antilles
+U1492,50,Affaires,Luxe,Indonesia
+U1493,49,Romantique,Luxe,Finland
+U1494,59,Romantique,Luxe,Poland
+U1495,50,Romantique,Moyen,Peru
+U1496,28,Familial,Moyen,Comoros
+U1497,58,Romantique,Moyen,United States Minor Outlying Islands
+U1498,60,Affaires,Moyen,Nepal
+U1499,61,Familial,Moyen,Uruguay
+U1500,31,Familial,Luxe,Vanuatu
+U1501,59,Romantique,Moyen,Germany
+U1502,19,Groupe,Économique,Belize
+U1503,63,Familial,Moyen,Poland
+U1504,23,Solo,Économique,Ecuador
+U1505,21,Solo,Économique,Hungary
+U1506,68,Familial,Moyen,Heard Island and McDonald Islands
+U1507,54,Romantique,Luxe,Peru
+U1508,44,Familial,Luxe,Comoros
+U1509,58,Familial,Luxe,Togo
+U1510,38,Romantique,Luxe,Korea
+U1511,61,Romantique,Moyen,Cyprus
+U1512,59,Affaires,Moyen,Mauritania
+U1513,66,Affaires,Moyen,Svalbard & Jan Mayen Islands
+U1514,62,Romantique,Luxe,Martinique
+U1515,50,Romantique,Luxe,Latvia
+U1516,68,Affaires,Luxe,Kyrgyz Republic
+U1517,56,Romantique,Luxe,Bulgaria
+U1518,66,Familial,Luxe,Comoros
+U1519,43,Affaires,Moyen,Netherlands Antilles
+U1520,48,Romantique,Moyen,Chile
+U1521,26,Familial,Luxe,Gambia
+U1522,68,Affaires,Luxe,Mozambique
+U1523,58,Romantique,Luxe,New Caledonia
+U1524,61,Affaires,Luxe,Bolivia
+U1525,18,Solo,Économique,Central African Republic
+U1526,25,Romantique,Moyen,Togo
+U1527,54,Affaires,Luxe,Timor-Leste
+U1528,52,Affaires,Moyen,Latvia
+U1529,37,Romantique,Luxe,Pakistan
+U1530,31,Affaires,Moyen,Korea
+U1531,28,Romantique,Moyen,Ecuador
+U1532,57,Familial,Moyen,Tajikistan
+U1533,25,Romantique,Moyen,Nigeria
+U1534,66,Affaires,Luxe,Martinique
+U1535,59,Affaires,Moyen,Swaziland
+U1536,36,Familial,Moyen,Guadeloupe
+U1537,34,Romantique,Moyen,Romania
+U1538,64,Affaires,Luxe,Germany
+U1539,39,Affaires,Moyen,Canada
+U1540,60,Affaires,Moyen,Peru
+U1541,24,Groupe,Économique,Syrian Arab Republic
+U1542,57,Romantique,Moyen,Jamaica
+U1543,38,Affaires,Luxe,Faroe Islands
+U1544,39,Familial,Luxe,Cyprus
+U1545,62,Affaires,Moyen,Lithuania
+U1546,54,Affaires,Luxe,Marshall Islands
+U1547,69,Familial,Luxe,Ethiopia
+U1548,28,Romantique,Luxe,Martinique
+U1549,33,Romantique,Luxe,British Indian Ocean Territory (Chagos Archipelago)
+U1550,35,Affaires,Moyen,Uganda
+U1551,61,Affaires,Luxe,Cook Islands
+U1552,48,Familial,Luxe,Niue
+U1553,40,Familial,Luxe,Mali
+U1554,53,Romantique,Moyen,Colombia
+U1555,59,Affaires,Moyen,North Macedonia
+U1556,35,Romantique,Moyen,Liberia
+U1557,34,Familial,Moyen,Nauru
+U1558,64,Romantique,Moyen,Lao People's Democratic Republic
+U1559,50,Affaires,Moyen,Senegal
+U1560,70,Affaires,Luxe,Taiwan
+U1561,67,Affaires,Moyen,Mayotte
+U1562,20,Groupe,Économique,Gambia
+U1563,52,Affaires,Luxe,Gibraltar
+U1564,59,Romantique,Luxe,Vanuatu
+U1565,43,Romantique,Luxe,Palau
+U1566,26,Affaires,Moyen,Myanmar
+U1567,43,Familial,Moyen,Tunisia
+U1568,60,Romantique,Moyen,Myanmar
+U1569,66,Affaires,Moyen,Mozambique
+U1570,46,Romantique,Moyen,Denmark
+U1571,54,Affaires,Moyen,Burundi
+U1572,65,Affaires,Luxe,Maldives
+U1573,40,Romantique,Moyen,Bolivia
+U1574,66,Familial,Moyen,Gibraltar
+U1575,22,Groupe,Économique,Argentina
+U1576,41,Romantique,Moyen,Oman
+U1577,60,Romantique,Luxe,Tuvalu
+U1578,42,Familial,Luxe,Monaco
+U1579,20,Solo,Économique,Jersey
+U1580,59,Familial,Moyen,Zimbabwe
+U1581,63,Affaires,Luxe,Germany
+U1582,65,Familial,Moyen,Solomon Islands
+U1583,42,Affaires,Luxe,Saint Kitts and Nevis
+U1584,41,Affaires,Moyen,Tunisia
+U1585,51,Familial,Luxe,Kiribati
+U1586,32,Familial,Luxe,Iran
+U1587,40,Familial,Luxe,Timor-Leste
+U1588,68,Familial,Moyen,Vietnam
+U1589,50,Romantique,Luxe,Saint Helena
+U1590,28,Romantique,Moyen,Bangladesh
+U1591,50,Affaires,Luxe,Korea
+U1592,31,Romantique,Moyen,Japan
+U1593,28,Affaires,Moyen,Greenland
+U1594,60,Romantique,Luxe,Albania
+U1595,69,Familial,Moyen,South Georgia and the South Sandwich Islands
+U1596,48,Affaires,Luxe,Lesotho
+U1597,48,Romantique,Moyen,American Samoa
+U1598,59,Familial,Moyen,Estonia
+U1599,33,Romantique,Moyen,Afghanistan
+U1600,54,Affaires,Moyen,Gambia
+U1601,26,Familial,Moyen,Cyprus
+U1602,54,Romantique,Moyen,Liechtenstein
+U1603,28,Affaires,Moyen,Korea
+U1604,51,Familial,Moyen,Jersey
+U1605,64,Affaires,Luxe,Cape Verde
+U1606,23,Solo,Économique,Kazakhstan
+U1607,46,Affaires,Luxe,Nigeria
+U1608,48,Romantique,Moyen,China
+U1609,44,Affaires,Moyen,Guinea-Bissau
+U1610,68,Affaires,Moyen,Japan
+U1611,57,Affaires,Luxe,Saint Helena
+U1612,28,Familial,Luxe,French Southern Territories
+U1613,47,Affaires,Moyen,French Guiana
+U1614,32,Affaires,Luxe,Sao Tome and Principe
+U1615,26,Romantique,Moyen,Slovenia
+U1616,30,Familial,Luxe,Cyprus
+U1617,70,Romantique,Moyen,Costa Rica
+U1618,29,Affaires,Moyen,Zambia
+U1619,68,Affaires,Moyen,United States Virgin Islands
+U1620,23,Groupe,Économique,Cayman Islands
+U1621,60,Romantique,Moyen,Holy See (Vatican City State)
+U1622,67,Affaires,Luxe,Seychelles
+U1623,51,Familial,Luxe,Iraq
+U1624,20,Groupe,Économique,Hong Kong
+U1625,32,Affaires,Luxe,Thailand
+U1626,40,Affaires,Moyen,Kyrgyz Republic
+U1627,45,Romantique,Luxe,United Arab Emirates
+U1628,48,Romantique,Moyen,Anguilla
+U1629,36,Familial,Luxe,Philippines
+U1630,34,Romantique,Moyen,Guinea-Bissau
+U1631,63,Affaires,Moyen,Belize
+U1632,54,Affaires,Moyen,Taiwan
+U1633,51,Romantique,Luxe,Nepal
+U1634,59,Romantique,Luxe,Ethiopia
+U1635,44,Familial,Moyen,Cape Verde
+U1636,27,Affaires,Luxe,Sweden
+U1637,34,Familial,Luxe,Brazil
+U1638,54,Familial,Luxe,Somalia
+U1639,61,Familial,Moyen,Austria
+U1640,44,Affaires,Luxe,United States Virgin Islands
+U1641,29,Affaires,Luxe,Russian Federation
+U1642,34,Affaires,Luxe,Guinea
+U1643,67,Affaires,Luxe,Samoa
+U1644,65,Romantique,Moyen,Mayotte
+U1645,65,Romantique,Luxe,San Marino
+U1646,68,Affaires,Moyen,France
+U1647,24,Solo,Économique,Moldova
+U1648,50,Familial,Luxe,Fiji
+U1649,69,Affaires,Moyen,Ethiopia
+U1650,28,Affaires,Moyen,Turks and Caicos Islands
+U1651,69,Romantique,Moyen,Honduras
+U1652,48,Affaires,Luxe,French Southern Territories
+U1653,23,Solo,Économique,Iceland
+U1654,34,Romantique,Luxe,Paraguay
+U1655,23,Solo,Économique,Sudan
+U1656,64,Familial,Luxe,Cambodia
+U1657,57,Affaires,Luxe,Ukraine
+U1658,63,Affaires,Moyen,Christmas Island
+U1659,67,Romantique,Luxe,Thailand
+U1660,46,Romantique,Moyen,Canada
+U1661,60,Affaires,Luxe,Iraq
+U1662,30,Romantique,Moyen,Aruba
+U1663,57,Romantique,Moyen,Angola
+U1664,41,Romantique,Moyen,Kyrgyz Republic
+U1665,28,Romantique,Luxe,France
+U1666,67,Familial,Luxe,Luxembourg
+U1667,60,Familial,Luxe,Australia
+U1668,55,Romantique,Moyen,Denmark
+U1669,65,Affaires,Moyen,Haiti
+U1670,23,Groupe,Économique,Brunei Darussalam
+U1671,64,Affaires,Luxe,Namibia
+U1672,40,Familial,Moyen,Qatar
+U1673,56,Romantique,Luxe,Antigua and Barbuda
+U1674,43,Affaires,Moyen,Moldova
+U1675,34,Romantique,Luxe,Namibia
+U1676,50,Romantique,Moyen,Uzbekistan
+U1677,50,Familial,Luxe,Japan
+U1678,25,Familial,Luxe,Guadeloupe
+U1679,52,Affaires,Luxe,Palau
+U1680,62,Familial,Luxe,Heard Island and McDonald Islands
+U1681,54,Familial,Moyen,Western Sahara
+U1682,66,Familial,Luxe,Rwanda
+U1683,61,Familial,Moyen,Martinique
+U1684,48,Romantique,Luxe,Jamaica
+U1685,22,Groupe,Économique,Korea
+U1686,58,Romantique,Moyen,Guadeloupe
+U1687,69,Familial,Luxe,Chad
+U1688,40,Affaires,Moyen,Eritrea
+U1689,62,Familial,Moyen,New Caledonia
+U1690,36,Romantique,Luxe,Micronesia
+U1691,61,Affaires,Luxe,Saint Kitts and Nevis
+U1692,22,Solo,Économique,Austria
+U1693,48,Familial,Luxe,Belgium
+U1694,31,Familial,Luxe,Saint Kitts and Nevis
+U1695,29,Familial,Moyen,Lesotho
+U1696,49,Affaires,Moyen,Indonesia
+U1697,33,Familial,Moyen,Wallis and Futuna
+U1698,34,Romantique,Moyen,Italy
+U1699,30,Romantique,Luxe,Togo
+U1700,27,Romantique,Moyen,Tanzania
+U1701,23,Groupe,Économique,Cambodia
+U1702,57,Romantique,Moyen,Bahrain
+U1703,48,Familial,Luxe,Saudi Arabia
+U1704,49,Affaires,Luxe,Bulgaria
+U1705,49,Romantique,Luxe,Aruba
+U1706,43,Romantique,Moyen,Taiwan
+U1707,21,Groupe,Économique,Dominican Republic
+U1708,48,Affaires,Moyen,Falkland Islands (Malvinas)
+U1709,50,Familial,Luxe,Libyan Arab Jamahiriya
+U1710,61,Romantique,Luxe,Suriname
+U1711,25,Familial,Luxe,Sudan
+U1712,38,Familial,Moyen,Afghanistan
+U1713,18,Solo,Économique,Montserrat
+U1714,42,Affaires,Moyen,Iceland
+U1715,38,Affaires,Luxe,Netherlands Antilles
+U1716,29,Familial,Luxe,Heard Island and McDonald Islands
+U1717,33,Affaires,Luxe,Taiwan
+U1718,57,Familial,Luxe,Philippines
+U1719,29,Affaires,Luxe,Guyana
+U1720,31,Affaires,Luxe,Turkmenistan
+U1721,41,Familial,Luxe,Thailand
+U1722,46,Romantique,Moyen,Libyan Arab Jamahiriya
+U1723,54,Affaires,Moyen,Tonga
+U1724,70,Romantique,Luxe,Holy See (Vatican City State)
+U1725,69,Romantique,Luxe,Timor-Leste
+U1726,42,Romantique,Moyen,Madagascar
+U1727,69,Affaires,Moyen,United Kingdom
+U1728,48,Romantique,Moyen,Ireland
+U1729,44,Familial,Moyen,Syrian Arab Republic
+U1730,58,Affaires,Luxe,North Macedonia
+U1731,68,Familial,Luxe,Nauru
+U1732,34,Familial,Moyen,Holy See (Vatican City State)
+U1733,43,Romantique,Moyen,Trinidad and Tobago
+U1734,21,Solo,Économique,Saint Helena
+U1735,70,Familial,Luxe,Bhutan
+U1736,58,Romantique,Luxe,Falkland Islands (Malvinas)
+U1737,65,Familial,Luxe,Mauritania
+U1738,41,Familial,Luxe,Finland
+U1739,40,Romantique,Luxe,Jersey
+U1740,25,Affaires,Moyen,Malaysia
+U1741,54,Affaires,Moyen,Comoros
+U1742,67,Familial,Luxe,Kyrgyz Republic
+U1743,38,Familial,Luxe,Morocco
+U1744,67,Affaires,Luxe,Burundi
+U1745,23,Groupe,Économique,Georgia
+U1746,57,Familial,Luxe,Kenya
+U1747,58,Romantique,Moyen,Luxembourg
+U1748,58,Familial,Luxe,Cook Islands
+U1749,58,Affaires,Luxe,Jersey
+U1750,22,Solo,Économique,Maldives
+U1751,28,Affaires,Moyen,Vietnam
+U1752,38,Affaires,Luxe,Canada
+U1753,63,Familial,Luxe,Madagascar
+U1754,35,Affaires,Luxe,Anguilla
+U1755,65,Affaires,Luxe,Burundi
+U1756,44,Romantique,Moyen,Brunei Darussalam
+U1757,19,Solo,Économique,Saint Pierre and Miquelon
+U1758,64,Romantique,Luxe,Turkey
+U1759,65,Affaires,Moyen,Guam
+U1760,31,Romantique,Luxe,Niger
+U1761,24,Solo,Économique,Western Sahara
+U1762,22,Groupe,Économique,South Georgia and the South Sandwich Islands
+U1763,53,Romantique,Moyen,Kiribati
+U1764,67,Familial,Moyen,American Samoa
+U1765,24,Groupe,Économique,Australia
+U1766,57,Romantique,Moyen,Brunei Darussalam
+U1767,59,Familial,Luxe,French Southern Territories
+U1768,32,Romantique,Luxe,Cote d'Ivoire
+U1769,46,Affaires,Moyen,Cambodia
+U1770,26,Familial,Moyen,France
+U1771,19,Solo,Économique,Niger
+U1772,60,Familial,Luxe,Rwanda
+U1773,48,Familial,Luxe,Yemen
+U1774,53,Familial,Moyen,Paraguay
+U1775,62,Affaires,Moyen,Palestinian Territory
+U1776,55,Affaires,Luxe,Armenia
+U1777,58,Affaires,Luxe,Montserrat
+U1778,51,Affaires,Luxe,Germany
+U1779,40,Familial,Moyen,United States Minor Outlying Islands
+U1780,69,Romantique,Luxe,Guinea
+U1781,37,Affaires,Luxe,Chile
+U1782,34,Romantique,Luxe,Dominican Republic
+U1783,18,Solo,Économique,Jersey
+U1784,51,Romantique,Luxe,Namibia
+U1785,36,Affaires,Moyen,Vanuatu
+U1786,62,Familial,Luxe,Tonga
+U1787,37,Romantique,Luxe,Ukraine
+U1788,69,Familial,Moyen,Fiji
+U1789,68,Romantique,Luxe,Christmas Island
+U1790,30,Affaires,Luxe,France
+U1791,43,Romantique,Moyen,Malawi
+U1792,63,Affaires,Luxe,Faroe Islands
+U1793,42,Romantique,Luxe,Russian Federation
+U1794,23,Groupe,Économique,Vanuatu
+U1795,58,Romantique,Luxe,Reunion
+U1796,36,Familial,Luxe,Pitcairn Islands
+U1797,44,Romantique,Moyen,Liechtenstein
+U1798,29,Romantique,Luxe,Solomon Islands
+U1799,25,Familial,Luxe,Thailand
+U1800,57,Familial,Luxe,Sao Tome and Principe
+U1801,62,Affaires,Luxe,Malta
+U1802,30,Affaires,Moyen,Georgia
+U1803,27,Romantique,Moyen,Saint Vincent and the Grenadines
+U1804,29,Romantique,Luxe,Honduras
+U1805,35,Romantique,Luxe,Mozambique
+U1806,64,Romantique,Moyen,Croatia
+U1807,23,Solo,Économique,Algeria
+U1808,18,Groupe,Économique,Tunisia
+U1809,31,Affaires,Luxe,Andorra
+U1810,37,Affaires,Luxe,Mayotte
+U1811,47,Affaires,Moyen,Estonia
+U1812,39,Romantique,Moyen,Svalbard & Jan Mayen Islands
+U1813,21,Groupe,Économique,Benin
+U1814,67,Familial,Moyen,Equatorial Guinea
+U1815,52,Familial,Moyen,Czech Republic
+U1816,30,Affaires,Luxe,Latvia
+U1817,18,Solo,Économique,Malta
+U1818,67,Affaires,Moyen,Gabon
+U1819,42,Familial,Moyen,Kazakhstan
+U1820,65,Romantique,Moyen,Croatia
+U1821,47,Affaires,Moyen,Liberia
+U1822,51,Affaires,Moyen,South Georgia and the South Sandwich Islands
+U1823,48,Familial,Luxe,Marshall Islands
+U1824,38,Romantique,Moyen,Denmark
+U1825,65,Affaires,Moyen,Micronesia
+U1826,34,Affaires,Luxe,French Guiana
+U1827,30,Affaires,Moyen,Liechtenstein
+U1828,60,Romantique,Moyen,Mauritius
+U1829,33,Familial,Luxe,Sierra Leone
+U1830,38,Romantique,Moyen,Falkland Islands (Malvinas)
+U1831,68,Familial,Moyen,Qatar
+U1832,43,Romantique,Moyen,Mayotte
+U1833,20,Groupe,Économique,India
+U1834,62,Affaires,Moyen,China
+U1835,41,Romantique,Moyen,Hungary
+U1836,28,Affaires,Moyen,Benin
+U1837,61,Affaires,Luxe,Marshall Islands
+U1838,66,Affaires,Moyen,Samoa
+U1839,21,Groupe,Économique,Panama
+U1840,59,Romantique,Moyen,Guernsey
+U1841,26,Affaires,Moyen,United States of America
+U1842,38,Familial,Luxe,Cote d'Ivoire
+U1843,69,Familial,Moyen,Sweden
+U1844,19,Groupe,Économique,Tuvalu
+U1845,40,Affaires,Moyen,Liberia
+U1846,34,Romantique,Luxe,Cyprus
+U1847,63,Familial,Luxe,Bahamas
+U1848,52,Affaires,Luxe,Uruguay
+U1849,30,Familial,Moyen,Singapore
+U1850,52,Familial,Luxe,Ghana
+U1851,64,Familial,Luxe,Samoa
+U1852,56,Affaires,Moyen,Monaco
+U1853,22,Solo,Économique,Comoros
+U1854,46,Familial,Luxe,Taiwan
+U1855,52,Familial,Luxe,Maldives
+U1856,18,Groupe,Économique,Luxembourg
+U1857,64,Romantique,Moyen,Malta
+U1858,57,Familial,Moyen,Spain
+U1859,38,Familial,Moyen,Guinea
+U1860,60,Affaires,Luxe,Jersey
+U1861,30,Familial,Luxe,Guinea
+U1862,67,Affaires,Moyen,Congo
+U1863,57,Familial,Luxe,Equatorial Guinea
+U1864,44,Affaires,Luxe,Guinea-Bissau
+U1865,25,Romantique,Moyen,Ukraine
+U1866,20,Solo,Économique,Niue
+U1867,29,Romantique,Moyen,Kiribati
+U1868,24,Groupe,Économique,Lebanon
+U1869,30,Romantique,Moyen,Guatemala
+U1870,54,Affaires,Luxe,Liechtenstein
+U1871,60,Familial,Luxe,Norway
+U1872,21,Groupe,Économique,Nigeria
+U1873,32,Familial,Moyen,French Guiana
+U1874,18,Solo,Économique,Heard Island and McDonald Islands
+U1875,59,Familial,Moyen,Cuba
+U1876,47,Affaires,Moyen,Solomon Islands
+U1877,41,Affaires,Luxe,Iran
+U1878,70,Familial,Moyen,Niue
+U1879,70,Affaires,Luxe,Wallis and Futuna
+U1880,51,Romantique,Moyen,Togo
+U1881,37,Romantique,Moyen,New Caledonia
+U1882,51,Romantique,Moyen,Bermuda
+U1883,64,Romantique,Luxe,Faroe Islands
+U1884,30,Romantique,Moyen,Uganda
+U1885,54,Affaires,Moyen,Tajikistan
+U1886,53,Affaires,Luxe,Pitcairn Islands
+U1887,65,Romantique,Luxe,United States Virgin Islands
+U1888,61,Familial,Luxe,Ethiopia
+U1889,24,Solo,Économique,Philippines
+U1890,68,Romantique,Luxe,Bangladesh
+U1891,50,Familial,Moyen,Christmas Island
+U1892,52,Affaires,Luxe,North Macedonia
+U1893,40,Familial,Luxe,Singapore
+U1894,41,Familial,Luxe,Myanmar
+U1895,70,Affaires,Luxe,Central African Republic
+U1896,56,Romantique,Moyen,Martinique
+U1897,42,Affaires,Luxe,Ukraine
+U1898,41,Familial,Luxe,Czech Republic
+U1899,43,Romantique,Moyen,Lebanon
+U1900,36,Familial,Moyen,Zambia
+U1901,51,Romantique,Luxe,Norway
+U1902,18,Groupe,Économique,Saint Pierre and Miquelon
+U1903,32,Romantique,Luxe,Sao Tome and Principe
+U1904,19,Groupe,Économique,Montserrat
+U1905,53,Affaires,Moyen,French Guiana
+U1906,24,Solo,Économique,Austria
+U1907,47,Familial,Moyen,Philippines
+U1908,26,Affaires,Luxe,Australia
+U1909,55,Romantique,Moyen,Malawi
 U1910,34,Affaires,Moyen,Cape Verde
-U1911,54,Familial,Moyen,Jersey
-U1912,64,Romantique,Luxe,Saint Martin
-U1913,68,Familial,Moyen,Uganda
-U1914,49,Affaires,Moyen,Burkina Faso
-U1915,56,Affaires,Luxe,Antarctica (the territory South of 60 deg S)
-U1916,20,Groupe,Économique,Korea
-U1917,23,Solo,Économique,Mongolia
-U1918,67,Familial,Luxe,Saint Vincent and the Grenadines
-U1919,70,Familial,Luxe,Niger
-U1920,25,Romantique,Moyen,Kazakhstan
-U1921,58,Affaires,Luxe,Guadeloupe
-U1922,21,Groupe,Économique,Oman
-U1923,51,Romantique,Luxe,Spain
-U1924,52,Affaires,Moyen,Lithuania
-U1925,38,Familial,Moyen,Sri Lanka
-U1926,27,Romantique,Luxe,Fiji
-U1927,46,Affaires,Moyen,Saint Lucia
-U1928,32,Affaires,Luxe,Greece
-U1929,68,Familial,Moyen,Uganda
-U1930,26,Affaires,Moyen,Saint Lucia
-U1931,48,Affaires,Moyen,Russian Federation
-U1932,53,Familial,Luxe,Latvia
-U1933,23,Groupe,Économique,Venezuela
-U1934,50,Familial,Moyen,Tanzania
-U1935,66,Romantique,Luxe,Hong Kong
-U1936,53,Romantique,Luxe,Niue
-U1937,43,Affaires,Moyen,Slovakia (Slovak Republic)
-U1938,53,Affaires,Moyen,Iraq
-U1939,33,Romantique,Luxe,Uganda
-U1940,67,Familial,Luxe,Albania
-U1941,61,Affaires,Moyen,Palestinian Territory
-U1942,25,Familial,Luxe,Peru
-U1943,45,Familial,Luxe,Nepal
-U1944,30,Affaires,Luxe,Belgium
-U1945,56,Affaires,Moyen,Wallis and Futuna
-U1946,67,Familial,Moyen,Antigua and Barbuda
-U1947,40,Affaires,Luxe,Falkland Islands (Malvinas)
-U1948,57,Romantique,Luxe,Maldives
-U1949,20,Solo,Économique,Samoa
-U1950,30,Familial,Luxe,Bolivia
-U1951,27,Familial,Moyen,Germany
-U1952,25,Familial,Moyen,Malta
-U1953,33,Familial,Moyen,Ecuador
-U1954,70,Familial,Moyen,Tonga
-U1955,39,Familial,Moyen,Peru
-U1956,37,Affaires,Luxe,Samoa
-U1957,19,Groupe,Économique,Vanuatu
-U1958,31,Familial,Moyen,Somalia
-U1959,31,Familial,Luxe,Armenia
-U1960,53,Familial,Moyen,Niue
-U1961,62,Affaires,Moyen,American Samoa
-U1962,42,Affaires,Moyen,Jersey
-U1963,34,Romantique,Moyen,Tunisia
-U1964,36,Romantique,Luxe,Reunion
-U1965,21,Groupe,Économique,Chad
-U1966,59,Romantique,Moyen,Ethiopia
-U1967,42,Affaires,Luxe,Antigua and Barbuda
-U1968,60,Affaires,Luxe,British Virgin Islands
-U1969,24,Solo,Économique,Anguilla
-U1970,36,Familial,Luxe,United States of America
-U1971,32,Affaires,Moyen,Solomon Islands
-U1972,38,Affaires,Moyen,San Marino
-U1973,29,Romantique,Luxe,Greece
-U1974,53,Affaires,Moyen,Canada
-U1975,20,Solo,Économique,Congo
-U1976,51,Familial,Luxe,Chad
-U1977,49,Familial,Moyen,Solomon Islands
-U1978,19,Groupe,Économique,Panama
-U1979,61,Familial,Luxe,Singapore
-U1980,58,Familial,Moyen,Mali
-U1981,50,Familial,Moyen,Chad
-U1982,58,Familial,Luxe,Svalbard & Jan Mayen Islands
-U1983,70,Romantique,Luxe,Senegal
-U1984,32,Romantique,Luxe,Tunisia
-U1985,43,Affaires,Moyen,Slovenia
-U1986,23,Groupe,Économique,Cambodia
-U1987,51,Affaires,Moyen,Chad
-U1988,44,Romantique,Moyen,Central African Republic
-U1989,45,Familial,Luxe,Ecuador
-U1990,46,Affaires,Moyen,Paraguay
-U1991,31,Familial,Moyen,Trinidad and Tobago
-U1992,55,Affaires,Moyen,Japan
-U1993,26,Affaires,Moyen,Mauritius
-U1994,45,Romantique,Moyen,Senegal
-U1995,38,Romantique,Moyen,Belize
-U1996,29,Affaires,Moyen,South Georgia and the South Sandwich Islands
-U1997,64,Romantique,Luxe,Mongolia
-U1998,44,Familial,Luxe,Argentina
-U1999,46,Affaires,Luxe,Cocos (Keeling) Islands
-U2000,27,Romantique,Moyen,French Polynesia
+U1911,54,Familial,Moyen,Brazil
+U1912,64,Romantique,Luxe,Jamaica
+U1913,68,Familial,Moyen,Svalbard & Jan Mayen Islands
+U1914,49,Affaires,Moyen,Tajikistan
+U1915,56,Affaires,Luxe,Svalbard & Jan Mayen Islands
+U1916,20,Groupe,Économique,Australia
+U1917,23,Solo,Économique,French Guiana
+U1918,67,Familial,Luxe,Somalia
+U1919,70,Familial,Luxe,Sao Tome and Principe
+U1920,25,Romantique,Moyen,Hungary
+U1921,58,Affaires,Luxe,Mayotte
+U1922,21,Groupe,Économique,Mongolia
+U1923,51,Romantique,Luxe,Romania
+U1924,52,Affaires,Moyen,Chile
+U1925,38,Familial,Moyen,San Marino
+U1926,27,Romantique,Luxe,Papua New Guinea
+U1927,46,Affaires,Moyen,Azerbaijan
+U1928,32,Affaires,Luxe,Central African Republic
+U1929,68,Familial,Moyen,Eritrea
+U1930,26,Affaires,Moyen,Austria
+U1931,48,Affaires,Moyen,Fiji
+U1932,53,Familial,Luxe,India
+U1933,23,Groupe,Économique,Grenada
+U1934,50,Familial,Moyen,Sweden
+U1935,66,Romantique,Luxe,Korea
+U1936,53,Romantique,Luxe,South Georgia and the South Sandwich Islands
+U1937,43,Affaires,Moyen,Barbados
+U1938,53,Affaires,Moyen,Guernsey
+U1939,33,Romantique,Luxe,Saint Kitts and Nevis
+U1940,67,Familial,Luxe,Uganda
+U1941,61,Affaires,Moyen,Qatar
+U1942,25,Familial,Luxe,Bangladesh
+U1943,45,Familial,Luxe,New Caledonia
+U1944,30,Affaires,Luxe,Saint Barthelemy
+U1945,56,Affaires,Moyen,Nauru
+U1946,67,Familial,Moyen,Canada
+U1947,40,Affaires,Luxe,United Arab Emirates
+U1948,57,Romantique,Luxe,Czech Republic
+U1949,20,Solo,Économique,Palau
+U1950,30,Familial,Luxe,Venezuela
+U1951,27,Familial,Moyen,Bahrain
+U1952,25,Familial,Moyen,Cote d'Ivoire
+U1953,33,Familial,Moyen,Martinique
+U1954,70,Familial,Moyen,China
+U1955,39,Familial,Moyen,Saudi Arabia
+U1956,37,Affaires,Luxe,Bahamas
+U1957,19,Groupe,Économique,Faroe Islands
+U1958,31,Familial,Moyen,Benin
+U1959,31,Familial,Luxe,United States Virgin Islands
+U1960,53,Familial,Moyen,Cocos (Keeling) Islands
+U1961,62,Affaires,Moyen,Guinea-Bissau
+U1962,42,Affaires,Moyen,Bermuda
+U1963,34,Romantique,Moyen,Suriname
+U1964,36,Romantique,Luxe,Belize
+U1965,21,Groupe,Économique,Nauru
+U1966,59,Romantique,Moyen,Equatorial Guinea
+U1967,42,Affaires,Luxe,Canada
+U1968,60,Affaires,Luxe,Bhutan
+U1969,24,Solo,Économique,Christmas Island
+U1970,36,Familial,Luxe,Italy
+U1971,32,Affaires,Moyen,Sao Tome and Principe
+U1972,38,Affaires,Moyen,Russian Federation
+U1973,29,Romantique,Luxe,Norfolk Island
+U1974,53,Affaires,Moyen,Italy
+U1975,20,Solo,Économique,Chad
+U1976,51,Familial,Luxe,French Polynesia
+U1977,49,Familial,Moyen,Kyrgyz Republic
+U1978,19,Groupe,Économique,Guernsey
+U1979,61,Familial,Luxe,Serbia
+U1980,58,Familial,Moyen,El Salvador
+U1981,50,Familial,Moyen,Turkey
+U1982,58,Familial,Luxe,Greenland
+U1983,70,Romantique,Luxe,Turks and Caicos Islands
+U1984,32,Romantique,Luxe,Tanzania
+U1985,43,Affaires,Moyen,Slovakia (Slovak Republic)
+U1986,23,Groupe,Économique,Morocco
+U1987,51,Affaires,Moyen,Zimbabwe
+U1988,44,Romantique,Moyen,Korea
+U1989,45,Familial,Luxe,Romania
+U1990,46,Affaires,Moyen,New Zealand
+U1991,31,Familial,Moyen,Bosnia and Herzegovina
+U1992,55,Affaires,Moyen,Pakistan
+U1993,26,Affaires,Moyen,Myanmar
+U1994,45,Romantique,Moyen,India
+U1995,38,Romantique,Moyen,Belarus
+U1996,29,Affaires,Moyen,Iraq
+U1997,64,Romantique,Luxe,Comoros
+U1998,44,Familial,Luxe,Djibouti
+U1999,46,Affaires,Luxe,Togo
+U2000,27,Romantique,Moyen,Bahamas

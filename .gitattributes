@@ -1,0 +1,33 @@
+# Normalize line endings across platforms. Use text=auto so Git detects text files
+# and converts line endings to the platform default on checkout.
+* text=auto
+
+# Keep common binary files untouched
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+*.ico binary
+*.pdf binary
+*.zip binary
+*.gz binary
+
+# Shell scripts should keep LF endings
+*.sh text eol=lf
+
+# Python files: keep LF in repo but convert on checkout according to client settings
+*.py text=auto
+
+# JS/TS source files
+*.js text=auto
+*.jsx text=auto
+*.ts text=auto
+*.tsx text=auto
+
+# Ensure JSON, MD are treated as text
+*.json text
+*.md text
+
+# Prevent accidental conversions for compiled artifacts
+dist/ binary
+build/ binary
