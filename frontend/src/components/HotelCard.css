@@ -1,0 +1,136 @@
+/* HotelCard.css */
+
+.hotel-card {
+  background: white;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  border: 1px solid #eee;
+}
+
+.hotel-card:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.hotel-header {
+  margin-bottom: 1rem;
+}
+
+.hotel-name {
+  margin: 0 0 0.5rem 0;
+  font-size: 1.3rem;
+  color: #333;
+}
+
+.hotel-meta {
+  display: flex;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.category {
+  display: inline-block;
+  background: #e8f0fe;
+  color: #1967d2;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.location {
+  display: inline-block;
+  background: #f0f0f0;
+  color: #666;
+  padding: 0.25rem 0.75rem;
+  border-radius: 20px;
+  font-size: 0.85rem;
+}
+
+.hotel-details {
+  display: flex;
+  gap: 1rem;
+  margin-bottom: 1rem;
+  font-size: 0.95rem;
+}
+
+.price {
+  margin: 0;
+  font-weight: 600;
+  color: #d32f2f;
+}
+
+.stars {
+  margin: 0;
+  color: #ff9800;
+}
+
+.commodities {
+  background: #f9f9f9;
+  padding: 0.75rem;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  color: #555;
+  line-height: 1.4;
+}
+
+.rating-section {
+  border-top: 1px solid #eee;
+  padding-top: 1rem;
+}
+
+.rating-section label {
+  display: block;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+  color: #333;
+  font-size: 0.95rem;
+}
+
+.stars-input {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.star-btn {
+  background: none;
+  border: 2px solid #ddd;
+  padding: 0.5rem 0.75rem;
+  font-size: 1.2rem;
+  cursor: pointer;
+  border-radius: 6px;
+  transition: all 0.2s ease;
+}
+
+.star-btn:hover {
+  border-color: #ff9800;
+  background: #fff9e6;
+}
+
+.star-btn.active {
+  background: #ff9800;
+  border-color: #ff9800;
+  color: white;
+}
+
+.rating-value {
+  display: block;
+  text-align: center;
+  font-weight: 600;
+  color: #666;
+  font-size: 0.9rem;
+  margin-top: 0.5rem;
+}
+
+@media (max-width: 768px) {
+  .hotel-card {
+    padding: 1rem;
+  }
+
+  .hotel-name {
+    font-size: 1.1rem;
+  }
+}
