@@ -15,13 +15,8 @@ app.include_router(recommendations.router, prefix="/recommend")
 # CORS pour React
 app.add_middleware(
     CORSMiddleware,
-    # Allow the common Vite dev server origins used during local development
-    allow_origins=[
-        "http://localhost:5173",
-        "http://localhost:5174",
-        "http://127.0.0.1:5173",
-        "http://127.0.0.1:5174",
-    ],
+    # Allow localhost and 127.0.0.1 on any port during local development
+    allow_origin_regex=r"http://localhost(:[0-9]+)?|http://127\.0\.0\.1(:[0-9]+)?",
     allow_methods=["*"],
     allow_headers=["*"],
     allow_credentials=True,

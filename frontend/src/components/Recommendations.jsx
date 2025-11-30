@@ -23,20 +23,36 @@ function Recommendations({ recommendations, onReset }) {
               <div className="rank">#{idx + 1}</div>
               <h3>{item.nom}</h3>
               <p className="category">{item.categorie} • {item.localisation}</p>
-              <div className="prediction-score">
-                <div className="score-label">Score prédit</div>
-                <div className="score-value">{item.predicted_rating.toFixed(1)}/5</div>
-                <div className="score-bar">
-                  <div
-                    className="score-fill"
-                    style={{ width: `${(item.predicted_rating / 5) * 100}%` }}
-                  />
-                </div>
-              </div>
+              {(() => {
+                const score = item.predicted_rating ?? item.avg_rating ?? 0;
+                return (
+                  <div className="prediction-score">
+                    <div className="score-label">Score prédit</div>
+                    <div className="score-value">{Number(score).toFixed(1)}/5</div>
+                    <div className="score-bar">
+                      <div
+                        className="score-fill"
+                        style={{ width: `${(Number(score) / 5) * 100}%` }}
+                      />
+                    </div>
+                  </div>
+                );
+              })()}
               <p className="price">💰 {item.prix}</p>
               <p className="explanation">
                 <small>Raison: {item.reason || 'Recommandé par utilisateurs similaires'}</small>
               </p>
+              {/* Commodités */}
+              {(item.commodites || item.amenities) && (item.commodites || item.amenities).toString().trim() !== '' && (
+                <div style={{ marginTop: 12 }}>
+                  <div style={{ fontSize: '0.9rem', fontWeight: 600, color: 'rgba(255,255,255,0.95)', marginBottom: 8 }}>Commodités</div>
+                  <div className="amenities-list">
+                    {( (item.commodites || item.amenities).toString().split(',').slice(0, 8) ).map((a, i) => (
+                      <span className="amenity-tag" key={i}>{a.trim()}</span>
+                    ))}
+                  </div>
+                </div>
+              )}
             </div>
           ))}
         </div>

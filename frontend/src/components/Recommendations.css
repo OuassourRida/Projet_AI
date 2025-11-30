@@ -115,6 +115,22 @@
   font-style: italic;
 }
 
+/* Commodities / amenities tags */
+.amenities-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 6px;
+}
+
+.amenity-tag {
+  background: rgba(255, 255, 255, 0.15);
+  color: #fff;
+  padding: 6px 10px;
+  border-radius: 12px;
+  font-size: 0.8rem;
+}
+
 .no-recommendations {
   text-align: center;
   padding: 3rem 2rem;
